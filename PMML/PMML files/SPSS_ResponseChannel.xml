@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<PMML version="4.0" xmlns="http://www.dmg.org/PMML-4_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header copyright="(C) Copyright IBM Corp. 1994, 2014">
+    <Application name="IBM SPSS Modeler" version="17"/>
+</Header>
+  <DataDictionary numberOfFields="16">
+    <DataField dataType="string" name="Affinity" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Value property="valid" value="Home goods"/>
+      <Value property="valid" value="Mens Career"/>
+      <Value property="valid" value="Mens Casual"/>
+      <Value property="valid" value="Mens Sportswear"/>
+      <Value property="valid" value="Womens Career"/>
+      <Value property="valid" value="Womens Shoes"/>
+      <Value property="valid" value="Womens Sportwear"/>
+</DataField>
+    <DataField dataType="double" name="Annual Spend" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="string" name="Loyalty Program Member" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="YES"/>
+      <Value property="valid" value="NO"/>
+      <Value property="valid" value="YES"/>
+</DataField>
+    <DataField dataType="string" name="Home Closeout" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Johnston and Murphy" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Lancome Gift with Purchase" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Shoe and Handbag sale" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Save 20% Career Suits" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Anastasia Beverly Hills" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Discount of Womens Active Shoes" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Save 10% with store pickup" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Womens Sweather Sale" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Free shipping on orders over $49" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Gender" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="M"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="M"/>
+</DataField>
+    <DataField dataType="string" name="Dress sale - 30 percent off" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Extension extender="spss" name="flagTypeTrueValue" value="T"/>
+      <Value property="valid" value="F"/>
+      <Value property="valid" value="T"/>
+</DataField>
+    <DataField dataType="string" name="Response Channel" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Value property="valid" value="Direct Mail"/>
+      <Value property="valid" value="Email"/>
+      <Value property="valid" value="Mobile"/>
+</DataField>
+</DataDictionary>
+  <RuleSetModel algorithmName="RuleSet" functionName="classification" modelName="Response Channel">
+    <MiningSchema>
+      <MiningField importance="0.067181" name="Affinity" usageType="active"/>
+      <MiningField importance="0.0642389" name="Annual Spend" usageType="active"/>
+      <MiningField importance="0.0658699" name="Loyalty Program Member" usageType="active"/>
+      <MiningField importance="0.0650847" name="Home Closeout" usageType="active"/>
+      <MiningField importance="0.065793" name="Johnston and Murphy" usageType="active"/>
+      <MiningField importance="0.0676448" name="Lancome Gift with Purchase" usageType="active"/>
+      <MiningField importance="0.0790199" name="Shoe and Handbag sale" usageType="active"/>
+      <MiningField importance="0.0633753" name="Save 20% Career Suits" usageType="active"/>
+      <MiningField importance="0.0634654" name="Anastasia Beverly Hills" usageType="active"/>
+      <MiningField importance="0.0641977" name="Discount of Womens Active Shoes" usageType="active"/>
+      <MiningField importance="0.0643947" name="Save 10% with store pickup" usageType="active"/>
+      <MiningField importance="0.0652164" name="Womens Sweather Sale" usageType="active"/>
+      <MiningField importance="0.0685186" name="Free shipping on orders over $49" usageType="active"/>
+      <MiningField importance="0.071235" name="Gender" usageType="active"/>
+      <MiningField importance="0.0647648" name="Dress sale - 30 percent off" usageType="active"/>
+      <MiningField name="Response Channel" usageType="predicted"/>
+</MiningSchema>
+    <RuleSet defaultConfidence="0.5" defaultScore="Mobile" recordCount="1826.0">
+      <RuleSelectionMethod criterion="weightedSum"/>
+      <SimpleRule confidence="0.875" id="0" nbCorrect="6.0" recordCount="6" score="Direct Mail" weight="0.875">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Home goods"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="F"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="F"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="F"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="170.993"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8571428571428571" id="1" nbCorrect="5.0" recordCount="5" score="Direct Mail" weight="0.8571428571428571">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="2" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Home goods"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="3" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="F"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Home goods"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="4" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="5" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="F"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="6" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="F"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Casual"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="7" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="457.7"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="8" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="9" nbCorrect="3.0" recordCount="3" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="F"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="F"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="F"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="10" nbCorrect="7.0" recordCount="8" score="Direct Mail" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Sportwear"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.75" id="11" nbCorrect="2.0" recordCount="2" score="Direct Mail" weight="0.75">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Sportwear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="T"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.75" id="12" nbCorrect="2.0" recordCount="2" score="Direct Mail" weight="0.75">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Home goods"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.75" id="13" nbCorrect="2.0" recordCount="2" score="Direct Mail" weight="0.75">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="F"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7142857142857143" id="14" nbCorrect="4.0" recordCount="5" score="Direct Mail" weight="0.7142857142857143">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7142857142857143" id="15" nbCorrect="4.0" recordCount="5" score="Direct Mail" weight="0.7142857142857143">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Career"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7142857142857143" id="16" nbCorrect="4.0" recordCount="5" score="Direct Mail" weight="0.7142857142857143">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="F"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Sportswear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="F"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7" id="17" nbCorrect="6.0" recordCount="8" score="Direct Mail" weight="0.7">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Sportswear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="T"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="209.511"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.5555555555555556" id="18" nbCorrect="9.0" recordCount="16" score="Direct Mail" weight="0.5555555555555556">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="F"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="F"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="360.895"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="311.958"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.23825503355704697" id="19" nbCorrect="70.0" recordCount="296" score="Direct Mail" weight="0.23825503355704697">
+        <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+</SimpleRule>
+      <SimpleRule confidence="0.9230769230769231" id="20" nbCorrect="11.0" recordCount="11" score="Email" weight="0.9230769230769231">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Sportwear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="F"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8888888888888888" id="21" nbCorrect="7.0" recordCount="7" score="Email" weight="0.8888888888888888">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Sportswear"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="209.511"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.875" id="22" nbCorrect="6.0" recordCount="6" score="Email" weight="0.875">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Home goods"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="F"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="456.146"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="214.266"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8571428571428571" id="23" nbCorrect="5.0" recordCount="5" score="Email" weight="0.8571428571428571">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Sportwear"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="T"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8571428571428571" id="24" nbCorrect="5.0" recordCount="5" score="Email" weight="0.8571428571428571">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Sportwear"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="216.813"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8571428571428571" id="25" nbCorrect="5.0" recordCount="5" score="Email" weight="0.8571428571428571">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Casual"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8571428571428571" id="26" nbCorrect="5.0" recordCount="5" score="Email" weight="0.8571428571428571">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Casual"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8461538461538461" id="27" nbCorrect="10.0" recordCount="11" score="Email" weight="0.8461538461538461">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="F"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="T"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="172.076"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8333333333333334" id="28" nbCorrect="4.0" recordCount="4" score="Email" weight="0.8333333333333334">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8333333333333334" id="29" nbCorrect="4.0" recordCount="4" score="Email" weight="0.8333333333333334">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="T"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8333333333333334" id="30" nbCorrect="4.0" recordCount="4" score="Email" weight="0.8333333333333334">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Home goods"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8333333333333334" id="31" nbCorrect="4.0" recordCount="4" score="Email" weight="0.8333333333333334">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Sportswear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="32" nbCorrect="3.0" recordCount="3" score="Email" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="T"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="33" nbCorrect="7.0" recordCount="8" score="Email" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="T"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7857142857142857" id="34" nbCorrect="10.0" recordCount="12" score="Email" weight="0.7857142857142857">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="330.971"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7777777777777778" id="35" nbCorrect="6.0" recordCount="7" score="Email" weight="0.7777777777777778">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="T"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7647058823529411" id="36" nbCorrect="12.0" recordCount="15" score="Email" weight="0.7647058823529411">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.75" id="37" nbCorrect="5.0" recordCount="6" score="Email" weight="0.75">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="T"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="T"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7333333333333333" id="38" nbCorrect="10.0" recordCount="13" score="Email" weight="0.7333333333333333">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Sportswear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="209.511"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7222222222222222" id="39" nbCorrect="12.0" recordCount="16" score="Email" weight="0.7222222222222222">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="T"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="382.007"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7" id="40" nbCorrect="13.0" recordCount="18" score="Email" weight="0.7">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Sportwear"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="F"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.4791666666666667" id="41" nbCorrect="45.0" recordCount="94" score="Email" weight="0.4791666666666667">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Career"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.4097222222222222" id="42" nbCorrect="117.0" recordCount="286" score="Email" weight="0.4097222222222222">
+        <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="T"/>
+</SimpleRule>
+      <SimpleRule confidence="0.9285714285714286" id="43" nbCorrect="12.0" recordCount="12" score="Mobile" weight="0.9285714285714286">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Shoes"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="T"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="186.381"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8888888888888888" id="44" nbCorrect="7.0" recordCount="7" score="Mobile" weight="0.8888888888888888">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Sportswear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="greaterThan" value="209.511"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8461538461538461" id="45" nbCorrect="10.0" recordCount="11" score="Mobile" weight="0.8461538461538461">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="F"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="F"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8333333333333334" id="46" nbCorrect="4.0" recordCount="4" score="Mobile" weight="0.8333333333333334">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Johnston and Murphy" operator="equal" value="T"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+          <SimplePredicate field="Free shipping on orders over $49" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8181818181818182" id="47" nbCorrect="8.0" recordCount="9" score="Mobile" weight="0.8181818181818182">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Gender" operator="equal" value="M"/>
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Career"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="NO"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="F"/>
+          <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+          <SimplePredicate field="Annual Spend" operator="lessOrEqual" value="424.343"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7" id="48" nbCorrect="13.0" recordCount="18" score="Mobile" weight="0.7">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Casual"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="T"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.6666666666666666" id="49" nbCorrect="11.0" recordCount="16" score="Mobile" weight="0.6666666666666666">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Mens Sportswear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.6666666666666666" id="50" nbCorrect="11.0" recordCount="16" score="Mobile" weight="0.6666666666666666">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Career"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="T"/>
+          <SimplePredicate field="Lancome Gift with Purchase" operator="equal" value="T"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.6363636363636364" id="51" nbCorrect="20.0" recordCount="31" score="Mobile" weight="0.6363636363636364">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Affinity" operator="equal" value="Womens Sportwear"/>
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Anastasia Beverly Hills" operator="equal" value="F"/>
+          <SimplePredicate field="Save 10% with store pickup" operator="equal" value="F"/>
+          <SimplePredicate field="Save 20% Career Suits" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.6" id="52" nbCorrect="32.0" recordCount="53" score="Mobile" weight="0.6">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Loyalty Program Member" operator="equal" value="YES"/>
+          <SimplePredicate field="Discount of Womens Active Shoes" operator="equal" value="T"/>
+          <SimplePredicate field="Dress sale - 30 percent off" operator="equal" value="F"/>
+          <SimplePredicate field="Home Closeout" operator="equal" value="F"/>
+          <SimplePredicate field="Womens Sweather Sale" operator="equal" value="F"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.435933147632312" id="53" nbCorrect="312.0" recordCount="716" score="Mobile" weight="0.435933147632312">
+        <SimplePredicate field="Shoe and Handbag sale" operator="equal" value="F"/>
+</SimpleRule>
+</RuleSet>
+</RuleSetModel>
+</PMML>
