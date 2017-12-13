@@ -1,7 +1,7 @@
-# Developing Analytics and Machine Learning applications in a Collaborative Environment
+# Lab 1: Developing Analytics and Machine Learning applications in a Collaborative Environment
 
 ## About this lab
-In this lab you will learn how to develop analytics and machine learning applications using different tools in DSX Local: Jupyter, Zeppelin, RStudio, and SPSS Modeler. The lab has been divided into several stand-alone parts for those who are interested in a certain develpment tool. For example, you can chose to complete just a Jupyter lab, or just an SPSS Modeler lab. 
+In this lab you will learn how to develop analytics and machine learning applications using different tools in DSX Local: Jupyter, Zeppelin, RStudio, and SPSS Modeler. The lab has been divided into several stand-alone parts for those who are interested in a certain development tool or a certain deployment task. For example, you can chose to complete just a Jupyter lab, or just an SPSS Modeler lab or just Batch Scoring in DSX lab.  
 
 ## About this repository
 This repository contains several lab subfolders. Some labs include just notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
@@ -34,7 +34,22 @@ This repository contains several lab subfolders. Some labs include just notebook
 3. Follow instructions in the notebook
 
 ## Lab 4: R models in Jupyter and Shiny
-1. Follow insturctions in the **R and Shiny Lab.pdf** in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **R and Shiny Lab.pdf** in the **Lab Instructions** folder of the unzipped repository. 
 
 ## Lab 5: SPSS Modeler in DSX
-1. Follow insturctions in the **SPSS Modeler in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **SPSS Modeler in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+
+## Lab 6: Batch Scoring in DSX
+1. Follow instructions in the **Batch Scoring in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+
+## Lab 7: PMML in DSX
+1. Follow instructions in the **PMML in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+
+## Lab 8: Model Evaluation in DSX
+1. Follow instructions in the **Model Evaluation in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+
+## Lab 9: Data Access in DSX (databases and Hadoop)
+1. Follow instructions in the **Data Access in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+
+## Lab 10: Remote Spark Execution
+1. Follow instructions in the **Remote Spark Execution.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
