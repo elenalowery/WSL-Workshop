@@ -1,13 +1,11 @@
-# Lab 1: Developing Analytics and Machine Learning applications in a Collaborative Environment
-
-## About this lab
-In this lab you will learn how to develop analytics and machine learning applications using different tools in DSX Local: Jupyter, Zeppelin, RStudio, and SPSS Modeler. The lab has been divided into several stand-alone parts for those who are interested in a certain development tool or a certain deployment task. For example, you can chose to complete just a Jupyter lab, or just an SPSS Modeler lab or just Batch Scoring in DSX lab.  
+# DSX Local Workshop
+In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a certain development tool or a certain deployment task. For example, you can complete just a Jupyter lab, or an SPSS Modeler lab, or a Batch Scoring in DSX lab.  
 
 ## About this repository
-This repository contains several lab subfolders. Some labs include just notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
+This repository contains several lab subfolders. Some labs include notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
 
 ## Prerequisites
-1. To run this lab, you need an instance of DSX Local. **Please note that while most code is the same between DSX Local and DSX Cloud, the notebooks included in this project will work in DSX Local only**
+1. To run this workshop you need an instance of DSX Local. **Please note that while most code is the same between DSX Local and DSX Cloud, the notebooks included in this project will work in DSX Local only**
 2. Download and unzip this [this repository](https://codeload.github.com/elenalowery/DSX_Local_Workshop/zip/master). Unzip the repository only, not files in subfolders. 
 
 ### Setting up lab projects in DSX Local
