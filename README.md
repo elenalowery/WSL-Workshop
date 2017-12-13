@@ -1,25 +1,40 @@
-# DSX Local Hands-on Labs
+# Developing Analytics and Machine Learning applications in a Collaborative Environment
+
+## About this lab
+In this lab you will learn how to develop analytics and machine learning applications using different tools in DSX Local: Jupyter, Zeppelin, RStudio, and SPSS Modeler. The lab has been divided into several stand-alone parts for those who are interested in a certain develpment tool. For example, you can chose to complete just a Jupyter lab, or just an SPSS Modeler lab. 
 
 ## About this repository
-This repository contains several hands-on labs for DSX Local. Some labs include just notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder.
+This repository contains several lab subfolders. Some labs include just notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
 
-## Lab 1: Introduction to analytics and machine learning in DSX
-To run this lab, you will need to load **DSX_Local_Workshop.zip** file from the **DSX Local Projects** folder. The zip file  contains DSX Local sample notebooks and data. 
+## Prerequisites
+1. To run this lab, you need an instance of DSX Local. **Please note that while most code is the same between DSX Local and DSX Cloud, the notebooks included in this project will work in DSX Local only**
+2. Download and unzip this [this repository](https://codeload.github.com/elenalowery/DSX_Local_Workshop/zip/master). Unzip the repository only, not files in subfolders. 
 
-### Setting up projects in DSX Local
-1. Download [this repository](https://codeload.github.com/elenalowery/DSX_Local_Workshop/zip/master). Unzip the repository, but not files in the *DSX Local Projects* folder. 
-2. Rename **DSX_Local_Workshop.zip** to a unique name, for example, add your initials. 
-   *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name* 
-3. Log in to DSX Local
-4. Select "Create New Project" and select "From File"
-5. Browse to the .zip file
-6. After the project has been imported, follow instructions in the notebooks.
-
+### Setting up lab projects in DSX Local
+1. Rename **DSX_Local_Workshop.zip** located in **DSX_Local_Projects** folder of the unzipped repository to a unique name, for example, add your initials.    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name* 
+2. Log in to DSX Local
+3. Select "Create New Project" and select "From File"
+4. Browse to the .zip file
+5. After the project has been imported, follow instructions in the notebooks.
 ![ProjectFromFile](/img/CreateProjectFromFile.JPG?raw=true)
 
-## Lab 2: SPSS Modeler in DSX
-To run this lab, follow instructions in the [SPSS Modeler/Lab Instructions](https://github.com/elenalowery/DSX_Local_Workshop/tree/master/SPSS%20Modeler/Lab%20Instructions) folder.
+## Lab 1: SparkML models in Jupyter (Python)
+1. Open the project you just created. 
+2. Navigate to **Assets** view and open **TelcoChurn** *Jupyter* notebook
+3. Follow instructions in the notebook
 
-## Lab 3: PMML in DSX
-To run this lab, follow instructions in the [PMML/Lab Instructions](https://github.com/elenalowery/DSX_Local_Workshop/tree/master/PMML/Lab%20Instructions) folder.
+## Lab 2: Scikit-learn and SparkML models in Jupyter (Python)
+1. Open the project you just created. 
+2. Navigate to **Assets** view and open **CreditCardDefault** notebook
+3. Follow instructions in the notebook
 
+## Lab 3: SparkML models in Jupyter (Python)
+1. Open the project you just created. 
+2. Navigate to **Assets** view and open **TelcoChurn** *Zeppelin* notebook
+3. Follow instructions in the notebook
+
+## Lab 4: R models in Jupyter and Shiny
+1. Follow insturctions in the **R and Shiny Lab.pdf** in the **Lab Instructions** folder of the unzipped repository. 
+
+## Lab 5: SPSS Modeler in DSX
+1. Follow insturctions in the **SPSS Modeler in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
