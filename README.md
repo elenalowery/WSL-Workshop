@@ -20,6 +20,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn** *Jupyter* notebook
 3. Follow instructions in the notebook
+4. **TODO: Add model builder**
 
 ## Lab 2: Scikit-learn and SparkML models in Jupyter (Python)
 1. Open the project you just created. 
