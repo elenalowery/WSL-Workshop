@@ -33,7 +33,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Navigate to **Assets** view and open **TelcoChurn** *Zeppelin* notebook
 3. Follow instructions in the notebook
 
-### Use Case 4: Data Science for the automotive industry (R models in Jupyter and Shiny)
+### Use Case 4: Data science for the automotive industry (R models in Jupyter and Shiny)
 1. Follow instructions in the **R and Shiny Lab.pdf** in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 5: Improve customer retention and fraud prevention (SPSS Modeler in DSX)
