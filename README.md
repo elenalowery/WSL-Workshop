@@ -17,39 +17,39 @@ This repository contains several lab subfolders. Some labs include notebooks and
 5. After the project has been imported, follow instructions in the notebooks.
 ![ProjectFromFile](/img/CreateProjectFromFile.JPG?raw=true)
 
-## Lab 1: Improve customer retention (SparkML models in Jupyter/Python)
+## Use Case 1: Improve customer retention (SparkML models in Jupyter/Python)
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn** *Jupyter* notebook
 3. Follow instructions in the notebook
 4. **TODO: Add model builder**
 
-## Lab 2: Improve operational efficiency (Scikit-learn and SparkML models in Jupyter/Python)
+## Use Case 2: Improve operational efficiency (Scikit-learn and SparkML models in Jupyter/Python)
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **CreditCardDefault** notebook
 3. Follow instructions in the notebook
 
-## Lab 3: Improve customer retention (SparkML models in Zeppelin/Python)
+## Use Case 3: Improve customer retention (SparkML models in Zeppelin/Python)
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn** *Zeppelin* notebook
 3. Follow instructions in the notebook
 
-## Lab 4: Data Science for the Automotive Industry (R models in Jupyter and Shiny)
+## Use Case 4: Data Science for the automotive industry (R models in Jupyter and Shiny)
 1. Follow instructions in the **R and Shiny Lab.pdf** in the **Lab Instructions** folder of the unzipped repository. 
 
-## Lab 5: Improve customer retention/Fraud Prevention (SPSS Modeler in DSX)
+## Use Case 5: Improve customer retention and fraud prevention (SPSS Modeler in DSX)
 1. Follow instructions in the **SPSS Modeler in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-## Lab 6: Batch deployment of analytics (Batch Scoring in DSX)
+## Use Case 6: Batch deployment of analytics (Batch Scoring in DSX)
 1. Follow instructions in the **Batch Scoring in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-## Lab 7: DSX - a deployment platform for different types of models (PMML in DSX)
+## Use Case 7: DSX - a deployment platform for different types of models (PMML in DSX)
 1. Follow instructions in the **PMML in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-## Lab 8: DSX - a platform that supports analytics application lifecycle (Model Evaluation in DSX)
+## Use Case 8: DSX - a platform that supports analytics application lifecycle (Model Evaluation in DSX)
 1. Follow instructions in the **Model Evaluation in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-## Lab 9: Data Access in DSX (databases and Hadoop)
+## Use Case 9: Data Access in DSX (databases and Hadoop)
 1. Follow instructions in the **Data Access in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-## Lab 10: Remote Spark Execution
+## Use Case 10: Remote Spark Execution
 1. Follow instructions in the **Remote Spark Execution.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
