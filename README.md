@@ -30,7 +30,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ### Use Case 3: Improve customer retention (SparkML models in Zeppelin/Python)
 1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn** *Zeppelin* notebook
+2. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook
 3. Follow instructions in the notebook
 
 ### Use Case 4: Data science for the automotive industry (R models in Jupyter and Shiny)
