@@ -6,7 +6,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ## Prerequisites
 1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in DSX. 
-2. To run this workshop you need an instance of DSX Local. **Please note that while most code is the same between DSX Local and DSX Cloud, the notebooks included in this project will work in DSX Local only**
+2. To run this workshop you need an instance of DSX Local. **Please note that while most code is the same between DSX Local and DSX Cloud, the notebooks included in sample projects will work in DSX Local only**
 3. Download and unzip this [this repository](https://codeload.github.com/elenalowery/DSX_Local_Workshop/zip/master). Unzip the repository only, not files in subfolders. 
 
 ### Setting up lab projects in DSX Local
@@ -21,7 +21,6 @@ This repository contains several lab subfolders. Some labs include notebooks and
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn** *Jupyter* notebook. Make sure to click *Default* when you open the notebook - this will open the notebook with the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
-4. **TODO: Add model builder**
 
 ### Use Case 2: Improve operational efficiency (Scikit-learn and SparkML models in Jupyter/Python)
 1. Open the project you just created. 
