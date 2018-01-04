@@ -33,22 +33,22 @@ This repository contains several lab subfolders. Some labs include notebooks and
 3. Follow instructions in the notebook.
 
 ### Use Case 4: Data science for the automotive industry (R models in Jupyter and Shiny)
-1. Follow instructions in the **R and Shiny Lab.pdf** in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **R_in_DSX.pdf** in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 5: Improve customer retention and fraud prevention (SPSS Modeler in DSX)
-1. Follow instructions in the **SPSS Modeler in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **SPSS_Modeler_in_DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 6: Batch deployment of analytics (Batch Scoring in DSX)
-1. Follow instructions in the **Batch Scoring in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **DSX_Batch_Scoring.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 7: DSX - a deployment platform for different types of models (PMML in DSX)
-1. Follow instructions in the **PMML in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **DSX_PMML_Lab.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 8: DSX - a platform that supports analytics application lifecycle (Model Evaluation in DSX)
-1. Follow instructions in the **Model Evaluation in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **DSX_Model_Evaluation.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 9: Data Access in DSX (databases and Hadoop)
-1. Follow instructions in the **Data Access in DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **DSX_Data_Access.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 10: Remote Spark Execution
 1. Follow instructions in the **Remote Spark Execution.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
