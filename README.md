@@ -44,7 +44,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 1. Follow instructions in the **DSX_PMML_Lab.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 8: DSX - a platform that supports analytics application lifecycle (Model Evaluation in DSX)
-1. Follow instructions in the **DSX_Model_Evaluation.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
+1. Follow instructions in the **DSX_Evaluation_in_DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
 ### Use Case 9: Data Access in DSX (databases and Hadoop)
 1. Follow instructions in the **DSX_Data_Access.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
