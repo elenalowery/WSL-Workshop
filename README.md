@@ -18,7 +18,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ### Use Case 1: Improve customer retention (SparkML models in Jupyter/Python)
 1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. Make sure to click *Default* when you open the notebook - this will open the notebook with the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
+2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
 ### Use Case 2: Improve operational efficiency (Scikit-learn and SparkML models in Jupyter/Python)
