@@ -46,8 +46,12 @@ This repository contains several lab subfolders. Some labs include notebooks and
 ### Use Case 8: DSX - a platform that supports analytics application lifecycle (Model Evaluation in DSX)
 1. Follow instructions in the **DSX_Evaluation_in_DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-### Use Case 9: Data Access in DSX (databases and Hadoop)
+### Use Case 9: Data access in DSX (databases and Hadoop)
 1. Follow instructions in the **DSX_Data_Access.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
 
-### Use Case 10: Remote Spark Execution
+### Use Case 10: Deep learning in DSX
+1. Create a project from **DSX_Deep_Learning.zip** located in the **DSX_Local_Projects** folder (make sure to rename the project before you create a project from file).
+2. Work through sample notebooks. 
+
+### Use Case 11: Remote Spark Execution
 1. Follow instructions in the **Remote Spark Execution.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
