@@ -20,6 +20,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 1. Open the project you just created. 
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
+4. If you would like to see an example of invoking a published model with a REST client, import the **TelcoChurn_Invoke_Deployed_Model.jupyter.ipynb** notebook into your project and follow instructions in the notebook. 
 
 ### Use Case 2: Improve operational efficiency (Scikit-learn and SparkML models in Jupyter/Python)
 1. Open the project you just created. 
