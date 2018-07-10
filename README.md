@@ -15,37 +15,3 @@ This repository contains several lab subfolders. Some labs include notebooks and
 3. Select "Create New Project" and select "From File".
 4. Browse to the .zip file and click **Create**.
 ![ProjectFromFile](/img/CreateProjectFromFile.JPG?raw=true).
-
-### Use Case 1: Improve customer retention (SparkML models in Jupyter/Python)
-1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
-3. Follow instructions in the notebook.
-4. If you would like to see an example of invoking a published model with a REST client, import the **TelcoChurn_Invoke_Deployed_Model.jupyter.ipynb** notebook into your project and follow instructions in the notebook. 
-
-### Use Case 2: Improve operational efficiency (Scikit-learn and SparkML models in Jupyter/Python)
-1. Open the project you just created. 
-2. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook. If you want to stay with the telco churn example, you can work through the **TelcoChurn_SkLearn** notebook. 
-3. Follow instructions in the notebook.
-
-### Use Case 3: Improve customer retention (SparkML models in Zeppelin/Python)
-1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.
-3. Follow instructions in the notebook.
-
-### Use Case 4: Data science for the automotive industry (R models in Jupyter and Shiny)
-1. Follow instructions in the **R_in_DSX.pdf** in the **Lab Instructions** folder of the unzipped repository. 
-
-### Use Case 5: Improve customer retention and fraud prevention (SPSS Modeler in DSX)
-1. Follow instructions in the **SPSS_Modeler_in_DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
-
-### Use Case 6: Batch deployment of analytics (Batch Scoring in DSX)
-1. Follow instructions in the **DSX_Batch_Scoring.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
-
-### Use Case 7: DSX - a deployment platform for different types of models (PMML in DSX)
-1. Follow instructions in the **DSX_PMML_Lab.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
-
-### Use Case 8: DSX - a platform that supports analytics application lifecycle (Model Evaluation in DSX)
-1. Follow instructions in the **DSX_Evaluation_in_DSX.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
-
-### Use Case 9: Data access in DSX
-1. Follow instructions in the **DSX_Data_Access.pdf** document in the **Lab Instructions** folder of the unzipped repository. 
