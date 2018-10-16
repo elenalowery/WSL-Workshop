@@ -1,3 +1,14 @@
+jdbcurl: jdbc:db2://dashdb-entry-yp-dal09-09.services.dal.bluemix.net:50000/BLUDB
+
+userid: dash9737
+
+password: gDO~np@2IKj4
+
+schema: dash9737
+
+
+
+
 # DSX Local Workshop (for version 1.2)
 In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a certain development tool or a certain deployment task. 
 
