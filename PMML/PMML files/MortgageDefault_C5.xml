@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><PMML version="3.2" xmlns="http://www.dmg.org/PMML-3_2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Header copyright="Copyright (c) Integral Solutions Ltd., 1994 - 2009. All rights reserved.">
+    <Application name="PASW Modeler" version="13"/>
+</Header>
+  <DataDictionary numberOfFields="11">
+    <DataField dataType="string" name="Residence" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Value property="valid" value="Living with parents/guardian"/>
+      <Value property="valid" value="Owner Occupier"/>
+      <Value property="valid" value="Private Renting"/>
+      <Value property="valid" value="Public Housing"/>
+      <Value property="valid" value="Sheltered"/>
+</DataField>
+    <DataField dataType="integer" name="Yrs at Current Address" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="integer" name="Yrs with Current Employer" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="double" name="Number of Cards" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="integer" name="Location" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="integer" name="Income" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="string" name="AppliedOnline" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Value property="valid" value="NO"/>
+      <Value property="valid" value="YES"/>
+</DataField>
+    <DataField dataType="double" name="Loans" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="double" name="Loan Amount" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="integer" name="SalePrice" optype="continuous">
+      <Extension extender="spss" name="storageType" value="numeric"/>
+</DataField>
+    <DataField dataType="string" name="MortgageDefault" optype="categorical">
+      <Extension extender="spss" name="storageType" value="string"/>
+      <Value property="valid" value="NO"/>
+      <Value property="valid" value="YES"/>
+</DataField>
+</DataDictionary>
+  <RuleSetModel algorithmName="RuleSet" functionName="classification" modelName="MortgageDefault">
+    <MiningSchema>
+      <MiningField importance="0.103362" name="Residence" usageType="active"/>
+      <MiningField importance="0.0935055" name="Yrs at Current Address" usageType="active"/>
+      <MiningField importance="0.0946798" name="Yrs with Current Employer" usageType="active"/>
+      <MiningField importance="0.0867384" name="Number of Cards" usageType="active"/>
+      <MiningField importance="0.112494" name="Location" usageType="active"/>
+      <MiningField importance="0.0953978" name="Income" usageType="active"/>
+      <MiningField importance="0.0974563" name="AppliedOnline" usageType="active"/>
+      <MiningField importance="0.111113" name="Loans" usageType="active"/>
+      <MiningField importance="0.102605" name="Loan Amount" usageType="active"/>
+      <MiningField importance="0.102649" name="SalePrice" usageType="active"/>
+      <MiningField name="MortgageDefault" usageType="predicted"/>
+</MiningSchema>
+    <RuleSet defaultConfidence="0.5" defaultScore="NO" recordCount="549.0">
+      <RuleSelectionMethod criterion="weightedSum"/>
+      <SimpleRule confidence="0.9" id="0" nbCorrect="8.0" recordCount="8" score="YES" weight="0.9">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Residence" operator="equal" value="Public Housing"/>
+          <SimplePredicate field="Yrs with Current Employer" operator="lessOrEqual" value="11"/>
+          <SimplePredicate field="Location" operator="lessOrEqual" value="111"/>
+          <SimplePredicate field="Number of Cards" operator="lessOrEqual" value="1"/>
+          <SimplePredicate field="Yrs at Current Address" operator="lessOrEqual" value="25"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.875" id="1" nbCorrect="6.0" recordCount="6" score="YES" weight="0.875">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="AppliedOnline" operator="equal" value="YES"/>
+          <SimplePredicate field="Residence" operator="equal" value="Private Renting"/>
+          <SimplePredicate field="Income" operator="lessOrEqual" value="47623"/>
+          <SimplePredicate field="Loans" operator="lessOrEqual" value="0"/>
+          <SimplePredicate field="Loan Amount" operator="lessOrEqual" value="8560"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.875" id="2" nbCorrect="13.0" recordCount="14" score="YES" weight="0.875">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Residence" operator="equal" value="Owner Occupier"/>
+          <SimplePredicate field="Income" operator="greaterThan" value="43677"/>
+          <SimplePredicate field="Loans" operator="greaterThan" value="0"/>
+          <SimplePredicate field="SalePrice" operator="greaterThan" value="137000"/>
+          <SimplePredicate field="Location" operator="lessOrEqual" value="100"/>
+          <SimplePredicate field="Number of Cards" operator="lessOrEqual" value="1"/>
+          <SimplePredicate field="Yrs at Current Address" operator="lessOrEqual" value="25"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.875" id="3" nbCorrect="6.0" recordCount="6" score="YES" weight="0.875">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="AppliedOnline" operator="equal" value="YES"/>
+          <SimplePredicate field="Residence" operator="equal" value="Private Renting"/>
+          <SimplePredicate field="Loans" operator="greaterThan" value="0"/>
+          <SimplePredicate field="Location" operator="lessOrEqual" value="111"/>
+          <SimplePredicate field="Location" operator="greaterThan" value="101"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8571428571428571" id="4" nbCorrect="5.0" recordCount="5" score="YES" weight="0.8571428571428571">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Residence" operator="equal" value="Owner Occupier"/>
+          <SimplePredicate field="Income" operator="greaterThan" value="48931"/>
+          <SimplePredicate field="Loans" operator="lessOrEqual" value="0"/>
+          <SimplePredicate field="Loan Amount" operator="greaterThan" value="10275"/>
+          <SimplePredicate field="Number of Cards" operator="greaterThan" value="1"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8571428571428571" id="5" nbCorrect="5.0" recordCount="5" score="YES" weight="0.8571428571428571">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Residence" operator="equal" value="Public Housing"/>
+          <SimplePredicate field="Loans" operator="lessOrEqual" value="0"/>
+          <SimplePredicate field="SalePrice" operator="lessOrEqual" value="185000"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8" id="6" nbCorrect="7.0" recordCount="8" score="YES" weight="0.8">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="AppliedOnline" operator="equal" value="YES"/>
+          <SimplePredicate field="Residence" operator="equal" value="Owner Occupier"/>
+          <SimplePredicate field="Income" operator="greaterThan" value="48931"/>
+          <SimplePredicate field="Loans" operator="lessOrEqual" value="0"/>
+          <SimplePredicate field="Number of Cards" operator="lessOrEqual" value="1"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7777777777777778" id="7" nbCorrect="13.0" recordCount="16" score="YES" weight="0.7777777777777778">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Residence" operator="equal" value="Owner Occupier"/>
+          <SimplePredicate field="Loans" operator="greaterThan" value="0"/>
+          <SimplePredicate field="Loan Amount" operator="lessOrEqual" value="9645"/>
+          <SimplePredicate field="SalePrice" operator="lessOrEqual" value="325000"/>
+          <SimplePredicate field="Location" operator="greaterThan" value="100"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.7647058823529411" id="8" nbCorrect="12.0" recordCount="15" score="YES" weight="0.7647058823529411">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="AppliedOnline" operator="equal" value="NO"/>
+          <SimplePredicate field="Residence" operator="equal" value="Owner Occupier"/>
+          <SimplePredicate field="Income" operator="lessOrEqual" value="48931"/>
+          <SimplePredicate field="Loan Amount" operator="lessOrEqual" value="9020"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.6857142857142857" id="9" nbCorrect="23.0" recordCount="33" score="YES" weight="0.6857142857142857">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Residence" operator="equal" value="Owner Occupier"/>
+          <SimplePredicate field="Yrs with Current Employer" operator="lessOrEqual" value="22"/>
+          <SimplePredicate field="Loans" operator="greaterThan" value="0"/>
+          <SimplePredicate field="Number of Cards" operator="greaterThan" value="1"/>
+          <SimplePredicate field="Yrs at Current Address" operator="lessOrEqual" value="25"/>
+          <SimplePredicate field="Yrs at Current Address" operator="greaterThan" value="3"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.4967741935483871" id="10" nbCorrect="76.0" recordCount="153" score="YES" weight="0.4967741935483871">
+        <SimplePredicate field="Loans" operator="greaterThan" value="0"/>
+</SimpleRule>
+      <SimpleRule confidence="0.9285714285714286" id="11" nbCorrect="12.0" recordCount="12" score="NO" weight="0.9285714285714286">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="SalePrice" operator="lessOrEqual" value="137000"/>
+          <SimplePredicate field="Location" operator="lessOrEqual" value="100"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.9090909090909091" id="12" nbCorrect="9.0" recordCount="9" score="NO" weight="0.9090909090909091">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="AppliedOnline" operator="equal" value="YES"/>
+          <SimplePredicate field="Residence" operator="equal" value="Private Renting"/>
+          <SimplePredicate field="Loans" operator="lessOrEqual" value="0"/>
+          <SimplePredicate field="Loan Amount" operator="greaterThan" value="8560"/>
+          <SimplePredicate field="Yrs at Current Address" operator="greaterThan" value="4"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.9" id="13" nbCorrect="8.0" recordCount="8" score="NO" weight="0.9">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="AppliedOnline" operator="equal" value="YES"/>
+          <SimplePredicate field="Residence" operator="equal" value="Owner Occupier"/>
+          <SimplePredicate field="Income" operator="lessOrEqual" value="48931"/>
+          <SimplePredicate field="Loans" operator="lessOrEqual" value="0"/>
+          <SimplePredicate field="Location" operator="greaterThan" value="101"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.875" id="14" nbCorrect="6.0" recordCount="6" score="NO" weight="0.875">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="AppliedOnline" operator="equal" value="NO"/>
+          <SimplePredicate field="Residence" operator="equal" value="Private Renting"/>
+          <SimplePredicate field="Loans" operator="lessOrEqual" value="0"/>
+          <SimplePredicate field="Location" operator="greaterThan" value="101"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.8461538461538461" id="15" nbCorrect="10.0" recordCount="11" score="NO" weight="0.8461538461538461">
+        <CompoundPredicate booleanOperator="and">
+          <SimplePredicate field="Loan Amount" operator="lessOrEqual" value="10605"/>
+          <SimplePredicate field="Loan Amount" operator="greaterThan" value="9310"/>
+          <SimplePredicate field="Location" operator="greaterThan" value="111"/>
+</CompoundPredicate>
+</SimpleRule>
+      <SimpleRule confidence="0.5805084745762712" id="16" nbCorrect="136.0" recordCount="234" score="NO" weight="0.5805084745762712">
+        <SimplePredicate field="Location" operator="lessOrEqual" value="111"/>
+</SimpleRule>
+</RuleSet>
+</RuleSetModel>
+</PMML>
