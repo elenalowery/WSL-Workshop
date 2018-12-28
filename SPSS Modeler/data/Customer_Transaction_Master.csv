@@ -1,0 +1,1230 @@
+CUST_ID,TRANSACTION_ID,PRODUCT_ID,ITEM_NAME,LINE,CATEGORY,NUMBER_OF_ITEMS,RRP,TOTAL_AMOUNT,TRANSACTION_TIME
+487,30044,3177,Anastasia Beverly Hills Dress,Clothes,Clothes,1,639.99,639.99,11/1/2010
+626,1766,3178,Guess Fit and Flair Dress,Clothes,Clothes,1,539.99,539.99,11/1/2010
+719,30033,3179,Bar III Cropped Jacket,Clothes,Clothes,1,299.99,299.99,11/1/2010
+113,1222,3180,Anne Klein Fayza Dress Shoes,Clothes,Clothes,1,779.99,779.99,11/1/2010
+118,12986,3181,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,399.99,399.99,11/1/2010
+636,25615,3182,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,399.99,399.99,11/1/2010
+714,28572,3183,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,449.99,449.99,11/1/2010
+642,22265,3184,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,999.99,999.99,11/1/2010
+458,19729,3185,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,639.99,639.99,11/1/2010
+20,22863,3186,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,3,239.99,719.97,11/1/2010
+499,41256,3187,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,584.99,584.99,11/1/2010
+427,11513,3188,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,2,509.99,1019.98,11/1/2010
+439,5073,3191,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,3,149.99,449.97,11/1/2010
+849,19790,3192,Nike Women's Black Leggings,Clothes,Clothes,2,499.99,999.98,11/1/2010
+178,27175,3193,Nike Women's Blue Leggings,Clothes,Clothes,1,1099.99,1099.99,11/1/2010
+812,42175,3194,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,449.99,449.99,11/1/2010
+429,10690,3195,Nike Women's Flash Running Tights,Clothes,Clothes,1,479.99,479.99,11/1/2010
+172,40124,3196,Elie Tahari One Button Jacket,Clothes,Clothes,1,149.99,149.99,11/1/2010
+458,22671,3197,Elie Tahari Eggplant Career Suit,Clothes,Clothes,2,449.99,899.98,11/1/2010
+622,10017,3198,Elie Tahari Black Career Suit,Clothes,Clothes,1,299.99,299.99,11/1/2010
+850,25661,3199,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,899.99,899.99,11/1/2010
+769,31315,3200,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,539.99,539.99,11/1/2010
+710,8506,3201,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,2,699.99,1399.98,11/1/2010
+603,14596,3202,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,499.99,499.99,11/1/2010
+983,37625,3203,Elie Tahari White Career Blouse,Clothes,Clothes,2,449.99,899.98,11/1/2010
+742,2279,3204,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,779.99,779.99,11/1/2010
+126,9897,3205,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,239.99,239.99,11/1/2010
+409,17577,3206,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,999.99,999.99,11/1/2010
+724,25047,3209,Nike  Women's Air Max,Clothes,Clothes,1,179.99,179.99,11/1/2010
+607,11942,3210,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,999.99,999.99,11/1/2010
+459,14545,3211,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,499.99,499.99,11/1/2010
+707,21972,3212,Nike Women Free Running Sneakers,Clothes,Clothes,1,319.99,319.99,11/1/2010
+766,30088,3213,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,599.99,599.99,11/1/2010
+577,13564,3214,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,2,314.99,629.98,11/1/2010
+419,24507,6177,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,179.99,179.99,11/1/2010
+490,727,6178,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,599.99,599.99,11/1/2010
+952,33379,6179,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,1299.99,1299.99,11/1/2010
+687,15492,6180,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,399.99,399.99,11/1/2010
+891,23109,6181,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,449.99,449.99,11/1/2010
+415,8006,6182,Guess Women's Wrap Coat,Clothes,Clothes,1,1299.99,1299.99,11/1/2010
+604,32459,6183,Guess Women's Quilted Jacket,Clothes,Clothes,1,599.99,599.99,11/1/2010
+89,25954,6184,Guess Women's Moto Jacket,Clothes,Clothes,1,599.99,599.99,11/1/2010
+846,29680,6185,Guess Women's Jean Jacket,Clothes,Clothes,1,299.99,299.99,11/1/2010
+477,29346,6186,Guess Women's Skinny Jeans,Clothes,Clothes,2,299.99,599.98,11/1/2010
+419,31585,6187,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,299.99,299.99,11/1/2010
+870,12194,6188,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,299.99,299.99,11/1/2010
+559,11482,6191,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,2,399.99,799.98,11/1/2010
+514,12168,6192,Tommy Arianna Tote,Clothes,Clothes,1,399.99,399.99,11/1/2010
+837,26589,6193,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,239.99,239.99,11/1/2010
+862,39607,6194,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,299.99,299.99,11/2/2010
+799,3387,6195,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,584.99,584.99,11/2/2010
+562,3598,6196,Elie Tahari Emory Dress,Clothes,Clothes,1,149.99,149.99,11/2/2010
+609,15770,6197,Elie Tahari Ophelia Dress,Clothes,Clothes,1,699.99,699.99,11/2/2010
+453,32584,6198,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,429.99,429.99,11/2/2010
+860,24395,6199,Adidas Black Running Tights,Clothes,Clothes,2,149.99,299.98,11/2/2010
+897,40710,6200,Adidas Originals Black Hoodie,Clothes,Clothes,1,1199.99,1199.99,11/2/2010
+421,17090,6201,Adidas Originals Grey Hoodie,Clothes,Clothes,1,449.99,449.99,11/2/2010
+773,33443,6202,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,149.99,149.99,11/2/2010
+959,27955,6203,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,199.99,199.99,11/2/2010
+480,10844,6204,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,134.99,134.99,11/2/2010
+835,27298,6205,Adidas Originals Grey Running Tights,Clothes,Clothes,1,599.99,599.99,11/2/2010
+922,34917,6206,Adidas Training Pant - Black,Clothes,Clothes,1,1199.99,1199.99,11/2/2010
+296,28426,6209,Adidas Training Pant - White,Clothes,Clothes,1,599.99,599.99,11/2/2010
+183,28033,6210,Adidas Classic 3-stripe pant,Clothes,Clothes,1,699.99,699.99,11/2/2010
+933,11569,6211,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,299.99,299.99,11/2/2010
+139,42882,6212,Elie Tahari Lace Dress,Clothes,Clothes,1,699.99,699.99,11/2/2010
+84,25210,6213,Adidas Training Pant - Black,Clothes,Clothes,2,319.99,639.98,11/2/2010
+291,21918,6214,Adidas Originals Grey Running Tights,Clothes,Clothes,2,229.99,459.98,11/2/2010
+886,2460,3177,Anastasia Beverly Hills Dress,Clothes,Clothes,1,649.99,649.99,11/2/2010
+452,37959,3178,Guess Fit and Flair Dress,Clothes,Clothes,2,449.99,899.98,11/2/2010
+427,20143,3179,Bar III Cropped Jacket,Clothes,Clothes,2,899.99,1799.98,11/2/2010
+532,24457,3180,Anne Klein Fayza Dress Shoes,Clothes,Clothes,2,599.99,1199.98,11/2/2010
+540,357,3181,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,599.99,599.99,11/2/2010
+746,6241,3182,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,429.99,429.99,11/2/2010
+49,40597,3183,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,278.99,278.99,11/2/2010
+738,28857,3184,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,399.99,399.99,11/2/2010
+19,29069,3185,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,999.99,999.99,11/2/2010
+694,10956,3186,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,199.99,199.99,11/2/2010
+490,4456,3187,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,899.99,899.99,11/2/2010
+311,29850,3188,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,2,249.99,499.98,11/2/2010
+436,1120,3191,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,999.99,999.99,11/2/2010
+801,42841,3192,Nike Women's Black Leggings,Clothes,Clothes,2,229.99,459.98,11/2/2010
+15,11419,3193,Nike Women's Blue Leggings,Clothes,Clothes,1,1199.99,1199.99,11/2/2010
+1,27360,3194,Nike Women's Miulticolor Leggings,Clothes,Clothes,2,429.99,859.98,11/2/2010
+431,19457,3195,Nike Women's Flash Running Tights,Clothes,Clothes,1,499.99,499.99,11/2/2010
+786,9704,3196,Elie Tahari One Button Jacket,Clothes,Clothes,1,399.99,399.99,11/2/2010
+187,39613,3197,Elie Tahari Eggplant Career Suit,Clothes,Clothes,2,629.99,1259.98,11/2/2010
+916,13056,3198,Elie Tahari Black Career Suit,Clothes,Clothes,2,179.99,359.98,11/2/2010
+272,30158,3199,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,449.99,449.99,11/2/2010
+887,22740,3200,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,479.99,479.99,11/2/2010
+520,20862,3201,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,1199.99,1199.99,11/2/2010
+61,29602,3202,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/3/2010
+968,33138,3203,Elie Tahari White Career Blouse,Clothes,Clothes,1,399.99,399.99,11/3/2010
+180,18248,3204,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,179.99,179.99,11/3/2010
+726,1728,3205,Nike Women's Air Max Running Shoe,Clothes,Clothes,2,1199.99,2399.98,11/3/2010
+922,4861,3206,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,1299.99,1299.99,11/3/2010
+398,25972,3209,Nike  Women's Air Max,Clothes,Clothes,1,299.99,299.99,11/3/2010
+402,42967,3210,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,299.99,299.99,11/3/2010
+802,35474,3211,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,229.99,229.99,11/3/2010
+612,42809,3212,Nike Women Free Running Sneakers,Clothes,Clothes,1,779.99,779.99,11/3/2010
+77,11498,3213,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,299.99,299.99,11/3/2010
+934,6450,3214,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,2,299.99,599.98,11/3/2010
+461,31828,6177,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,599.99,599.99,11/3/2010
+140,4503,6178,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,399.99,399.99,11/3/2010
+999,14609,6179,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,449.99,449.99,11/3/2010
+515,29644,6180,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,2,299.99,599.98,11/3/2010
+413,13031,6181,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,449.99,449.99,11/3/2010
+879,27652,6182,Guess Women's Wrap Coat,Clothes,Clothes,1,399.99,399.99,11/3/2010
+742,40564,6183,Guess Women's Quilted Jacket,Clothes,Clothes,1,149.99,149.99,11/3/2010
+742,27406,6184,Guess Women's Moto Jacket,Clothes,Clothes,1,999.99,999.99,11/3/2010
+742,27380,6185,Guess Women's Jean Jacket,Clothes,Clothes,1,1299.99,1299.99,11/3/2010
+909,7083,6186,Guess Women's Skinny Jeans,Clothes,Clothes,2,149.99,299.98,11/3/2010
+895,33666,6187,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,399.99,399.99,11/3/2010
+380,15937,6188,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,999.99,999.99,11/3/2010
+603,13937,6191,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,2,429.99,859.98,11/3/2010
+738,12832,6192,Tommy Arianna Tote,Clothes,Clothes,1,249.99,249.99,11/3/2010
+885,24171,6193,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,149.99,149.99,11/3/2010
+856,41134,6194,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,499.99,499.99,11/3/2010
+217,40123,6195,Elie Tahari Jocelyn Dress,Clothes,Clothes,2,239.99,479.98,11/3/2010
+846,19579,6196,Elie Tahari Emory Dress,Clothes,Clothes,1,584.99,584.99,11/3/2010
+614,41477,6197,Elie Tahari Ophelia Dress,Clothes,Clothes,1,249.99,249.99,11/3/2010
+993,40261,6198,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,399.99,399.99,11/3/2010
+710,25020,6199,Adidas Black Running Tights,Clothes,Clothes,1,584.99,584.99,11/3/2010
+233,28332,6200,Adidas Originals Black Hoodie,Clothes,Clothes,2,399.99,799.98,11/3/2010
+487,20683,6201,Adidas Originals Grey Hoodie,Clothes,Clothes,1,699.99,699.99,11/3/2010
+506,25953,6202,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,429.99,429.99,11/3/2010
+7,21172,6203,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,149.99,149.99,11/3/2010
+531,11638,6204,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,449.99,449.99,11/3/2010
+819,8123,6205,Adidas Originals Grey Running Tights,Clothes,Clothes,1,499.99,499.99,11/3/2010
+473,3265,6206,Adidas Training Pant - Black,Clothes,Clothes,2,429.99,859.98,11/3/2010
+694,40637,6209,Adidas Training Pant - White,Clothes,Clothes,1,599.99,599.99,11/3/2010
+109,5995,6210,Adidas Classic 3-stripe pant,Clothes,Clothes,1,429.99,429.99,11/3/2010
+732,29755,6211,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,449.99,449.99,11/3/2010
+456,36343,6212,Elie Tahari Lace Dress,Clothes,Clothes,1,1039.99,1039.99,11/3/2010
+584,37050,6213,Adidas Training Pant - Black,Clothes,Clothes,1,899.99,899.99,11/3/2010
+44,30463,6214,Adidas Originals Grey Running Tights,Clothes,Clothes,1,899.99,899.99,11/3/2010
+805,34771,3177,Anastasia Beverly Hills Dress,Clothes,Clothes,1,499.99,499.99,11/3/2010
+715,5193,3178,Guess Fit and Flair Dress,Clothes,Clothes,2,599.99,1199.98,11/3/2010
+795,22663,3179,Bar III Cropped Jacket,Clothes,Clothes,1,194.99,194.99,11/3/2010
+559,28705,3180,Anne Klein Fayza Dress Shoes,Clothes,Clothes,1,629.99,629.99,11/4/2010
+896,11197,3181,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,1199.99,1199.99,11/4/2010
+715,23112,3182,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,629.99,629.99,11/4/2010
+594,40262,3183,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,449.99,449.99,11/4/2010
+821,13957,3184,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,149.99,149.99,11/4/2010
+171,20641,3185,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,279.99,279.99,11/4/2010
+419,16244,3186,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,2,584.99,1169.98,11/4/2010
+185,39918,3187,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,1199.99,1199.99,11/4/2010
+516,2531,3188,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,2,449.99,899.98,11/4/2010
+789,38068,3191,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,2,399.99,799.98,11/4/2010
+901,23559,3192,Nike Women's Black Leggings,Clothes,Clothes,3,249.99,749.97,11/4/2010
+484,16068,3193,Nike Women's Blue Leggings,Clothes,Clothes,2,179.99,359.98,11/4/2010
+544,19804,3194,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,599.99,599.99,11/4/2010
+185,1795,3195,Nike Women's Flash Running Tights,Clothes,Clothes,1,179.99,179.99,11/4/2010
+490,12078,3196,Elie Tahari One Button Jacket,Clothes,Clothes,1,229.99,229.99,11/4/2010
+873,8585,3197,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,149.99,149.99,11/4/2010
+206,27732,3198,Elie Tahari Black Career Suit,Clothes,Clothes,2,239.99,479.98,11/4/2010
+212,3382,3199,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,999.99,999.99,11/4/2010
+386,23551,3200,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,299.99,299.99,11/4/2010
+110,31569,3201,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,2,299.99,599.98,11/4/2010
+456,25915,3202,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,2,299.99,599.98,11/4/2010
+300,15341,3203,Elie Tahari White Career Blouse,Clothes,Clothes,1,299.99,299.99,11/4/2010
+740,7183,3204,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,299.99,299.99,11/4/2010
+527,14955,3205,Nike Women's Air Max Running Shoe,Clothes,Clothes,2,599.99,1199.98,11/4/2010
+481,34546,3206,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,449.99,449.99,11/4/2010
+727,34241,3209,Nike  Women's Air Max,Clothes,Clothes,1,449.99,449.99,11/4/2010
+409,14694,3210,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,2,599.99,1199.98,11/4/2010
+823,23556,3211,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,599.99,599.99,11/4/2010
+404,26411,3212,Nike Women Free Running Sneakers,Clothes,Clothes,2,639.99,1279.98,11/4/2010
+806,6882,3213,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,639.99,639.99,11/4/2010
+476,12781,3214,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,2,779.99,1559.98,11/4/2010
+987,29374,6177,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,449.99,899.98,11/4/2010
+817,26486,6178,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,499.99,499.99,11/4/2010
+512,42226,6179,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,2,449.99,899.98,11/4/2010
+697,22940,6180,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,1099.99,1099.99,11/4/2010
+774,12623,6181,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,314.99,314.99,11/4/2010
+658,25227,6182,Guess Women's Wrap Coat,Clothes,Clothes,1,449.99,449.99,11/4/2010
+847,18553,6183,Guess Women's Quilted Jacket,Clothes,Clothes,1,194.99,194.99,11/4/2010
+206,3211,6184,Guess Women's Moto Jacket,Clothes,Clothes,1,278.99,278.99,11/4/2010
+143,5063,6185,Guess Women's Jean Jacket,Clothes,Clothes,2,1199.99,2399.98,11/4/2010
+903,39404,6186,Guess Women's Skinny Jeans,Clothes,Clothes,1,399.99,399.99,11/4/2010
+826,34157,6187,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,429.99,429.99,11/4/2010
+141,25738,6188,Guess Women's Mid-rise Jeans,Clothes,Clothes,2,539.99,1079.98,11/4/2010
+892,31624,6191,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,1199.99,1199.99,11/5/2010
+509,32891,6192,Tommy Arianna Tote,Clothes,Clothes,1,149.99,149.99,11/5/2010
+969,28697,6193,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,449.99,449.99,11/5/2010
+27,29546,6194,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,449.99,449.99,11/5/2010
+561,996,6195,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,399.99,399.99,11/5/2010
+402,37528,6196,Elie Tahari Emory Dress,Clothes,Clothes,2,149.99,299.98,11/5/2010
+687,5700,6197,Elie Tahari Ophelia Dress,Clothes,Clothes,1,186.99,186.99,11/5/2010
+869,2153,6198,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,449.99,449.99,11/5/2010
+389,37204,6199,Adidas Black Running Tights,Clothes,Clothes,1,649.99,649.99,11/5/2010
+706,9824,6200,Adidas Originals Black Hoodie,Clothes,Clothes,1,1099.99,1099.99,11/5/2010
+548,10079,6201,Adidas Originals Grey Hoodie,Clothes,Clothes,1,449.99,449.99,11/5/2010
+665,3672,6202,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,429.99,429.99,11/5/2010
+658,14869,6203,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,2,239.99,479.98,11/5/2010
+474,11277,6204,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,3,1299.99,3899.97,11/5/2010
+410,12472,6205,Adidas Originals Grey Running Tights,Clothes,Clothes,2,1299.99,2599.98,11/5/2010
+722,38273,6206,Adidas Training Pant - Black,Clothes,Clothes,2,999.99,1999.98,11/5/2010
+614,34291,6209,Adidas Training Pant - White,Clothes,Clothes,1,199.99,199.99,11/5/2010
+912,9400,6210,Adidas Classic 3-stripe pant,Clothes,Clothes,1,599.99,599.99,11/5/2010
+102,454,6211,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,449.99,449.99,11/5/2010
+883,41255,6212,Elie Tahari Lace Dress,Clothes,Clothes,1,599.99,599.99,11/5/2010
+494,6363,6213,Adidas Training Pant - Black,Clothes,Clothes,1,179.99,179.99,11/5/2010
+441,31762,6214,Adidas Originals Grey Running Tights,Clothes,Clothes,1,429.99,429.99,11/5/2010
+940,35996,3177,Anastasia Beverly Hills Dress,Clothes,Clothes,1,449.99,449.99,11/5/2010
+283,24750,3178,Guess Fit and Flair Dress,Clothes,Clothes,1,179.99,179.99,11/5/2010
+355,12386,3179,Bar III Cropped Jacket,Clothes,Clothes,1,249.99,249.99,11/5/2010
+572,7347,3180,Anne Klein Fayza Dress Shoes,Clothes,Clothes,2,499.99,999.98,11/5/2010
+193,42026,3181,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,449.99,449.99,11/5/2010
+805,23702,3182,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,2,399.99,799.98,11/5/2010
+567,36839,3183,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,149.99,149.99,11/5/2010
+741,9585,3184,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,324.99,324.99,11/5/2010
+951,824,3185,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,104.99,104.99,11/5/2010
+728,23677,3186,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,199.99,199.99,11/5/2010
+877,15613,3187,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,399.99,399.99,11/5/2010
+574,13525,3188,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,2,324.99,649.98,11/5/2010
+77,11167,3191,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,1099.99,1099.99,11/5/2010
+163,4703,3192,Nike Women's Black Leggings,Clothes,Clothes,1,399.99,399.99,11/5/2010
+795,8411,3193,Nike Women's Blue Leggings,Clothes,Clothes,2,599.99,1199.98,11/5/2010
+825,8942,3194,Nike Women's Miulticolor Leggings,Clothes,Clothes,2,499.99,999.98,11/5/2010
+375,2330,3195,Nike Women's Flash Running Tights,Clothes,Clothes,1,194.99,194.99,11/5/2010
+3,5421,3196,Elie Tahari One Button Jacket,Clothes,Clothes,1,1199.99,1199.99,11/5/2010
+647,8578,3197,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,429.99,429.99,11/5/2010
+720,1200,3198,Elie Tahari Black Career Suit,Clothes,Clothes,1,779.99,779.99,11/5/2010
+835,32313,3199,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,299.99,299.99,11/5/2010
+328,5714,3200,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,559.99,559.99,11/5/2010
+39,14047,3201,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,699.99,699.99,11/5/2010
+360,14058,3202,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,2,229.99,459.98,11/5/2010
+881,30404,3203,Elie Tahari White Career Blouse,Clothes,Clothes,1,299.99,299.99,11/5/2010
+833,27978,3204,Nike Women's Hyperspike Shoe,Clothes,Clothes,2,639.99,1279.98,11/5/2010
+509,31121,3205,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,699.99,699.99,11/5/2010
+321,17731,3206,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,999.99,999.99,11/5/2010
+106,21653,3209,Nike  Women's Air Max,Clothes,Clothes,1,499.99,499.99,11/5/2010
+849,9450,3210,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,1019.99,1019.99,11/5/2010
+905,19089,3211,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,499.99,499.99,11/6/2010
+584,25521,3212,Nike Women Free Running Sneakers,Clothes,Clothes,2,429.99,859.98,11/6/2010
+275,24212,3213,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,399.99,399.99,11/6/2010
+882,40165,3214,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,699.99,699.99,11/6/2010
+830,32281,6177,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,186.99,186.99,11/6/2010
+56,8987,6178,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,499.99,499.99,11/6/2010
+296,38295,6179,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,599.99,599.99,11/6/2010
+452,30403,6180,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,299.99,299.99,11/6/2010
+333,8075,6181,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,575.99,575.99,11/6/2010
+751,1249,6182,Guess Women's Wrap Coat,Clothes,Clothes,2,399.99,799.98,11/6/2010
+432,28881,6183,Guess Women's Quilted Jacket,Clothes,Clothes,1,299.99,299.99,11/6/2010
+405,6807,6184,Guess Women's Moto Jacket,Clothes,Clothes,1,399.99,399.99,11/6/2010
+779,5131,6185,Guess Women's Jean Jacket,Clothes,Clothes,1,194.99,194.99,11/6/2010
+46,35995,6186,Guess Women's Skinny Jeans,Clothes,Clothes,1,1299.99,1299.99,11/6/2010
+598,28632,6187,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,1299.99,1299.99,11/6/2010
+971,9511,6188,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,1299.99,1299.99,11/6/2010
+818,37087,6191,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,249.99,249.99,11/6/2010
+464,34695,6192,Tommy Arianna Tote,Clothes,Clothes,1,399.99,399.99,11/6/2010
+20,22863,6193,Tommy Hilfiger Everyday Tote,Clothes,Clothes,2,399.99,799.98,11/6/2010
+556,39118,6194,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,149.99,149.99,11/6/2010
+409,28394,6195,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,149.99,149.99,11/6/2010
+426,35275,6196,Elie Tahari Emory Dress,Clothes,Clothes,1,1299.99,1299.99,11/6/2010
+840,26898,6197,Elie Tahari Ophelia Dress,Clothes,Clothes,1,104.99,104.99,11/6/2010
+880,570,6198,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,1099.99,1099.99,11/6/2010
+379,16870,6199,Adidas Black Running Tights,Clothes,Clothes,1,299.99,299.99,11/6/2010
+605,3341,6200,Adidas Originals Black Hoodie,Clothes,Clothes,3,149.99,449.97,11/6/2010
+428,20296,6201,Adidas Originals Grey Hoodie,Clothes,Clothes,1,229.99,229.99,11/6/2010
+541,22186,6202,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,599.99,599.99,11/6/2010
+10,39746,6203,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,539.99,539.99,11/6/2010
+730,40033,6204,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,179.99,179.99,11/6/2010
+702,13759,6205,Adidas Originals Grey Running Tights,Clothes,Clothes,2,1039.99,2079.98,11/6/2010
+455,36783,6206,Adidas Training Pant - Black,Clothes,Clothes,2,639.99,1279.98,11/6/2010
+114,19253,6209,Adidas Training Pant - White,Clothes,Clothes,1,134.99,134.99,11/6/2010
+752,7858,6210,Adidas Classic 3-stripe pant,Clothes,Clothes,2,899.99,1799.98,11/6/2010
+103,11960,6211,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,399.99,399.99,11/6/2010
+572,7347,6212,Elie Tahari Lace Dress,Clothes,Clothes,2,449.99,899.98,11/6/2010
+771,12691,6213,Adidas Training Pant - Black,Clothes,Clothes,1,899.99,899.99,11/6/2010
+363,27475,6214,Adidas Originals Grey Running Tights,Clothes,Clothes,1,319.99,319.99,11/6/2010
+358,14574,3177,Adidas Originals Black Hoodie,Clothes,Clothes,1,999.99,999.99,11/6/2010
+22,1462,3178,Adidas Originals Grey Hoodie,Clothes,Clothes,1,599.99,599.99,11/6/2010
+890,7941,3179,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,714.99,714.99,11/6/2010
+313,38010,3180,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,499.99,499.99,11/6/2010
+332,10596,3181,Adidas Originals Black Hoodie,Clothes,Clothes,1,479.99,479.99,11/6/2010
+705,37821,3182,Adidas Originals Grey Hoodie,Clothes,Clothes,1,699.99,699.99,11/7/2010
+514,6338,3183,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,599.99,599.99,11/7/2010
+435,32466,3184,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,2,559.99,1119.98,11/7/2010
+814,9254,3185,Adidas Originals Black Hoodie,Clothes,Clothes,1,599.99,599.99,11/7/2010
+849,24629,3186,Adidas Originals Grey Hoodie,Clothes,Clothes,1,291.99,291.99,11/7/2010
+832,18975,3187,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,278.99,278.99,11/7/2010
+502,6310,3188,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,186.99,186.99,11/7/2010
+602,26067,3191,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,639.99,639.99,11/7/2010
+63,20868,3192,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/7/2010
+854,7934,3193,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,3,449.99,1349.97,11/7/2010
+626,12877,3194,Elie Tahari White Career Blouse,Clothes,Clothes,1,229.99,229.99,11/7/2010
+604,28798,3195,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,599.99,599.99,11/7/2010
+421,16961,3196,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,779.99,779.99,11/7/2010
+933,29832,3197,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,2,449.99,899.98,11/7/2010
+708,35115,3198,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,2,714.99,1429.98,11/7/2010
+97,36851,3199,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,3,699.99,2099.97,11/7/2010
+614,40604,3200,Elie Tahari White Career Blouse,Clothes,Clothes,1,239.99,239.99,11/7/2010
+410,26613,3201,Nike Women's Hyperspike Shoe,Clothes,Clothes,2,429.99,859.98,11/7/2010
+718,19118,3202,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,429.99,429.99,11/7/2010
+796,1564,3203,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,429.99,429.99,11/7/2010
+805,1653,3204,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,2,449.99,899.98,11/7/2010
+854,14914,3205,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,429.99,429.99,11/7/2010
+891,13146,3206,Elie Tahari White Career Blouse,Clothes,Clothes,1,229.99,229.99,11/7/2010
+772,38170,3209,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,429.99,429.99,11/7/2010
+940,22655,3210,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,429.99,429.99,11/7/2010
+707,10512,3211,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,449.99,449.99,11/7/2010
+937,41369,3212,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,2,1199.99,2399.98,11/7/2010
+471,39564,3213,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,449.99,449.99,11/7/2010
+331,40541,3214,Elie Tahari White Career Blouse,Clothes,Clothes,2,104.99,209.98,11/7/2010
+208,32363,6177,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,319.99,319.99,11/7/2010
+837,30777,6178,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,104.99,104.99,11/7/2010
+920,28401,6179,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,249.99,249.99,11/7/2010
+749,13959,6180,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,1299.99,1299.99,11/7/2010
+89,38942,6181,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,399.99,399.99,11/7/2010
+351,38576,6182,Elie Tahari White Career Blouse,Clothes,Clothes,1,199.99,199.99,11/7/2010
+720,8408,6183,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,149.99,149.99,11/7/2010
+948,28951,6184,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,1099.99,1099.99,11/7/2010
+254,6784,6185,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,2,299.99,599.98,11/7/2010
+111,1858,6186,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,599.99,1199.98,11/7/2010
+444,34478,6187,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,299.99,299.99,11/7/2010
+530,11714,6188,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,299.99,299.99,11/7/2010
+211,20976,6191,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,299.99,299.99,11/7/2010
+360,34889,6192,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,3,599.99,1799.97,11/7/2010
+961,29586,6193,Guess Women's Wrap Coat,Clothes,Clothes,1,299.99,299.99,11/7/2010
+710,3350,6194,Guess Women's Quilted Jacket,Clothes,Clothes,1,299.99,299.99,11/7/2010
+155,40020,6195,Guess Women's Moto Jacket,Clothes,Clothes,1,399.99,399.99,11/8/2010
+317,42204,6196,Guess Women's Jean Jacket,Clothes,Clothes,1,104.99,104.99,11/8/2010
+545,31848,6197,Guess Women's Skinny Jeans,Clothes,Clothes,2,499.99,999.98,11/8/2010
+770,10714,6198,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,186.99,186.99,11/8/2010
+117,5997,6199,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,324.99,324.99,11/8/2010
+426,24167,6200,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,999.99,999.99,11/8/2010
+676,1273,6201,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,699.99,699.99,11/8/2010
+649,11052,6202,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,199.99,199.99,11/8/2010
+329,5451,6203,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,599.99,599.99,11/8/2010
+87,22216,6204,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,999.99,999.99,11/8/2010
+717,31087,6205,Guess Women's Wrap Coat,Clothes,Clothes,3,291.99,875.97,11/8/2010
+855,3125,6206,Guess Women's Quilted Jacket,Clothes,Clothes,1,399.99,399.99,11/8/2010
+226,37111,6209,Guess Women's Moto Jacket,Clothes,Clothes,1,299.99,299.99,11/8/2010
+901,7169,6210,Guess Women's Jean Jacket,Clothes,Clothes,1,479.99,479.99,11/8/2010
+416,5273,6211,Guess Women's Skinny Jeans,Clothes,Clothes,1,714.99,714.99,11/8/2010
+222,15369,6212,Guess Women's Boot Cut Jeans,Clothes,Clothes,2,429.99,859.98,11/8/2010
+599,6364,6213,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,1199.99,1199.99,11/8/2010
+135,16471,6214,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,399.99,799.98,11/8/2010
+954,4684,3177,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,509.99,509.99,11/8/2010
+16,15466,3178,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,2,599.99,1199.98,11/8/2010
+354,14311,3179,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,999.99,999.99,11/8/2010
+730,13734,3180,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,449.99,449.99,11/8/2010
+924,35887,3181,Guess Women's Wrap Coat,Clothes,Clothes,2,134.99,269.98,11/8/2010
+411,11083,3182,Guess Women's Quilted Jacket,Clothes,Clothes,1,291.99,291.99,11/8/2010
+861,9852,3183,Guess Women's Moto Jacket,Clothes,Clothes,1,499.99,499.99,11/8/2010
+492,26914,3184,Guess Women's Jean Jacket,Clothes,Clothes,1,899.99,899.99,11/8/2010
+242,13676,3185,Guess Women's Skinny Jeans,Clothes,Clothes,1,599.99,599.99,11/8/2010
+727,5825,3186,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,699.99,699.99,11/8/2010
+755,14283,3187,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,499.99,499.99,11/9/2010
+205,39917,3188,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,1199.99,1199.99,11/9/2010
+668,5728,3191,Ralph Lauren Cashmere Sweater,Clothes,Clothes,2,299.99,599.98,11/9/2010
+311,2464,3192,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,3,1299.99,3899.97,11/9/2010
+515,15675,3193,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,199.99,199.99,11/9/2010
+902,12582,3194,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,2,599.99,1199.98,11/9/2010
+966,43095,3195,Guess Women's Wrap Coat,Clothes,Clothes,1,239.99,239.99,11/9/2010
+445,31350,3196,Guess Women's Quilted Jacket,Clothes,Clothes,2,359.99,719.98,11/9/2010
+798,17506,3197,Guess Women's Moto Jacket,Clothes,Clothes,1,629.99,629.99,11/9/2010
+596,22768,3198,Guess Women's Jean Jacket,Clothes,Clothes,1,639.99,639.99,11/9/2010
+820,25257,3199,Guess Women's Skinny Jeans,Clothes,Clothes,1,1199.99,1199.99,11/9/2010
+1,19896,3200,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,449.99,449.99,11/9/2010
+117,37497,3201,Anastasia Beverly Hills Dress,Clothes,Clothes,1,639.99,639.99,11/9/2010
+4,32370,3202,Guess Fit and Flair Dress,Clothes,Clothes,1,449.99,449.99,11/9/2010
+567,41346,3203,Bar III Cropped Jacket,Clothes,Clothes,1,999.99,999.99,11/9/2010
+791,10589,3204,Anne Klein Fayza Dress Shoes,Clothes,Clothes,2,779.99,1559.98,11/9/2010
+426,42181,3205,Anne Klein Barb Dress Shoes,Clothes,Clothes,2,1299.99,2599.98,11/9/2010
+311,42865,3206,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,3,649.99,1949.97,11/9/2010
+769,21774,3209,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,3,779.99,2339.97,11/9/2010
+258,29869,3210,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,279.99,279.99,11/9/2010
+31,14475,3211,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,539.99,539.99,11/9/2010
+400,9224,3212,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,239.99,239.99,11/9/2010
+599,9118,3213,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,499.99,499.99,11/9/2010
+267,43096,3214,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,319.99,319.99,11/9/2010
+826,19879,6177,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,299.99,299.99,11/9/2010
+716,24082,6178,Nike Women's Black Leggings,Clothes,Clothes,1,779.99,779.99,11/9/2010
+72,36571,6179,Nike Women's Blue Leggings,Clothes,Clothes,1,194.99,194.99,11/9/2010
+613,37355,6180,Nike Women's Miulticolor Leggings,Clothes,Clothes,3,199.99,599.97,11/9/2010
+963,9657,6181,Nike Women's Flash Running Tights,Clothes,Clothes,1,149.99,149.99,11/9/2010
+28,10476,6182,Elie Tahari One Button Jacket,Clothes,Clothes,1,584.99,584.99,11/9/2010
+773,13042,6183,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,229.99,229.99,11/9/2010
+758,900,6184,Elie Tahari Black Career Suit,Clothes,Clothes,1,399.99,399.99,11/9/2010
+272,20413,6185,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,2,599.99,1199.98,11/9/2010
+694,17853,6186,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/9/2010
+132,24805,6187,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,559.99,559.99,11/9/2010
+877,10228,6188,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,1199.99,1199.99,11/9/2010
+426,10744,6191,Elie Tahari White Career Blouse,Clothes,Clothes,1,149.99,149.99,11/9/2010
+817,623,6192,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,1199.99,1199.99,11/9/2010
+535,17073,6193,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,599.99,599.99,11/10/2010
+589,42560,6194,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,449.99,449.99,11/10/2010
+711,3030,6195,Nike  Women's Air Max,Clothes,Clothes,1,629.99,629.99,11/10/2010
+741,16484,6196,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,449.99,449.99,11/10/2010
+833,37866,6197,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,239.99,239.99,11/10/2010
+46,42845,6198,Nike Women Free Running Sneakers,Clothes,Clothes,1,539.99,539.99,11/10/2010
+771,28400,6199,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,449.99,449.99,11/10/2010
+673,11645,6200,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,999.99,999.99,11/10/2010
+907,42431,6201,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,179.99,359.98,11/10/2010
+118,12986,6202,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,179.99,179.99,11/10/2010
+178,31236,6203,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,449.99,449.99,11/10/2010
+430,7881,6204,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,449.99,449.99,11/10/2010
+588,6351,6205,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,429.99,429.99,11/10/2010
+884,10366,6206,Guess Women's Wrap Coat,Clothes,Clothes,1,639.99,639.99,11/10/2010
+813,16583,6209,Guess Women's Quilted Jacket,Clothes,Clothes,1,399.99,399.99,11/10/2010
+269,7641,6210,Guess Women's Moto Jacket,Clothes,Clothes,1,249.99,249.99,11/10/2010
+770,28729,6211,Guess Women's Jean Jacket,Clothes,Clothes,1,1299.99,1299.99,11/10/2010
+787,12054,6212,Guess Women's Skinny Jeans,Clothes,Clothes,1,599.99,599.99,11/10/2010
+278,28190,6213,Guess Women's Boot Cut Jeans,Clothes,Clothes,2,699.99,1399.98,11/10/2010
+417,3025,6214,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,599.99,599.99,11/10/2010
+456,17784,3177,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,1039.99,1039.99,11/10/2010
+321,34851,3178,Tommy Arianna Tote,Clothes,Clothes,1,134.99,134.99,11/10/2010
+228,18902,3179,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,239.99,239.99,11/10/2010
+94,29713,3180,Tommy Hilfiger Alexa purse ,Clothes,Clothes,2,699.99,1399.98,11/10/2010
+406,21435,3181,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,449.99,449.99,11/10/2010
+124,36312,3182,Elie Tahari Emory Dress,Clothes,Clothes,1,1199.99,1199.99,11/10/2010
+448,25554,3183,Elie Tahari Ophelia Dress,Clothes,Clothes,1,899.99,899.99,11/10/2010
+840,37624,3184,Elie Tahari Gwenyth Dress,Clothes,Clothes,2,1199.99,2399.98,11/10/2010
+466,22032,3185,Adidas Black Running Tights,Clothes,Clothes,1,149.99,149.99,11/10/2010
+976,40181,3186,Adidas Originals Black Hoodie,Clothes,Clothes,2,999.99,1999.98,11/10/2010
+898,36898,3187,Adidas Originals Grey Hoodie,Clothes,Clothes,1,599.99,599.99,11/10/2010
+848,30995,3188,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,299.99,299.99,11/10/2010
+897,9703,3191,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,499.99,499.99,11/10/2010
+15,1822,3192,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,2,629.99,1259.98,11/10/2010
+261,17875,3193,Adidas Originals Grey Running Tights,Clothes,Clothes,2,291.99,583.98,11/10/2010
+484,38501,3194,Adidas Training Pant - Black,Clothes,Clothes,1,399.99,399.99,11/10/2010
+154,629,3195,Adidas Training Pant - White,Clothes,Clothes,2,599.99,1199.98,11/10/2010
+780,39495,3196,Adidas Classic 3-stripe pant,Clothes,Clothes,1,479.99,479.99,11/10/2010
+476,35266,3197,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,2,149.99,299.98,11/10/2010
+679,30878,3198,Elie Tahari Lace Dress,Clothes,Clothes,1,399.99,399.99,11/10/2010
+533,27712,3199,Adidas Training Pant - Black,Clothes,Clothes,1,429.99,429.99,11/10/2010
+383,20627,3200,Adidas Originals Grey Running Tights,Clothes,Clothes,2,229.99,459.98,11/10/2010
+754,5509,3201,Anastasia Beverly Hills Dress,Clothes,Clothes,2,299.99,599.98,11/10/2010
+450,24279,3202,Guess Fit and Flair Dress,Clothes,Clothes,1,299.99,299.99,11/10/2010
+199,13308,3203,Bar III Cropped Jacket,Clothes,Clothes,1,999.99,999.99,11/10/2010
+575,4055,3204,Anne Klein Fayza Dress Shoes,Clothes,Clothes,2,229.99,459.98,11/10/2010
+298,11882,3205,Anne Klein Barb Dress Shoes,Clothes,Clothes,2,399.99,799.98,11/10/2010
+478,20380,3206,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,779.99,779.99,11/10/2010
+779,13578,3209,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,291.99,291.99,11/11/2010
+18,41457,3210,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,2,1099.99,2199.98,11/11/2010
+571,24588,3211,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,279.99,279.99,11/11/2010
+743,12135,3212,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,499.99,499.99,11/11/2010
+528,17358,3213,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,429.99,429.99,11/11/2010
+820,9026,3214,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,229.99,229.99,11/11/2010
+358,25645,6177,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,449.99,449.99,11/11/2010
+182,40684,6178,Nike Women's Black Leggings,Clothes,Clothes,1,1199.99,1199.99,11/11/2010
+798,16629,6179,Nike Women's Blue Leggings,Clothes,Clothes,2,1099.99,2199.98,11/11/2010
+580,1547,6180,Nike Women's Miulticolor Leggings,Clothes,Clothes,2,299.99,599.98,11/11/2010
+585,40606,6181,Nike Women's Flash Running Tights,Clothes,Clothes,1,429.99,429.99,11/11/2010
+241,34380,6182,Elie Tahari One Button Jacket,Clothes,Clothes,2,299.99,599.98,11/11/2010
+886,26192,6183,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,239.99,239.99,11/11/2010
+260,32457,6184,Elie Tahari Black Career Suit,Clothes,Clothes,1,714.99,714.99,11/11/2010
+822,21703,6185,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,2,599.99,1199.98,11/11/2010
+69,2172,6186,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,2,314.99,629.98,11/11/2010
+66,13437,6187,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,399.99,399.99,11/11/2010
+808,9846,6188,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,291.99,291.99,11/11/2010
+137,37735,6191,Elie Tahari White Career Blouse,Clothes,Clothes,1,149.99,149.99,11/11/2010
+959,31071,6192,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,399.99,399.99,11/11/2010
+457,14045,6193,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,279.99,279.99,11/11/2010
+49,7013,6194,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,171.99,171.99,11/11/2010
+340,40588,6195,Nike  Women's Air Max,Clothes,Clothes,1,779.99,779.99,11/11/2010
+803,5412,6196,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,599.99,599.99,11/11/2010
+470,6161,6197,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,299.99,299.99,11/11/2010
+606,40427,6198,Nike Women Free Running Sneakers,Clothes,Clothes,1,599.99,599.99,11/11/2010
+848,21505,6199,Ralph Lauren Hooded Pullover,Clothes,Clothes,3,319.99,959.97,11/11/2010
+434,25442,6200,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,599.99,599.99,11/11/2010
+838,40358,6201,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,299.99,599.98,11/11/2010
+855,10588,6202,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,149.99,149.99,11/11/2010
+155,15514,6203,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,2,599.99,1199.98,11/11/2010
+488,20592,6204,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,149.99,149.99,11/12/2010
+905,6536,6205,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,291.99,291.99,11/12/2010
+906,25849,6206,Guess Women's Wrap Coat,Clothes,Clothes,1,199.99,199.99,11/12/2010
+545,27323,6209,Guess Women's Quilted Jacket,Clothes,Clothes,1,229.99,229.99,11/12/2010
+334,584,6210,Guess Women's Moto Jacket,Clothes,Clothes,1,499.99,499.99,11/12/2010
+919,30201,6211,Guess Women's Jean Jacket,Clothes,Clothes,1,429.99,429.99,11/12/2010
+399,598,6212,Guess Women's Skinny Jeans,Clothes,Clothes,1,359.99,359.99,11/12/2010
+310,23427,6213,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,299.99,299.99,11/12/2010
+835,24620,6214,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,149.99,149.99,11/12/2010
+882,11082,3177,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,449.99,449.99,11/12/2010
+560,42710,3178,Tommy Arianna Tote,Clothes,Clothes,2,499.99,999.98,11/12/2010
+876,29577,3179,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,279.99,279.99,11/12/2010
+722,1121,3180,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,899.99,899.99,11/12/2010
+279,10555,3181,Elie Tahari Jocelyn Dress,Clothes,Clothes,2,999.99,1999.98,11/12/2010
+65,14299,3182,Elie Tahari Emory Dress,Clothes,Clothes,1,149.99,149.99,11/12/2010
+757,25647,3183,Elie Tahari Ophelia Dress,Clothes,Clothes,1,599.99,599.99,11/12/2010
+783,4379,3184,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,229.99,229.99,11/12/2010
+588,42072,3185,Adidas Black Running Tights,Clothes,Clothes,1,499.99,499.99,11/12/2010
+441,1260,3186,Adidas Originals Black Hoodie,Clothes,Clothes,1,599.99,599.99,11/12/2010
+820,18298,3187,Adidas Originals Grey Hoodie,Clothes,Clothes,1,179.99,179.99,11/12/2010
+97,15089,3188,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,449.99,449.99,11/12/2010
+96,36379,3191,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,449.99,449.99,11/12/2010
+608,28784,3192,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,1299.99,1299.99,11/12/2010
+576,13779,3193,Adidas Originals Grey Running Tights,Clothes,Clothes,2,239.99,479.98,11/12/2010
+120,8395,3194,Adidas Training Pant - Black,Clothes,Clothes,2,299.99,599.98,11/12/2010
+500,25129,3195,Adidas Training Pant - White,Clothes,Clothes,1,599.99,599.99,11/12/2010
+736,23166,3196,Adidas Classic 3-stripe pant,Clothes,Clothes,1,149.99,149.99,11/12/2010
+521,113,3197,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,299.99,299.99,11/12/2010
+153,10059,3198,Elie Tahari Lace Dress,Clothes,Clothes,2,299.99,599.98,11/12/2010
+484,28280,3199,Adidas Training Pant - Black,Clothes,Clothes,1,1099.99,1099.99,11/12/2010
+398,36072,3200,Adidas Originals Grey Running Tights,Clothes,Clothes,2,1299.99,2599.98,11/12/2010
+885,20781,3201,Anastasia Beverly Hills Dress,Clothes,Clothes,2,149.99,299.98,11/12/2010
+714,23388,3202,Guess Fit and Flair Dress,Clothes,Clothes,1,429.99,429.99,11/12/2010
+819,3117,3203,Bar III Cropped Jacket,Clothes,Clothes,1,249.99,249.99,11/12/2010
+539,41135,3204,Anne Klein Fayza Dress Shoes,Clothes,Clothes,1,299.99,299.99,11/12/2010
+797,27413,3205,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,229.99,229.99,11/12/2010
+334,12906,3206,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,639.99,639.99,11/12/2010
+234,30127,3209,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,194.99,194.99,11/13/2010
+965,32724,3210,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,1199.99,1199.99,11/13/2010
+794,25718,3211,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,194.99,194.99,11/13/2010
+370,25636,3212,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,239.99,239.99,11/13/2010
+433,34326,3213,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,239.99,239.99,11/13/2010
+373,10038,3214,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,629.99,629.99,11/13/2010
+609,42793,6177,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,575.99,575.99,11/13/2010
+164,15415,6178,Nike Women's Black Leggings,Clothes,Clothes,2,1199.99,2399.98,11/13/2010
+527,4271,6179,Nike Women's Blue Leggings,Clothes,Clothes,1,1199.99,1199.99,11/13/2010
+925,1631,6180,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,299.99,299.99,11/13/2010
+93,24255,6181,Nike Women's Flash Running Tights,Clothes,Clothes,1,249.99,249.99,11/13/2010
+407,41857,6182,Elie Tahari One Button Jacket,Clothes,Clothes,1,599.99,599.99,11/13/2010
+417,27138,6183,Elie Tahari Eggplant Career Suit,Clothes,Clothes,2,249.99,499.98,11/13/2010
+760,9762,6184,Elie Tahari Black Career Suit,Clothes,Clothes,1,229.99,229.99,11/13/2010
+784,28988,6185,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,199.99,199.99,11/13/2010
+191,22900,6186,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,429.99,429.99,11/13/2010
+823,25057,6187,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,429.99,429.99,11/13/2010
+796,16278,6188,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,449.99,449.99,11/13/2010
+791,22105,6191,Elie Tahari White Career Blouse,Clothes,Clothes,3,399.99,1199.97,11/13/2010
+562,15776,6192,Nike Women's Hyperspike Shoe,Clothes,Clothes,3,429.99,1289.97,11/13/2010
+632,8933,6193,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,899.99,899.99,11/13/2010
+872,41241,6194,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,499.99,499.99,11/13/2010
+27,17147,6195,Nike  Women's Air Max,Clothes,Clothes,1,699.99,699.99,11/13/2010
+899,4996,6196,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,599.99,599.99,11/13/2010
+613,27495,6197,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,2,899.99,1799.98,11/13/2010
+483,6881,6198,Nike Women Free Running Sneakers,Clothes,Clothes,1,599.99,599.99,11/13/2010
+550,5772,6199,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,449.99,449.99,11/13/2010
+407,22202,6200,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,186.99,186.99,11/13/2010
+345,38823,6201,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,3,239.99,719.97,11/13/2010
+696,41068,6202,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,639.99,639.99,11/13/2010
+375,2026,6203,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,3,239.99,719.97,11/13/2010
+745,36771,6204,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,299.99,299.99,11/13/2010
+3,42501,6205,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,2,699.99,1399.98,11/13/2010
+494,3765,6206,Guess Women's Wrap Coat,Clothes,Clothes,1,134.99,134.99,11/13/2010
+69,8872,6209,Guess Women's Quilted Jacket,Clothes,Clothes,1,449.99,449.99,11/13/2010
+826,1742,6210,Guess Women's Moto Jacket,Clothes,Clothes,1,449.99,449.99,11/13/2010
+463,12260,6211,Guess Women's Jean Jacket,Clothes,Clothes,1,999.99,999.99,11/13/2010
+435,25848,6212,Guess Women's Skinny Jeans,Clothes,Clothes,1,779.99,779.99,11/13/2010
+744,8166,6213,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,324.99,324.99,11/13/2010
+178,9039,6214,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,278.99,278.99,11/13/2010
+588,11317,3177,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,2,299.99,599.98,11/13/2010
+310,15234,3178,Tommy Arianna Tote,Clothes,Clothes,2,299.99,599.98,11/13/2010
+375,14445,3179,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,299.99,299.99,11/13/2010
+151,32139,3180,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,559.99,559.99,11/13/2010
+450,9938,3181,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,1099.99,1099.99,11/13/2010
+614,3396,3182,Elie Tahari Emory Dress,Clothes,Clothes,2,1099.99,2199.98,11/13/2010
+557,11407,3183,Elie Tahari Ophelia Dress,Clothes,Clothes,1,134.99,134.99,11/13/2010
+876,29556,3184,Elie Tahari Gwenyth Dress,Clothes,Clothes,3,104.99,314.97,11/13/2010
+906,14086,3185,Adidas Black Running Tights,Clothes,Clothes,1,599.99,599.99,11/13/2010
+637,28114,3186,Adidas Originals Black Hoodie,Clothes,Clothes,1,291.99,291.99,11/14/2010
+56,14138,3187,Adidas Originals Grey Hoodie,Clothes,Clothes,1,429.99,429.99,11/14/2010
+593,822,3188,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,199.99,199.99,11/14/2010
+528,43071,3191,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,2,899.99,1799.98,11/14/2010
+584,35123,3192,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,599.99,599.99,11/14/2010
+983,23941,3193,Adidas Originals Grey Running Tights,Clothes,Clothes,1,599.99,599.99,11/14/2010
+603,42342,3194,Adidas Training Pant - Black,Clothes,Clothes,1,299.99,299.99,11/14/2010
+467,1979,3195,Adidas Training Pant - White,Clothes,Clothes,1,149.99,149.99,11/14/2010
+827,29066,3196,Adidas Classic 3-stripe pant,Clothes,Clothes,1,186.99,186.99,11/14/2010
+726,15765,3197,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,2,779.99,1559.98,11/14/2010
+841,32309,3198,Elie Tahari Lace Dress,Clothes,Clothes,1,149.99,149.99,11/14/2010
+479,39660,3199,Adidas Training Pant - Black,Clothes,Clothes,1,399.99,399.99,11/14/2010
+455,36783,3200,Adidas Originals Grey Running Tights,Clothes,Clothes,2,239.99,479.98,11/14/2010
+306,40645,3201,Anastasia Beverly Hills Dress,Clothes,Clothes,1,291.99,291.99,11/14/2010
+46,14709,3202,Guess Fit and Flair Dress,Clothes,Clothes,2,299.99,599.98,11/14/2010
+601,8398,3203,Bar III Cropped Jacket,Clothes,Clothes,2,599.99,1199.98,11/14/2010
+569,12804,3204,Anne Klein Fayza Dress Shoes,Clothes,Clothes,3,639.99,1919.97,11/14/2010
+436,9370,3205,Anne Klein Barb Dress Shoes,Clothes,Clothes,2,499.99,999.98,11/14/2010
+338,23612,3206,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,629.99,629.99,11/14/2010
+537,10787,3209,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,2,599.99,1199.98,11/14/2010
+429,19306,3210,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,999.99,999.99,11/14/2010
+115,19302,3211,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,999.99,999.99,11/14/2010
+403,40425,3212,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,199.99,199.99,11/14/2010
+396,21733,3213,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,449.99,449.99,11/14/2010
+158,13767,3214,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,699.99,699.99,11/14/2010
+927,26084,6177,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,999.99,999.99,11/14/2010
+781,19540,6178,Nike Women's Black Leggings,Clothes,Clothes,1,239.99,239.99,11/14/2010
+135,28583,6179,Nike Women's Blue Leggings,Clothes,Clothes,1,999.99,999.99,11/14/2010
+877,24807,6180,Nike Women's Miulticolor Leggings,Clothes,Clothes,2,299.99,599.98,11/14/2010
+555,22372,6181,Nike Women's Flash Running Tights,Clothes,Clothes,1,249.99,249.99,11/14/2010
+781,6017,6182,Elie Tahari One Button Jacket,Clothes,Clothes,1,499.99,499.99,11/14/2010
+409,25130,6183,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,449.99,449.99,11/14/2010
+738,16131,6184,Elie Tahari Black Career Suit,Clothes,Clothes,1,699.99,699.99,11/14/2010
+419,22798,6185,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,149.99,149.99,11/14/2010
+845,3219,6186,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,399.99,399.99,11/14/2010
+878,7340,6187,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/14/2010
+931,26694,6188,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,2,599.99,1199.98,11/14/2010
+442,3428,6191,Elie Tahari White Career Blouse,Clothes,Clothes,1,599.99,599.99,11/14/2010
+760,1821,6192,Nike Women's Hyperspike Shoe,Clothes,Clothes,2,584.99,1169.98,11/14/2010
+354,8201,6193,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,299.99,299.99,11/14/2010
+437,21854,6194,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,194.99,194.99,11/14/2010
+992,37659,6195,Nike  Women's Air Max,Clothes,Clothes,1,134.99,134.99,11/15/2010
+91,34184,6196,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,499.99,499.99,11/15/2010
+765,35452,6197,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,239.99,239.99,11/15/2010
+883,7532,6198,Nike Women Free Running Sneakers,Clothes,Clothes,1,1099.99,1099.99,11/15/2010
+687,21975,6199,Ralph Lauren Hooded Pullover,Clothes,Clothes,2,314.99,629.98,11/15/2010
+708,705,6200,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,314.99,314.99,11/15/2010
+440,40967,6201,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,239.99,239.99,11/15/2010
+58,23113,6202,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,399.99,399.99,11/15/2010
+557,28745,6203,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,509.99,509.99,11/15/2010
+197,32596,6204,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,229.99,229.99,11/15/2010
+667,16503,6205,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,639.99,639.99,11/15/2010
+673,41189,6206,Guess Women's Wrap Coat,Clothes,Clothes,1,539.99,539.99,11/15/2010
+808,35475,6209,Guess Women's Quilted Jacket,Clothes,Clothes,1,449.99,449.99,11/15/2010
+343,25694,6210,Guess Women's Moto Jacket,Clothes,Clothes,1,999.99,999.99,11/15/2010
+466,34737,6211,Guess Women's Jean Jacket,Clothes,Clothes,1,599.99,599.99,11/15/2010
+719,21155,6212,Guess Women's Skinny Jeans,Clothes,Clothes,1,149.99,149.99,11/15/2010
+700,22062,6213,Guess Women's Boot Cut Jeans,Clothes,Clothes,2,449.99,899.98,11/15/2010
+775,40721,6214,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,399.99,399.99,11/15/2010
+503,8899,3177,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,2,699.99,1399.98,11/15/2010
+739,6488,3178,Tommy Arianna Tote,Clothes,Clothes,1,1019.99,1019.99,11/15/2010
+501,1103,3179,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,899.99,899.99,11/15/2010
+175,8677,3180,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,699.99,699.99,11/15/2010
+766,15499,3181,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,149.99,149.99,11/15/2010
+64,22699,3182,Elie Tahari Emory Dress,Clothes,Clothes,1,299.99,299.99,11/15/2010
+217,20575,3183,Elie Tahari Ophelia Dress,Clothes,Clothes,1,149.99,149.99,11/15/2010
+635,40969,3184,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,584.99,584.99,11/15/2010
+611,31459,3185,Adidas Black Running Tights,Clothes,Clothes,1,399.99,399.99,11/15/2010
+138,37296,3186,Adidas Originals Black Hoodie,Clothes,Clothes,1,584.99,584.99,11/15/2010
+277,26553,3187,Adidas Originals Grey Hoodie,Clothes,Clothes,1,399.99,399.99,11/15/2010
+24,1160,3188,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,2,599.99,1199.98,11/15/2010
+673,5254,3191,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,1199.99,1199.99,11/15/2010
+823,42132,3192,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,324.99,324.99,11/15/2010
+850,27149,3193,Adidas Originals Grey Running Tights,Clothes,Clothes,1,399.99,399.99,11/15/2010
+757,23090,3194,Adidas Training Pant - Black,Clothes,Clothes,2,319.99,639.98,11/15/2010
+931,26694,3195,Adidas Training Pant - White,Clothes,Clothes,2,599.99,1199.98,11/15/2010
+748,7664,3196,Adidas Classic 3-stripe pant,Clothes,Clothes,1,319.99,319.99,11/15/2010
+842,244,3197,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,599.99,599.99,11/15/2010
+869,8744,3198,Elie Tahari Lace Dress,Clothes,Clothes,1,599.99,599.99,11/15/2010
+776,24994,3199,Adidas Training Pant - Black,Clothes,Clothes,3,429.99,1289.97,11/15/2010
+504,1362,3200,Adidas Originals Grey Running Tights,Clothes,Clothes,2,179.99,359.98,11/15/2010
+736,11363,3201,Adidas Originals Black Hoodie,Clothes,Clothes,1,449.99,449.99,11/15/2010
+633,27351,3202,Adidas Originals Grey Hoodie,Clothes,Clothes,1,429.99,429.99,11/15/2010
+462,42458,3203,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,779.99,779.99,11/15/2010
+503,28072,3204,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,179.99,179.99,11/15/2010
+261,36405,3205,Adidas Originals Black Hoodie,Clothes,Clothes,1,299.99,299.99,11/15/2010
+382,7472,3206,Adidas Originals Grey Hoodie,Clothes,Clothes,1,1299.99,1299.99,11/15/2010
+469,43157,3209,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,186.99,186.99,11/15/2010
+531,28070,3210,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,399.99,399.99,11/15/2010
+700,7278,3211,Adidas Originals Black Hoodie,Clothes,Clothes,2,299.99,599.98,11/15/2010
+821,4657,3212,Adidas Originals Grey Hoodie,Clothes,Clothes,1,1299.99,1299.99,11/15/2010
+605,3032,3213,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,2,399.99,799.98,11/15/2010
+933,34438,3214,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,149.99,149.99,11/15/2010
+207,42864,6177,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,2,279.99,559.98,11/15/2010
+767,22750,6178,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,399.99,399.99,11/15/2010
+441,21793,6179,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,2,199.99,399.98,11/15/2010
+93,34121,6180,Elie Tahari White Career Blouse,Clothes,Clothes,1,299.99,299.99,11/15/2010
+263,13987,6181,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,779.99,779.99,11/15/2010
+417,37912,6182,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,1299.99,1299.99,11/15/2010
+51,20267,6183,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,429.99,429.99,11/15/2010
+424,17056,6184,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,2,599.99,1199.98,11/16/2010
+645,15939,6185,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,714.99,714.99,11/16/2010
+834,2188,6186,Elie Tahari White Career Blouse,Clothes,Clothes,1,639.99,639.99,11/16/2010
+529,19779,6187,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,171.99,171.99,11/16/2010
+74,13496,6188,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,999.99,999.99,11/16/2010
+88,38384,6191,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,171.99,171.99,11/16/2010
+420,23425,6192,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,319.99,319.99,11/16/2010
+122,38296,6193,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,999.99,999.99,11/16/2010
+657,41466,6194,Elie Tahari White Career Blouse,Clothes,Clothes,1,999.99,999.99,11/16/2010
+774,1047,6195,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,171.99,171.99,11/16/2010
+509,2490,6196,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,599.99,599.99,11/16/2010
+578,34394,6197,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,171.99,171.99,11/16/2010
+286,32697,6198,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,539.99,539.99,11/16/2010
+213,43073,6199,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,2,1099.99,2199.98,11/16/2010
+665,15469,6200,Elie Tahari White Career Blouse,Clothes,Clothes,1,639.99,639.99,11/16/2010
+882,15054,6201,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,1199.99,1199.99,11/16/2010
+21,11046,6202,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,299.99,299.99,11/16/2010
+895,39295,6203,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,539.99,539.99,11/16/2010
+96,2996,6204,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,299.99,299.99,11/16/2010
+550,39509,6205,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,399.99,399.99,11/16/2010
+525,5189,6206,Elie Tahari White Career Blouse,Clothes,Clothes,1,229.99,229.99,11/16/2010
+816,26332,6209,Nike Women's Hyperspike Shoe,Clothes,Clothes,3,1199.99,3599.97,11/16/2010
+720,10801,6210,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,399.99,399.99,11/16/2010
+488,24596,6211,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,429.99,429.99,11/16/2010
+962,12895,6212,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,291.99,291.99,11/16/2010
+299,2961,6213,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,359.99,359.99,11/16/2010
+461,12310,6214,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,2,599.99,1199.98,11/16/2010
+819,30963,3177,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,599.99,599.99,11/16/2010
+795,8411,3178,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,2,779.99,1559.98,11/16/2010
+541,38385,3179,Guess Women's Wrap Coat,Clothes,Clothes,1,179.99,179.99,11/16/2010
+777,27804,3180,Guess Women's Quilted Jacket,Clothes,Clothes,1,229.99,229.99,11/16/2010
+922,20281,3181,Guess Women's Moto Jacket,Clothes,Clothes,1,299.99,299.99,11/16/2010
+393,39686,3182,Guess Women's Jean Jacket,Clothes,Clothes,1,399.99,399.99,11/16/2010
+315,29799,3183,Guess Women's Skinny Jeans,Clothes,Clothes,2,299.99,599.98,11/16/2010
+268,37354,3184,Guess Women's Boot Cut Jeans,Clothes,Clothes,3,299.99,899.97,11/16/2010
+10,15040,3185,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,134.99,134.99,11/16/2010
+837,26589,3186,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,999.99,999.99,11/16/2010
+392,26651,3187,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,599.99,599.99,11/16/2010
+580,42510,3188,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,149.99,149.99,11/16/2010
+641,23849,3191,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,1199.99,1199.99,11/16/2010
+373,364,3192,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,199.99,199.99,11/16/2010
+741,14151,3193,Guess Women's Wrap Coat,Clothes,Clothes,1,319.99,319.99,11/16/2010
+652,12087,3194,Guess Women's Quilted Jacket,Clothes,Clothes,1,399.99,399.99,11/16/2010
+44,19262,3195,Anastasia Beverly Hills Dress,Clothes,Clothes,1,449.99,449.99,11/16/2010
+458,22671,3196,Guess Fit and Flair Dress,Clothes,Clothes,2,229.99,459.98,11/17/2010
+493,14948,3197,Bar III Cropped Jacket,Clothes,Clothes,1,599.99,599.99,11/17/2010
+291,21918,3198,Anne Klein Fayza Dress Shoes,Clothes,Clothes,2,278.99,557.98,11/17/2010
+133,37263,3199,Anne Klein Barb Dress Shoes,Clothes,Clothes,2,599.99,1199.98,11/17/2010
+723,29058,3200,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,278.99,278.99,11/17/2010
+6,30048,3201,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,179.99,179.99,11/17/2010
+502,24115,3202,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,449.99,449.99,11/17/2010
+765,8485,3203,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,449.99,449.99,11/17/2010
+441,40676,3204,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,199.99,199.99,11/24/2010
+413,2981,3205,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,699.99,699.99,11/17/2010
+340,7877,3206,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,229.99,229.99,11/17/2010
+756,17582,3209,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,149.99,149.99,11/17/2010
+555,15041,3210,Nike Women's Black Leggings,Clothes,Clothes,1,149.99,149.99,11/17/2010
+276,36987,3211,Nike Women's Blue Leggings,Clothes,Clothes,3,149.99,449.97,11/17/2010
+709,30461,3212,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,599.99,599.99,11/17/2010
+751,36266,3213,Nike Women's Flash Running Tights,Clothes,Clothes,1,599.99,599.99,11/17/2010
+719,173,3214,Elie Tahari One Button Jacket,Clothes,Clothes,3,249.99,749.97,11/17/2010
+896,26270,6177,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,299.99,299.99,11/17/2010
+518,25599,6178,Elie Tahari Black Career Suit,Clothes,Clothes,1,249.99,249.99,11/17/2010
+716,2273,6179,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,399.99,399.99,11/17/2010
+987,22152,6180,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,429.99,429.99,11/17/2010
+436,37730,6181,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/17/2010
+852,9038,6182,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,499.99,499.99,11/17/2010
+757,27088,6183,Elie Tahari White Career Blouse,Clothes,Clothes,1,429.99,429.99,11/17/2010
+766,30088,6184,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,639.99,639.99,11/17/2010
+296,16674,6185,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,399.99,399.99,11/17/2010
+629,41425,6186,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,399.99,399.99,11/17/2010
+573,17685,6187,Nike  Women's Air Max,Clothes,Clothes,1,239.99,239.99,11/17/2010
+499,40474,6188,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,2,194.99,389.98,11/17/2010
+581,15191,6191,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,779.99,779.99,11/17/2010
+877,259,6192,Nike Women Free Running Sneakers,Clothes,Clothes,1,134.99,134.99,11/17/2010
+107,31177,6193,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,499.99,499.99,11/17/2010
+10,29181,6194,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,2,509.99,1019.98,11/17/2010
+707,37626,6195,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,194.99,194.99,11/17/2010
+650,30917,6196,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,499.99,499.99,11/17/2010
+794,32831,6197,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,1039.99,1039.99,11/17/2010
+996,42887,6198,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,1199.99,1199.99,11/18/2010
+699,7380,6199,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,2,299.99,599.98,11/18/2010
+743,18577,6200,Guess Women's Wrap Coat,Clothes,Clothes,1,599.99,599.99,11/18/2010
+580,14744,6201,Guess Women's Quilted Jacket,Clothes,Clothes,1,899.99,899.99,11/18/2010
+24,15697,6202,Guess Women's Moto Jacket,Clothes,Clothes,1,399.99,399.99,11/18/2010
+748,25174,6203,Guess Women's Jean Jacket,Clothes,Clothes,1,279.99,279.99,11/18/2010
+589,33445,6204,Guess Women's Skinny Jeans,Clothes,Clothes,1,399.99,399.99,11/18/2010
+533,41120,6205,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,1299.99,1299.99,11/18/2010
+762,22884,6206,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,1299.99,1299.99,11/18/2010
+788,35547,6209,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,299.99,299.99,11/18/2010
+900,14817,6210,Tommy Arianna Tote,Clothes,Clothes,1,179.99,179.99,11/18/2010
+754,37570,6211,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,186.99,186.99,11/18/2010
+172,24163,6212,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,179.99,179.99,11/18/2010
+180,11610,6213,Elie Tahari Jocelyn Dress,Clothes,Clothes,2,699.99,1399.98,11/18/2010
+273,4022,6214,Elie Tahari Emory Dress,Clothes,Clothes,1,599.99,599.99,11/18/2010
+14,31664,3177,Elie Tahari Ophelia Dress,Clothes,Clothes,1,499.99,499.99,11/18/2010
+462,2729,3178,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,649.99,649.99,11/18/2010
+897,10,3179,Adidas Black Running Tights,Clothes,Clothes,1,134.99,134.99,11/18/2010
+572,33218,3180,Adidas Originals Black Hoodie,Clothes,Clothes,1,599.99,599.99,11/18/2010
+320,24159,3181,Adidas Originals Grey Hoodie,Clothes,Clothes,1,449.99,449.99,11/18/2010
+711,11586,3182,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,249.99,249.99,11/18/2010
+767,23278,3183,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,539.99,539.99,11/18/2010
+899,27114,3184,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,229.99,229.99,11/18/2010
+254,36642,3185,Adidas Originals Grey Running Tights,Clothes,Clothes,1,449.99,449.99,11/18/2010
+193,3409,3186,Adidas Training Pant - Black,Clothes,Clothes,1,449.99,449.99,11/18/2010
+13,22951,3187,Adidas Training Pant - White,Clothes,Clothes,2,104.99,209.98,11/18/2010
+164,13055,3188,Adidas Classic 3-stripe pant,Clothes,Clothes,1,199.99,199.99,11/18/2010
+799,3483,3191,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,299.99,299.99,11/18/2010
+177,6306,3192,Elie Tahari Lace Dress,Clothes,Clothes,1,229.99,229.99,11/18/2010
+125,1544,3193,Adidas Training Pant - Black,Clothes,Clothes,1,559.99,559.99,11/18/2010
+127,26407,3194,Adidas Originals Grey Running Tights,Clothes,Clothes,1,299.99,299.99,11/18/2010
+248,2610,3195,Anastasia Beverly Hills Dress,Clothes,Clothes,1,149.99,149.99,11/18/2010
+688,24437,3196,Guess Fit and Flair Dress,Clothes,Clothes,1,449.99,449.99,11/18/2010
+506,32091,3197,Bar III Cropped Jacket,Clothes,Clothes,2,399.99,799.98,11/18/2010
+380,13348,3198,Anne Klein Fayza Dress Shoes,Clothes,Clothes,2,399.99,799.98,11/18/2010
+216,27228,3199,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,499.99,499.99,11/18/2010
+56,15219,3200,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,2,179.99,359.98,11/18/2010
+975,24574,3201,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,324.99,324.99,11/18/2010
+923,21782,3202,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,2,1099.99,2199.98,11/18/2010
+350,22245,3203,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,499.99,499.99,11/18/2010
+816,11636,3204,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,399.99,399.99,11/19/2010
+786,13580,3205,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,639.99,639.99,11/19/2010
+771,20966,3206,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,299.99,299.99,11/19/2010
+955,2014,3209,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,2,229.99,459.98,11/19/2010
+630,40367,3210,Nike Women's Black Leggings,Clothes,Clothes,1,149.99,149.99,11/19/2010
+775,24876,3211,Nike Women's Blue Leggings,Clothes,Clothes,1,134.99,134.99,11/19/2010
+399,10673,3212,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,134.99,134.99,11/19/2010
+543,4218,3213,Nike Women's Flash Running Tights,Clothes,Clothes,1,194.99,194.99,11/19/2010
+853,13936,3214,Elie Tahari One Button Jacket,Clothes,Clothes,2,199.99,399.98,11/19/2010
+737,40538,6177,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,1099.99,1099.99,11/19/2010
+497,7999,6178,Elie Tahari Black Career Suit,Clothes,Clothes,1,449.99,449.99,11/19/2010
+619,17140,6179,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,2,449.99,899.98,11/19/2010
+146,23213,6180,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,2,171.99,343.98,11/19/2010
+96,3410,6181,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,999.99,999.99,11/19/2010
+3,38700,6182,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,299.99,299.99,11/19/2010
+396,2540,6183,Elie Tahari White Career Blouse,Clothes,Clothes,2,278.99,557.98,11/19/2010
+986,12490,6184,Nike Women's Hyperspike Shoe,Clothes,Clothes,2,1199.99,2399.98,11/19/2010
+992,32585,6185,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,299.99,299.99,11/19/2010
+827,6645,6186,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,399.99,399.99,11/19/2010
+8,4495,6187,Nike  Women's Air Max,Clothes,Clothes,1,278.99,278.99,11/19/2010
+113,21614,6188,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,149.99,149.99,11/19/2010
+561,13981,6191,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,2,324.99,649.98,11/19/2010
+479,29831,6192,Nike Women Free Running Sneakers,Clothes,Clothes,2,599.99,1199.98,11/19/2010
+745,20830,6193,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,324.99,324.99,11/19/2010
+303,20425,6194,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,299.99,299.99,11/19/2010
+97,15089,6195,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,999.99,999.99,11/19/2010
+307,29308,6196,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,291.99,291.99,11/19/2010
+782,26654,6197,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,2,584.99,1169.98,11/19/2010
+145,9013,6198,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,2,449.99,899.98,11/19/2010
+147,34740,6199,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,429.99,429.99,11/19/2010
+780,40394,6200,Guess Women's Wrap Coat,Clothes,Clothes,1,449.99,449.99,11/19/2010
+972,14014,6201,Guess Women's Quilted Jacket,Clothes,Clothes,1,239.99,239.99,11/19/2010
+720,8839,6202,Guess Women's Moto Jacket,Clothes,Clothes,1,149.99,149.99,11/19/2010
+415,29582,6203,Guess Women's Jean Jacket,Clothes,Clothes,1,239.99,239.99,11/19/2010
+358,12810,6204,Guess Women's Skinny Jeans,Clothes,Clothes,2,149.99,299.98,11/19/2010
+893,7713,6205,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,399.99,399.99,11/20/2010
+683,41319,6206,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,186.99,186.99,11/20/2010
+895,18077,6209,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,449.99,449.99,11/20/2010
+549,7962,6210,Tommy Arianna Tote,Clothes,Clothes,1,179.99,179.99,11/20/2010
+423,24693,6211,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,299.99,299.99,11/20/2010
+427,6066,6212,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,449.99,449.99,11/20/2010
+894,40777,6213,Elie Tahari Jocelyn Dress,Clothes,Clothes,2,575.99,1151.98,11/20/2010
+436,5541,6214,Elie Tahari Emory Dress,Clothes,Clothes,1,599.99,599.99,11/20/2010
+744,31768,3177,Elie Tahari Ophelia Dress,Clothes,Clothes,1,599.99,599.99,11/20/2010
+710,11936,3178,Elie Tahari Gwenyth Dress,Clothes,Clothes,3,324.99,974.97,11/20/2010
+655,24548,3179,Adidas Black Running Tights,Clothes,Clothes,1,319.99,319.99,11/20/2010
+667,6649,3180,Adidas Originals Black Hoodie,Clothes,Clothes,1,149.99,149.99,11/20/2010
+486,33749,3181,Adidas Originals Grey Hoodie,Clothes,Clothes,1,599.99,599.99,11/20/2010
+774,12623,3182,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,359.99,359.99,11/20/2010
+674,14540,3183,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,999.99,999.99,11/20/2010
+857,26663,3184,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,449.99,449.99,11/20/2010
+486,39069,3185,Adidas Originals Grey Running Tights,Clothes,Clothes,1,559.99,559.99,11/20/2010
+736,26319,3186,Adidas Training Pant - Black,Clothes,Clothes,1,429.99,429.99,11/20/2010
+437,10160,3187,Adidas Training Pant - White,Clothes,Clothes,1,499.99,499.99,11/20/2010
+790,3616,3188,Adidas Classic 3-stripe pant,Clothes,Clothes,1,539.99,539.99,11/20/2010
+469,12948,3191,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,299.99,299.99,11/20/2010
+733,27133,3192,Elie Tahari Lace Dress,Clothes,Clothes,1,299.99,299.99,11/20/2010
+830,38772,3193,Adidas Training Pant - Black,Clothes,Clothes,1,639.99,639.99,11/20/2010
+195,6186,3194,Adidas Originals Grey Running Tights,Clothes,Clothes,1,299.99,299.99,11/20/2010
+467,15263,3195,Anastasia Beverly Hills Dress,Clothes,Clothes,1,1099.99,1099.99,11/20/2010
+337,40111,3196,Guess Fit and Flair Dress,Clothes,Clothes,1,584.99,584.99,11/20/2010
+96,42235,3197,Bar III Cropped Jacket,Clothes,Clothes,2,599.99,1199.98,11/20/2010
+139,35793,3198,Anne Klein Fayza Dress Shoes,Clothes,Clothes,1,1099.99,1099.99,11/20/2010
+921,28744,3199,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,149.99,149.99,11/20/2010
+821,36194,3200,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,399.99,399.99,11/20/2010
+759,39831,3201,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,499.99,499.99,11/20/2010
+479,5270,3202,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,299.99,299.99,11/20/2010
+174,6865,3203,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,575.99,575.99,11/20/2010
+183,23190,3204,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,899.99,899.99,11/20/2010
+11,2519,3205,Calvin Klein Textured Sheath Dress,Clothes,Clothes,2,291.99,583.98,11/20/2010
+919,13774,3206,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,229.99,229.99,11/20/2010
+467,1663,3209,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,2,229.99,459.98,11/20/2010
+319,4898,3210,Nike Women's Black Leggings,Clothes,Clothes,1,134.99,134.99,11/20/2010
+666,9148,3211,Nike Women's Blue Leggings,Clothes,Clothes,1,199.99,199.99,11/20/2010
+541,6065,3212,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,899.99,899.99,11/20/2010
+200,36100,3213,Nike Women's Flash Running Tights,Clothes,Clothes,2,499.99,999.98,11/20/2010
+147,941,3214,Elie Tahari One Button Jacket,Clothes,Clothes,1,699.99,699.99,11/20/2010
+446,42979,6177,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,1299.99,1299.99,11/20/2010
+805,38575,6178,Elie Tahari Black Career Suit,Clothes,Clothes,1,179.99,179.99,11/20/2010
+199,12534,6179,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,449.99,449.99,11/20/2010
+535,13001,6180,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,179.99,179.99,11/20/2010
+292,18510,6181,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/20/2010
+832,5309,6182,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,299.99,299.99,11/20/2010
+718,26690,6183,Elie Tahari White Career Blouse,Clothes,Clothes,2,149.99,299.98,11/20/2010
+543,39033,6184,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,599.99,599.99,11/20/2010
+400,20929,6185,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,899.99,899.99,11/20/2010
+828,42740,6186,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,3,429.99,1289.97,11/20/2010
+737,23011,6187,Nike  Women's Air Max,Clothes,Clothes,1,249.99,249.99,11/20/2010
+263,37859,6188,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,2,499.99,999.98,11/20/2010
+368,12535,6191,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,104.99,104.99,11/21/2010
+717,29,6192,Nike Women Free Running Sneakers,Clothes,Clothes,1,194.99,194.99,11/21/2010
+258,18224,6193,Ralph Lauren Hooded Pullover,Clothes,Clothes,2,584.99,1169.98,11/21/2010
+948,20978,6194,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,2,399.99,799.98,11/21/2010
+883,13760,6195,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,299.99,299.99,11/21/2010
+184,35179,6196,Ralph Lauren Cashmere Sweater,Clothes,Clothes,2,179.99,359.98,11/21/2010
+888,34856,6197,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,199.99,199.99,11/21/2010
+903,39615,6198,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,599.99,599.99,11/21/2010
+769,30579,6199,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,2,449.99,899.98,11/21/2010
+313,18607,6200,Guess Women's Wrap Coat,Clothes,Clothes,1,299.99,299.99,11/21/2010
+451,41657,6201,Guess Women's Quilted Jacket,Clothes,Clothes,1,449.99,449.99,11/21/2010
+870,11351,6202,Guess Women's Moto Jacket,Clothes,Clothes,1,149.99,149.99,11/21/2010
+756,1324,6203,Guess Women's Jean Jacket,Clothes,Clothes,1,399.99,399.99,11/21/2010
+566,1226,6204,Guess Women's Skinny Jeans,Clothes,Clothes,1,299.99,299.99,11/21/2010
+78,5692,6205,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,499.99,499.99,11/21/2010
+74,13496,6206,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,599.99,599.99,11/21/2010
+754,2132,6209,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,499.99,499.99,11/21/2010
+512,842,6210,Tommy Arianna Tote,Clothes,Clothes,1,599.99,599.99,11/21/2010
+744,13369,6211,Tommy Hilfiger Everyday Tote,Clothes,Clothes,3,1199.99,3599.97,11/21/2010
+688,39961,6212,Tommy Hilfiger Alexa purse ,Clothes,Clothes,2,599.99,1199.98,11/21/2010
+459,40943,6213,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,1199.99,1199.99,11/21/2010
+367,4192,6214,Elie Tahari Emory Dress,Clothes,Clothes,1,1099.99,1099.99,11/21/2010
+189,249,3177,Elie Tahari Ophelia Dress,Clothes,Clothes,1,319.99,319.99,11/21/2010
+519,29847,3178,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,599.99,599.99,11/21/2010
+419,31508,3179,Adidas Black Running Tights,Clothes,Clothes,1,149.99,149.99,11/21/2010
+114,38824,3180,Adidas Originals Black Hoodie,Clothes,Clothes,3,324.99,974.97,11/21/2010
+911,4268,3181,Adidas Originals Grey Hoodie,Clothes,Clothes,1,278.99,278.99,11/21/2010
+523,40507,3182,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,779.99,779.99,11/21/2010
+669,29711,3183,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,714.99,714.99,11/21/2010
+707,23048,3184,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,559.99,559.99,11/21/2010
+5,37690,3185,Adidas Originals Grey Running Tights,Clothes,Clothes,3,779.99,2339.97,11/21/2010
+115,10798,3186,Adidas Training Pant - Black,Clothes,Clothes,1,779.99,779.99,11/21/2010
+458,35024,3187,Adidas Training Pant - White,Clothes,Clothes,1,479.99,479.99,11/21/2010
+476,5998,3188,Adidas Classic 3-stripe pant,Clothes,Clothes,1,449.99,449.99,11/21/2010
+155,40020,3191,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,314.99,314.99,11/21/2010
+757,22597,3192,Elie Tahari Lace Dress,Clothes,Clothes,1,299.99,299.99,11/21/2010
+678,2713,3193,Adidas Training Pant - Black,Clothes,Clothes,3,449.99,1349.97,11/22/2010
+840,8373,3194,Adidas Originals Grey Running Tights,Clothes,Clothes,1,1199.99,1199.99,11/22/2010
+750,23006,3195,Anastasia Beverly Hills Dress,Clothes,Clothes,1,599.99,599.99,11/22/2010
+884,8137,3196,Guess Fit and Flair Dress,Clothes,Clothes,1,429.99,429.99,11/22/2010
+534,17699,3197,Bar III Cropped Jacket,Clothes,Clothes,1,449.99,449.99,11/22/2010
+439,17081,3198,Anne Klein Fayza Dress Shoes,Clothes,Clothes,1,599.99,599.99,11/22/2010
+985,30788,3199,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,899.99,899.99,11/22/2010
+810,25226,3200,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,1299.99,1299.99,11/22/2010
+43,40796,3201,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,629.99,629.99,11/22/2010
+115,15042,3202,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,2,599.99,1199.98,11/24/2010
+677,11959,3203,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,149.99,149.99,11/22/2010
+747,29171,3204,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,779.99,779.99,11/22/2010
+679,42012,3205,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,149.99,149.99,11/22/2010
+666,34404,3206,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,999.99,999.99,11/22/2010
+792,18515,3209,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,2,229.99,459.98,11/22/2010
+664,20291,3210,Nike Women's Black Leggings,Clothes,Clothes,1,499.99,499.99,11/22/2010
+336,29303,3211,Nike Women's Blue Leggings,Clothes,Clothes,2,299.99,599.98,11/22/2010
+414,24038,3212,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,1039.99,1039.99,11/22/2010
+847,36615,3213,Nike Women's Flash Running Tights,Clothes,Clothes,2,429.99,859.98,11/22/2010
+639,19776,3214,Elie Tahari One Button Jacket,Clothes,Clothes,1,899.99,899.99,11/22/2010
+823,5082,6177,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,314.99,314.99,11/22/2010
+629,10656,6178,Elie Tahari Black Career Suit,Clothes,Clothes,2,229.99,459.98,11/22/2010
+468,9668,6179,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,599.99,599.99,11/22/2010
+452,26717,6180,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/22/2010
+554,37741,6181,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,539.99,539.99,11/22/2010
+84,42959,6182,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,429.99,429.99,11/22/2010
+764,40092,6183,Elie Tahari White Career Blouse,Clothes,Clothes,1,599.99,599.99,11/22/2010
+545,12577,6184,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,449.99,449.99,11/22/2010
+582,39213,6185,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,1299.99,1299.99,11/22/2010
+406,20936,6186,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,599.99,599.99,11/22/2010
+234,20274,6187,Nike  Women's Air Max,Clothes,Clothes,1,299.99,299.99,11/22/2010
+67,6440,6188,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,149.99,149.99,11/22/2010
+771,31385,6191,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,599.99,599.99,11/22/2010
+382,31101,6192,Nike Women Free Running Sneakers,Clothes,Clothes,1,479.99,479.99,11/22/2010
+232,21974,6193,Ralph Lauren Hooded Pullover,Clothes,Clothes,2,179.99,359.98,11/22/2010
+204,33030,6194,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,299.99,299.99,11/22/2010
+558,16193,6195,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,399.99,799.98,11/22/2010
+991,36286,6196,Ralph Lauren Cashmere Sweater,Clothes,Clothes,2,499.99,999.98,11/22/2010
+821,4526,6197,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,279.99,279.99,11/22/2010
+488,11165,6198,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,399.99,399.99,11/22/2010
+841,1145,6199,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,2,179.99,359.98,11/22/2010
+100,10579,6200,Guess Women's Wrap Coat,Clothes,Clothes,2,299.99,599.98,11/22/2010
+816,42209,6201,Guess Women's Quilted Jacket,Clothes,Clothes,1,399.99,399.99,11/22/2010
+473,11544,6202,Guess Women's Moto Jacket,Clothes,Clothes,1,479.99,479.99,11/23/2010
+197,39304,6203,Guess Women's Jean Jacket,Clothes,Clothes,1,449.99,449.99,11/23/2010
+450,7914,6204,Guess Women's Skinny Jeans,Clothes,Clothes,3,194.99,584.97,11/23/2010
+518,31565,6205,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,171.99,171.99,11/23/2010
+547,6427,6206,Guess Women's Mid-rise Jeans,Clothes,Clothes,2,429.99,859.98,11/23/2010
+208,40368,6209,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,429.99,429.99,11/23/2010
+214,16733,6210,Tommy Arianna Tote,Clothes,Clothes,1,179.99,179.99,11/23/2010
+325,41770,6211,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,319.99,319.99,11/23/2010
+449,17821,6212,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,278.99,278.99,11/23/2010
+880,3477,6213,Elie Tahari Jocelyn Dress,Clothes,Clothes,1,429.99,429.99,11/23/2010
+844,31210,6214,Elie Tahari Emory Dress,Clothes,Clothes,1,171.99,171.99,11/23/2010
+767,1265,3177,Elie Tahari Ophelia Dress,Clothes,Clothes,1,599.99,599.99,11/23/2010
+212,23267,3178,Elie Tahari Gwenyth Dress,Clothes,Clothes,1,599.99,599.99,11/23/2010
+423,13268,3179,Adidas Black Running Tights,Clothes,Clothes,1,779.99,779.99,11/23/2010
+89,35623,3180,Adidas Originals Black Hoodie,Clothes,Clothes,1,599.99,599.99,11/23/2010
+20,1702,3181,Adidas Originals Grey Hoodie,Clothes,Clothes,1,149.99,149.99,11/23/2010
+503,27322,3182,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,399.99,399.99,11/23/2010
+411,8345,3183,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,429.99,429.99,11/23/2010
+765,27896,3184,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,399.99,399.99,11/23/2010
+517,14441,3185,Adidas Originals Grey Running Tights,Clothes,Clothes,1,1099.99,1099.99,11/23/2010
+343,30850,3186,Adidas Training Pant - Black,Clothes,Clothes,1,229.99,229.99,11/23/2010
+733,7898,3187,Adidas Training Pant - White,Clothes,Clothes,2,299.99,599.98,11/23/2010
+735,15727,3188,Adidas Classic 3-stripe pant,Clothes,Clothes,1,499.99,499.99,11/23/2010
+848,38166,3191,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,499.99,499.99,11/23/2010
+555,22766,3192,Elie Tahari Lace Dress,Clothes,Clothes,2,499.99,999.98,11/23/2010
+801,7470,3193,Adidas Training Pant - Black,Clothes,Clothes,1,449.99,449.99,11/23/2010
+131,25093,3194,Adidas Originals Grey Running Tights,Clothes,Clothes,1,149.99,149.99,11/23/2010
+592,23529,3195,Adidas Originals Black Hoodie,Clothes,Clothes,1,149.99,149.99,11/23/2010
+536,26251,3196,Adidas Originals Grey Hoodie,Clothes,Clothes,1,429.99,429.99,11/23/2010
+924,12567,3197,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,149.99,149.99,11/23/2010
+875,13175,3198,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,2,449.99,899.98,11/23/2010
+206,1336,3199,Adidas Originals Black Hoodie,Clothes,Clothes,1,499.99,499.99,11/23/2010
+119,29864,3200,Adidas Originals Grey Hoodie,Clothes,Clothes,1,149.99,149.99,11/23/2010
+600,15508,3201,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,479.99,479.99,11/23/2010
+707,36852,3202,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,3,1299.99,3899.97,11/23/2010
+373,40419,3203,Adidas Originals Black Hoodie,Clothes,Clothes,1,449.99,449.99,11/23/2010
+452,12757,3204,Adidas Originals Grey Hoodie,Clothes,Clothes,1,179.99,179.99,11/23/2010
+814,35503,3205,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,399.99,399.99,11/23/2010
+608,30929,3206,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,1199.99,1199.99,11/23/2010
+893,5144,3209,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,239.99,239.99,11/23/2010
+57,12805,3210,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,186.99,186.99,11/23/2010
+183,17744,3211,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,449.99,449.99,11/24/2010
+706,13307,3212,Elie Tahari White Career Blouse,Clothes,Clothes,1,449.99,449.99,11/24/2010
+775,21976,3213,Nike Women's Hyperspike Shoe,Clothes,Clothes,2,229.99,459.98,11/24/2010
+50,29954,3214,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,599.99,599.99,11/24/2010
+722,18819,6177,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,149.99,149.99,11/24/2010
+591,27009,6178,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,449.99,449.99,11/24/2010
+365,41851,6179,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,3,249.99,749.97,11/24/2010
+841,30025,6180,Elie Tahari White Career Blouse,Clothes,Clothes,1,399.99,399.99,11/24/2010
+738,7363,6181,Nike Women's Hyperspike Shoe,Clothes,Clothes,2,1199.99,2399.98,11/24/2010
+184,12134,6182,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,575.99,575.99,11/24/2010
+619,23788,6183,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,149.99,149.99,11/24/2010
+723,29706,6184,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,2,629.99,1259.98,11/24/2010
+6,40084,6185,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,2,599.99,1199.98,11/24/2010
+833,14538,6186,Elie Tahari White Career Blouse,Clothes,Clothes,1,239.99,239.99,11/24/2010
+833,8789,6187,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,194.99,194.99,11/24/2010
+536,23995,6188,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,134.99,134.99,11/24/2010
+92,25299,6191,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,291.99,291.99,11/24/2010
+441,14764,6192,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,575.99,575.99,11/24/2010
+174,15061,6193,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,299.99,299.99,11/24/2010
+551,24420,6194,Elie Tahari White Career Blouse,Clothes,Clothes,2,509.99,1019.98,11/24/2010
+689,14245,6195,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,1039.99,1039.99,11/24/2010
+820,36817,6196,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,999.99,999.99,11/24/2010
+755,22484,6197,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,291.99,291.99,11/24/2010
+218,6124,6198,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,359.99,359.99,11/24/2010
+718,34924,6199,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,499.99,499.99,11/24/2010
+298,31533,6200,Elie Tahari White Career Blouse,Clothes,Clothes,2,499.99,999.98,11/24/2010
+33,20215,6201,Nike Women's Hyperspike Shoe,Clothes,Clothes,3,699.99,2099.97,11/24/2010
+866,5760,6202,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,399.99,399.99,11/24/2010
+365,20294,6203,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,639.99,639.99,11/24/2010
+515,17469,6204,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,399.99,799.98,11/24/2010
+929,16480,6205,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,599.99,599.99,11/24/2010
+791,29122,6206,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,449.99,449.99,11/24/2010
+134,9694,6209,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,2,149.99,299.98,11/24/2010
+856,41721,6210,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,449.99,449.99,11/24/2010
+414,40152,6211,Guess Women's Wrap Coat,Clothes,Clothes,1,299.99,299.99,11/24/2010
+506,42220,6212,Guess Women's Quilted Jacket,Clothes,Clothes,1,449.99,449.99,11/24/2010
+989,27557,6213,Guess Women's Moto Jacket,Clothes,Clothes,1,229.99,229.99,11/24/2010
+42,8751,6214,Guess Women's Jean Jacket,Clothes,Clothes,1,249.99,249.99,11/24/2010
+649,3531,3177,Guess Women's Skinny Jeans,Clothes,Clothes,1,199.99,199.99,11/25/2010
+949,33439,3178,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,299.99,299.99,11/25/2010
+263,30494,3179,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,2,229.99,459.98,11/25/2010
+362,26314,3180,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,509.99,509.99,11/25/2010
+887,26446,3181,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,299.99,299.99,11/25/2010
+581,15583,3182,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,779.99,779.99,11/25/2010
+50,2399,3183,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,599.99,599.99,11/25/2010
+810,28772,3184,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,599.99,599.99,11/25/2010
+555,17100,3185,Guess Women's Wrap Coat,Clothes,Clothes,2,429.99,859.98,11/25/2010
+740,40006,3186,Guess Women's Quilted Jacket,Clothes,Clothes,1,299.99,299.99,11/25/2010
+499,37273,3187,Guess Women's Moto Jacket,Clothes,Clothes,2,779.99,1559.98,11/25/2010
+745,39305,3188,Guess Women's Jean Jacket,Clothes,Clothes,1,999.99,999.99,11/25/2010
+182,34578,3191,Guess Women's Skinny Jeans,Clothes,Clothes,1,299.99,299.99,11/25/2010
+757,1482,3192,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,539.99,539.99,11/25/2010
+176,1658,3193,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,239.99,239.99,11/25/2010
+627,1081,3194,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,599.99,599.99,11/25/2010
+438,9032,3195,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,229.99,229.99,11/25/2010
+171,20641,3196,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,1299.99,1299.99,11/25/2010
+684,41997,3197,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,239.99,239.99,11/25/2010
+871,7444,3198,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,2,599.99,1199.98,11/25/2010
+545,27446,3199,Guess Women's Wrap Coat,Clothes,Clothes,1,639.99,639.99,11/25/2010
+343,37530,3200,Guess Women's Quilted Jacket,Clothes,Clothes,2,149.99,299.98,11/25/2010
+270,31979,3201,Guess Women's Moto Jacket,Clothes,Clothes,1,399.99,399.99,11/25/2010
+715,40227,3202,Guess Women's Jean Jacket,Clothes,Clothes,1,499.99,499.99,11/25/2010
+535,9992,3203,Guess Women's Skinny Jeans,Clothes,Clothes,1,1039.99,1039.99,11/25/2010
+911,28005,3204,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,479.99,479.99,11/25/2010
+412,13579,3205,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,299.99,299.99,11/25/2010
+946,41846,3206,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,149.99,149.99,11/25/2010
+306,30840,3209,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,449.99,449.99,11/25/2010
+724,40954,3210,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,639.99,639.99,11/25/2010
+449,20873,3211,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,149.99,149.99,11/25/2010
+799,42492,3212,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,899.99,899.99,11/25/2010
+762,20154,3213,Guess Women's Wrap Coat,Clothes,Clothes,1,239.99,239.99,11/25/2010
+202,12706,3214,Guess Women's Quilted Jacket,Clothes,Clothes,1,999.99,999.99,11/25/2010
+515,28,6177,Guess Women's Moto Jacket,Clothes,Clothes,1,291.99,291.99,11/25/2010
+496,8692,6178,Guess Women's Jean Jacket,Clothes,Clothes,1,249.99,249.99,11/25/2010
+541,16125,6179,Guess Women's Skinny Jeans,Clothes,Clothes,1,249.99,249.99,11/25/2010
+373,2745,6180,Guess Women's Boot Cut Jeans,Clothes,Clothes,1,599.99,599.99,11/26/2010
+465,39145,6181,Anastasia Beverly Hills Dress,Clothes,Clothes,1,399.99,399.99,11/26/2010
+749,27699,6182,Guess Fit and Flair Dress,Clothes,Clothes,1,324.99,324.99,11/26/2010
+190,38297,6183,Bar III Cropped Jacket,Clothes,Clothes,1,199.99,199.99,11/26/2010
+623,43142,6184,Anne Klein Fayza Dress Shoes,Clothes,Clothes,2,199.99,399.98,11/26/2010
+688,32020,6185,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,399.99,399.99,11/26/2010
+28,34530,6186,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,194.99,194.99,11/26/2010
+171,27265,6187,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,2,449.99,899.98,11/26/2010
+968,8661,6188,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,599.99,599.99,11/26/2010
+722,25999,6191,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,639.99,639.99,11/26/2010
+824,10411,6192,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,2,194.99,389.98,11/26/2010
+923,35361,6193,Calvin Klein Textured Sheath Dress,Clothes,Clothes,2,599.99,1199.98,11/26/2010
+522,29653,6194,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,3,399.99,1199.97,11/26/2010
+522,16601,6195,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,575.99,575.99,11/26/2010
+667,13030,6196,Nike Women's Black Leggings,Clothes,Clothes,1,499.99,499.99,11/26/2010
+93,9011,6197,Nike Women's Blue Leggings,Clothes,Clothes,1,499.99,499.99,11/26/2010
+111,1858,6198,Nike Women's Miulticolor Leggings,Clothes,Clothes,2,299.99,599.98,11/26/2010
+940,2095,6199,Nike Women's Flash Running Tights,Clothes,Clothes,2,699.99,1399.98,11/26/2010
+709,39426,6200,Elie Tahari One Button Jacket,Clothes,Clothes,1,899.99,899.99,11/26/2010
+720,43159,6201,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,299.99,299.99,11/26/2010
+716,16364,6202,Elie Tahari Black Career Suit,Clothes,Clothes,1,279.99,279.99,11/26/2010
+706,33249,6203,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,399.99,399.99,11/26/2010
+495,11376,6204,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,2,299.99,599.98,11/26/2010
+14,39260,6205,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,239.99,239.99,11/26/2010
+451,33705,6206,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,599.99,599.99,11/26/2010
+213,35390,6209,Elie Tahari White Career Blouse,Clothes,Clothes,1,291.99,291.99,11/26/2010
+103,42698,6210,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,559.99,559.99,11/26/2010
+582,12801,6211,Nike Women's Air Max Running Shoe,Clothes,Clothes,2,104.99,209.98,11/26/2010
+776,24813,6212,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,399.99,399.99,11/26/2010
+330,17505,6213,Nike  Women's Air Max,Clothes,Clothes,1,449.99,449.99,11/26/2010
+734,13387,6214,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,779.99,779.99,11/26/2010
+889,14803,3177,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,509.99,509.99,11/26/2010
+61,25961,3178,Nike Women Free Running Sneakers,Clothes,Clothes,1,149.99,149.99,11/26/2010
+348,11627,3179,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,149.99,149.99,11/26/2010
+843,10400,3180,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,449.99,449.99,11/27/2010
+650,12527,3181,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,299.99,599.98,11/27/2010
+940,8283,3182,Ralph Lauren Cashmere Sweater,Clothes,Clothes,1,399.99,399.99,11/27/2010
+515,26614,3183,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,479.99,479.99,11/27/2010
+397,38003,3184,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,1039.99,1039.99,11/27/2010
+117,13576,3185,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,599.99,599.99,11/27/2010
+918,24504,3186,Guess Women's Wrap Coat,Clothes,Clothes,1,314.99,314.99,11/27/2010
+578,28617,3187,Guess Women's Quilted Jacket,Clothes,Clothes,1,249.99,249.99,11/27/2010
+394,3011,3188,Guess Women's Moto Jacket,Clothes,Clothes,2,179.99,359.98,11/27/2010
+334,8092,3191,Guess Women's Jean Jacket,Clothes,Clothes,1,229.99,229.99,11/27/2010
+703,1671,3192,Guess Women's Skinny Jeans,Clothes,Clothes,1,584.99,584.99,11/27/2010
+901,15362,3193,Guess Women's Boot Cut Jeans,Clothes,Clothes,2,499.99,999.98,11/27/2010
+889,31777,3194,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,429.99,429.99,11/27/2010
+58,15971,3195,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,699.99,699.99,11/27/2010
+685,41888,3196,Tommy Arianna Tote,Clothes,Clothes,1,584.99,584.99,11/27/2010
+405,25148,3197,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,149.99,149.99,11/27/2010
+523,38169,3198,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,399.99,399.99,11/27/2010
+833,41371,3199,Elie Tahari Jocelyn Dress,Clothes,Clothes,2,299.99,599.98,11/27/2010
+263,13987,3200,Elie Tahari Emory Dress,Clothes,Clothes,1,299.99,299.99,11/27/2010
+503,890,3201,Elie Tahari Ophelia Dress,Clothes,Clothes,1,429.99,429.99,11/27/2010
+196,7176,3202,Elie Tahari Gwenyth Dress,Clothes,Clothes,2,324.99,649.98,11/27/2010
+961,17666,3203,Adidas Black Running Tights,Clothes,Clothes,1,1199.99,1199.99,11/27/2010
+316,1435,3204,Adidas Originals Black Hoodie,Clothes,Clothes,1,449.99,449.99,11/27/2010
+146,20883,3205,Adidas Originals Grey Hoodie,Clothes,Clothes,1,1099.99,1099.99,11/27/2010
+71,33222,3206,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,639.99,639.99,11/27/2010
+547,6026,3209,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,779.99,779.99,11/27/2010
+300,29128,3210,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,2,779.99,1559.98,11/27/2010
+218,7235,3211,Adidas Originals Grey Running Tights,Clothes,Clothes,2,429.99,859.98,11/27/2010
+980,23189,3212,Adidas Training Pant - Black,Clothes,Clothes,1,1099.99,1099.99,11/28/2010
+632,13078,3213,Adidas Training Pant - White,Clothes,Clothes,2,299.99,599.98,11/28/2010
+926,3059,3214,Adidas Classic 3-stripe pant,Clothes,Clothes,2,324.99,649.98,11/28/2010
+628,39612,6177,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,2,599.99,1199.98,11/28/2010
+716,28898,6178,Elie Tahari Lace Dress,Clothes,Clothes,2,324.99,649.98,11/28/2010
+368,32145,6179,Adidas Training Pant - Black,Clothes,Clothes,1,199.99,199.99,11/28/2010
+861,9827,6180,Adidas Originals Grey Running Tights,Clothes,Clothes,1,699.99,699.99,11/28/2010
+96,26,6181,Anastasia Beverly Hills Dress,Clothes,Clothes,1,239.99,239.99,11/28/2010
+610,12179,6182,Guess Fit and Flair Dress,Clothes,Clothes,3,1199.99,3599.97,11/28/2010
+573,24804,6183,Bar III Cropped Jacket,Clothes,Clothes,1,1199.99,1199.99,11/28/2010
+598,26410,6184,Anne Klein Fayza Dress Shoes,Clothes,Clothes,1,299.99,299.99,11/28/2010
+599,21961,6185,Anne Klein Barb Dress Shoes,Clothes,Clothes,1,899.99,899.99,11/28/2010
+213,3290,6186,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,314.99,314.99,11/28/2010
+597,14284,6187,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,499.99,499.99,11/28/2010
+213,23192,6188,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,639.99,639.99,11/28/2010
+546,13442,6191,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,399.99,399.99,11/28/2010
+61,10365,6192,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,429.99,429.99,11/28/2010
+171,19901,6193,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,399.99,399.99,11/28/2010
+976,12393,6194,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,639.99,639.99,11/28/2010
+155,16858,6195,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,399.99,399.99,11/28/2010
+898,11390,6196,Nike Women's Black Leggings,Clothes,Clothes,1,639.99,639.99,11/28/2010
+399,11501,6197,Nike Women's Blue Leggings,Clothes,Clothes,1,399.99,399.99,11/28/2010
+530,14008,6198,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,149.99,149.99,11/28/2010
+556,1776,6199,Nike Women's Flash Running Tights,Clothes,Clothes,1,399.99,399.99,11/28/2010
+9,5857,6200,Elie Tahari One Button Jacket,Clothes,Clothes,1,779.99,779.99,11/28/2010
+588,6156,6201,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,449.99,449.99,11/28/2010
+930,12464,6202,Elie Tahari Black Career Suit,Clothes,Clothes,1,429.99,429.99,11/28/2010
+824,37362,6203,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,2,449.99,899.98,11/28/2010
+775,36011,6204,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,399.99,399.99,11/28/2010
+889,23457,6205,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,449.99,449.99,11/28/2010
+713,14756,6206,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,2,599.99,1199.98,11/28/2010
+511,25298,6209,Elie Tahari White Career Blouse,Clothes,Clothes,1,229.99,229.99,11/28/2010
+375,5278,6210,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,149.99,149.99,11/28/2010
+918,30911,6211,Nike Women's Air Max Running Shoe,Clothes,Clothes,2,229.99,459.98,11/28/2010
+676,34286,6212,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,1299.99,1299.99,11/28/2010
+936,22842,6213,Nike  Women's Air Max,Clothes,Clothes,1,1299.99,1299.99,11/28/2010
+241,28595,6214,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,999.99,999.99,11/28/2010
+370,29094,3177,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,649.99,649.99,11/29/2010
+887,40226,3178,Nike Women Free Running Sneakers,Clothes,Clothes,1,899.99,899.99,11/29/2010
+761,21139,3179,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,539.99,539.99,11/29/2010
+800,34497,3180,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,299.99,299.99,11/29/2010
+804,21596,3181,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,2,559.99,1119.98,11/29/2010
+116,31532,3182,Ralph Lauren Cashmere Sweater,Clothes,Clothes,2,399.99,799.98,11/29/2010
+3,38736,3183,Ralph Lauren Ribbed Cotton Sweater,Clothes,Clothes,1,429.99,429.99,11/29/2010
+405,13754,3184,Ralph Lauren Sport Cable Knit Sweater,Clothes,Clothes,1,699.99,699.99,11/29/2010
+199,28600,3185,Guess Women's Full Collar Short Down Jacket,Clothes,Clothes,1,299.99,299.99,11/29/2010
+889,28631,3186,Guess Women's Wrap Coat,Clothes,Clothes,1,449.99,449.99,11/29/2010
+209,36946,3187,Guess Women's Quilted Jacket,Clothes,Clothes,3,149.99,449.97,11/29/2010
+998,1910,3188,Guess Women's Moto Jacket,Clothes,Clothes,2,599.99,1199.98,11/29/2010
+810,33718,3191,Guess Women's Jean Jacket,Clothes,Clothes,1,1299.99,1299.99,11/29/2010
+665,18184,3192,Guess Women's Skinny Jeans,Clothes,Clothes,1,149.99,149.99,11/29/2010
+9,15645,3193,Guess Women's Boot Cut Jeans,Clothes,Clothes,2,149.99,299.98,11/29/2010
+462,13106,3194,Guess Women's Mid-rise Jeans,Clothes,Clothes,1,199.99,199.99,11/29/2010
+734,3559,3195,Tommy Hilfiger Jacquard Tote,Clothes,Clothes,1,149.99,149.99,11/29/2010
+845,41408,3196,Tommy Arianna Tote,Clothes,Clothes,1,239.99,239.99,11/29/2010
+751,29753,3197,Tommy Hilfiger Everyday Tote,Clothes,Clothes,1,649.99,649.99,11/29/2010
+492,320,3198,Tommy Hilfiger Alexa purse ,Clothes,Clothes,1,449.99,449.99,11/29/2010
+293,2152,3199,Elie Tahari Jocelyn Dress,Clothes,Clothes,2,599.99,1199.98,11/29/2010
+851,22569,3200,Elie Tahari Emory Dress,Clothes,Clothes,1,239.99,239.99,11/29/2010
+31,34422,3201,Elie Tahari Ophelia Dress,Clothes,Clothes,1,291.99,291.99,11/29/2010
+338,8094,3202,Elie Tahari Gwenyth Dress,Clothes,Clothes,3,1099.99,3299.97,11/29/2010
+93,17641,3203,Adidas Black Running Tights,Clothes,Clothes,2,1099.99,2199.98,11/29/2010
+27,35527,3204,Adidas Originals Black Hoodie,Clothes,Clothes,2,429.99,859.98,11/29/2010
+360,38011,3205,Adidas Originals Grey Hoodie,Clothes,Clothes,2,599.99,1199.98,11/29/2010
+691,18275,3206,Adidas Originals Classic White Sweatshirt,Clothes,Clothes,1,299.99,299.99,11/29/2010
+856,9591,3209,Adidas Originals Classic Black Sweatshirt,Clothes,Clothes,1,1039.99,1039.99,11/29/2010
+961,41399,3210,Adidas Originals Classic Grey Sweatshirt,Clothes,Clothes,1,249.99,249.99,11/29/2010
+480,9284,3211,Adidas Originals Grey Running Tights,Clothes,Clothes,1,449.99,449.99,11/29/2010
+334,40534,3212,Adidas Training Pant - Black,Clothes,Clothes,1,278.99,278.99,11/29/2010
+788,35547,3213,Adidas Training Pant - White,Clothes,Clothes,1,299.99,299.99,11/29/2010
+74,21841,3214,Adidas Classic 3-stripe pant,Clothes,Clothes,1,599.99,599.99,11/29/2010
+959,41202,6177,Adidas Classic 3-stripe pant - blue,Clothes,Clothes,1,449.99,449.99,11/29/2010
+5,37690,6178,Elie Tahari Lace Dress,Clothes,Clothes,3,899.99,2699.97,11/29/2010
+907,42431,6179,Adidas Training Pant - Black,Clothes,Clothes,2,278.99,557.98,11/30/2010
+962,16543,6180,Adidas Originals Grey Running Tights,Clothes,Clothes,1,639.99,639.99,11/30/2010
+259,4389,6181,Anastasia Beverly Hills Dress,Clothes,Clothes,1,299.99,299.99,11/30/2010
+635,20904,6182,Guess Fit and Flair Dress,Clothes,Clothes,1,499.99,499.99,11/30/2010
+510,19758,6183,Bar III Cropped Jacket,Clothes,Clothes,1,299.99,299.99,11/30/2010
+407,32665,6184,Anne Klein Fayza Dress Shoes,Clothes,Clothes,1,1299.99,1299.99,11/30/2010
+936,27966,6185,Anne Klein Barb Dress Shoes,Clothes,Clothes,2,449.99,899.98,11/30/2010
+438,7775,6186,Calvin Klein Gayle High Heel Shoes,Clothes,Clothes,1,299.99,299.99,11/30/2010
+891,15039,6187,Calvin Klein Catherine High Heel Shoes,Clothes,Clothes,1,149.99,149.99,11/30/2010
+116,27252,6188,Calvin Klein Zipper Sheath Dress,Clothes,Clothes,1,324.99,324.99,11/30/2010
+548,11940,6191,Calvin Klein Sleevess Belted Striped Dress,Clothes,Clothes,1,429.99,429.99,11/30/2010
+581,19629,6192,Calvin Klein Horseshoe Neckline Dress,Clothes,Clothes,1,449.99,449.99,11/30/2010
+482,7460,6193,Calvin Klein Textured Sheath Dress,Clothes,Clothes,1,599.99,599.99,11/30/2010
+179,11814,6194,Elie Tahari Women's Kyle Knit Dress,Clothes,Clothes,1,599.99,599.99,11/30/2010
+573,12263,6195,Elie Tahari Women's Kyle Twist Knit Dress,Clothes,Clothes,1,599.99,599.99,11/30/2010
+485,24494,6196,Nike Women's Black Leggings,Clothes,Clothes,1,429.99,429.99,11/30/2010
+744,10194,6197,Nike Women's Blue Leggings,Clothes,Clothes,1,359.99,359.99,11/30/2010
+738,18818,6198,Nike Women's Miulticolor Leggings,Clothes,Clothes,1,1199.99,1199.99,11/30/2010
+196,33626,6199,Nike Women's Flash Running Tights,Clothes,Clothes,2,429.99,859.98,11/30/2010
+94,29713,6200,Elie Tahari One Button Jacket,Clothes,Clothes,2,639.99,1279.98,11/30/2010
+735,24488,6201,Elie Tahari Eggplant Career Suit,Clothes,Clothes,1,249.99,249.99,11/30/2010
+771,31840,6202,Elie Tahari Black Career Suit,Clothes,Clothes,1,134.99,134.99,11/30/2010
+345,975,6203,Elie Tahari Scarlett Sleeveless Blouse,Clothes,Clothes,1,299.99,299.99,11/30/2010
+595,16183,6204,Elie Tahari Watercolor Maxi Dress,Clothes,Clothes,1,239.99,239.99,11/30/2010
+38,28618,6205,Elie Tahari Waterfall Maxi Dress,Clothes,Clothes,1,1299.99,1299.99,11/30/2010
+785,2324,6206,Elie Tahari Hawaii Sunset Maxi Dress,Clothes,Clothes,1,1019.99,1019.99,11/30/2010
+308,12065,6209,Elie Tahari White Career Blouse,Clothes,Clothes,1,1019.99,1019.99,11/30/2010
+198,14272,6210,Nike Women's Hyperspike Shoe,Clothes,Clothes,1,1019.99,1019.99,11/30/2010
+857,41402,6211,Nike Women's Air Max Running Shoe,Clothes,Clothes,1,278.99,278.99,11/30/2010
+480,6049,6212,Nike Women's Free 5.0 Running Shoe,Clothes,Clothes,1,1299.99,1299.99,11/30/2010
+6,41337,6213,Nike  Women's Air Max,Clothes,Clothes,1,149.99,149.99,11/30/2010
+465,25552,6214,Nike Juvenate Women's Gold Shoes,Clothes,Clothes,1,149.99,149.99,11/30/2010
+515,19293,3177,Nike Women Comfort+ Running Sneakers,Clothes,Clothes,1,1299.99,1299.99,11/30/2010
+338,11778,3178,Nike Women Free Running Sneakers,Clothes,Clothes,1,149.99,149.99,11/30/2010
+952,31308,3179,Ralph Lauren Hooded Pullover,Clothes,Clothes,1,299.99,299.99,11/30/2010
+317,38002,3180,Ralph Lauren Cotton Indigo Sweater ,Clothes,Clothes,1,319.99,319.99,11/30/2010
+132,8797,3181,Ralph Lauren Cotton Raglan Sweater,Clothes,Clothes,1,449.99,449.99,11/30/2010

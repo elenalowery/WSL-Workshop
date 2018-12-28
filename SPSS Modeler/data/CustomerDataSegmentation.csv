@@ -1,0 +1,1239 @@
+CUST_ID,REGISTRATION_ID,NAME,AGE,GENDER,MARITAL_STATUS,PROFESSION,EDUCATION,CUST_COUNTRY,CUST_STATE,CUST_CITY,CUST_ADDRESS1,CUST_ADDRESS2,CUST_POSTAL_ZONE,CUST_EMAIL,CUST_PHONE_NUMBER,CUST_FAX,INCOME,MEMBERS_IN_HOUSEHOLD,MONTHS_CUSTOMER
+292,"MICHAEL.TOWB","",33,"F","M","Private Sector","High School","","","","","","","","","",35712,5,48
+305,"TREVOR.KODJO","",33,"F","M","Professor","Post College","","","","","","","","","",46211,5,24
+563,"BILLY.POLO@EMAIL2.COM","",33,"F","M","Doctor","College","","","","","","","","","",65385,5,36
+667,"ADRIAN.DERN@EMAIL2.COM","",33,"F","M","Engineer","College","","","","","","","","","",29880,5,12
+1157,"CHARLIE.HOUSE@EMAIL3.COM","",33,"F","M","Not employed","College","","","","","","","","","",63949,5,24
+273,"HELENA.KODJO","",34,"M","M","Professor","College","","","","","","","","","",56100,5,12
+404,"BOBBODZ@EMAIL1.COM","",34,"F","M","Engineer","College","","","","","","","","","",48933,5,24
+304,"TREVOR.HOUSE","",34,"M","M","Engineer","College","","","","","","","","","",63383,5,24
+167,"CHRIS.BRINK","",35,"F","M","Private Sector","High School","","","","","","","","","",37443,5,36
+390,"MICHAEL.JACKSON","",35,"F","M","Doctor","Post College","","","","","","","","","",79526,5,12
+1108,"GEORGE.JACKSON@EMAIL2.COM","",35,"F","M","Self Employed","College","","","","","","","","","",44617,5,24
+1167,"GREGORY.READY@EMAIL3.COM","",35,"F","M","Private Sector","High School","","","","","","","","","",33231,5,36
+174,"CRAIG.READY","",36,"F","M","Private Sector","High School","","","","","","","","","",18633,5,24
+248,"CHARLIE.PITT","",36,"M","M","Private Sector","High School","","","","","","","","","",25330,5,24
+490,"GREG.PITT@EMAIL2.COM","",36,"M","M","Scientist","Post College","","","","","","","","","",91542,5,24
+533,"ROSS.BODZ@EMAIL1.COM","",36,"F","M","Engineer","Post College","","","","","","","","","",58902,5,0
+546,"ADRIANBIRD@EMAIL1.COM","",37,"F","M","Self Employed","High School","","","","","","","","","",30854,5,48
+108,"GREG.KODJO","",35,"F","M","Engineer","College","","","","","","","","","",35010,5,24
+930,"JESSICA.WEBB@EMAIL2.COM","",37,"M","M","Scientist","Post College","","","","","","","","","",64339,5,24
+62,"OWEN.ALBA","",38,"F","M","Engineer","Post College","","","","","","","","","",93198,5,36
+1062,"STEVEN.WILSON@EMAIL1.COM","",38,"F","M","Engineer","Post College","","","","","","","","","",86435,5,36
+177,"DUSTIN.MONK","",38,"F","M","Private Sector","High School","","","","","","","","","",26481,5,48
+434,"JOHNWEBB@EMAIL1.COM","",38,"M","M","Nursing","College","","","","","","","","","",58313,5,36
+757,"JACOB.BAUER@EMAIL1.COM","",38,"F","M","Accountant","Post College","","","","","","","","","",64063,5,48
+891,"GEORGECORTEZ@EMAIL1.COM","",38,"M","M","Doctor","Post College","","","","","","","","","",66836,5,24
+1177,"LINDSEY.BRINK@EMAIL3.COM","",38,"F","M","Private Sector","High School","","","","","","","","","",37466,5,48
+224,"TERRI.KODJO","",39,"M","M","Engineer","College","","","","","","","","","",29060,5,36
+497,"GREGREADY@EMAIL1.COM","",39,"F","M","Engineer","Post College","","","","","","","","","",53797,5,36
+1224,"WILLIAM.ROBERTS@EMAIL3.COM","",39,"M","M","Engineer","College","","","","","","","","","",64138,5,36
+890,"GEORGE.READY@EMAIL2.COM","",39,"F","M","Accountant","College","","","","","","","","","",45158,5,48
+1213,"GREGORY.BARNFIELD@EMAIL1.COM","",37,"F","M","Professor","College","","","","","","","","","",65930,5,48
+855,"BRED.READY@EMAIL3.COM","",40,"M","M","Private Sector","High School","","","","","","","","","",30121,5,36
+795,"ROBERT.ALBA@EMAIL1.COM","",41,"F","M","Self Employed","High School","","","","","","","","","",33964,5,48
+910,"GREGORYBRINK@EMAIL1.COM","",41,"M","M","Not employed","Post College","","","","","","","","","",88034,5,36
+911,"GREGORYHOUSE@EMAIL1.COM","",41,"M","M","Lawyer","Post College","","","","","","","","","",78011,5,36
+395,"ADRIAN.BARNFIELD","",41,"M","M","Engineer","Post College","","","","","","","","","",84828,5,36
+538,"ROSS.PITT@EMAIL2.COM","",36,"F","M","Unemployed","High School","","","","","","","","","",26256,5,12
+1174,"KEITH.BARNFIELD@EMAIL1.COM","",36,"F","M","Self Employed","High School","","","","","","","","","",26875,5,24
+213,"MILA.LARTER","",37,"F","M","Scientist","College","","","","","","","","","",33474,5,48
+437,"ROSSMONK@EMAIL1.COM","",42,"M","M","Engineer","Post College","","","","","","","","","",74597,5,24
+1123,"HELENA.STILLER@EMAIL2.COM","",42,"M","M","Doctor","College","","","","","","","","","",69566,5,24
+557,"BILLY.BIRD@EMAIL1.COM","",42,"F","M","Nursing","College","","","","","","","","","",66194,5,0
+190,"GREG.LARTER","",43,"F","M","Professor","Post College","","","","","","","","","",73073,5,48
+775,"KEITH.BRINK@EMAIL2.COM","",40,"M","M","Nursing","College","","","","","","","","","",69355,5,24
+682,"ALAN.WILSON@EMAIL1.COM","",44,"M","M","Financial analyst","College","","","","","","","","","",77305,5,24
+950,"MICHAEL.PITT@EMAIL1.COM","",44,"F","M","Lawyer","College","","","","","","","","","",83759,5,0
+951,"MICHAEL.PITT@EMAIL2.COM","",44,"F","M","Engineer","Post College","","","","","","","","","",67647,5,0
+246,"CHARLIE.MONK","",45,"M","M","Self Employed","High School","","","","","","","","","",33458,5,24
+346,"MILA.ANDERSON","",45,"M","M","Doctor","College","","","","","","","","","",69307,5,24
+475,"EMMA.ALBA@EMAIL2.COM","",45,"M","M","Financial analyst","Post College","","","","","","","","","",58198,5,36
+672,"ADRIAN.TOWB@EMAIL1.COM","",45,"M","M","Lawyer","College","","","","","","","","","",65009,5,36
+182,"GEORGE.MONK","",46,"F","M","Professor","College","","","","","","","","","",71728,5,0
+339,"JESSICA.KODJO","",46,"F","M","Professor","College","","","","","","","","","",57398,5,12
+506,"JOHN.MONK@EMAIL1.COM","",46,"M","M","Private Sector","High School","","","","","","","","","",28262,5,36
+507,"JOHN.MONK@EMAIL2.COM","",46,"M","M","Engineer","Post College","","","","","","","","","",98708,5,36
+1182,"ROBERT.ANDERSON@EMAIL1.COM","",46,"F","M","Engineer","College","","","","","","","","","",70279,5,0
+552,"ADRIANWEBB@EMAIL1.COM","",44,"F","M","Engineer","College","","","","","","","","","",80085,5,0
+1205,"HELENA.HILLORY@EMAIL3.COM","",47,"M","M","Doctor","Post College","","","","","","","","","",59678,5,36
+593,"CHRISREADY@EMAIL1.COM","",48,"F","M","Engineer","College","","","","","","","","","",76356,5,36
+123,"JOHN.READY","",42,"M","M","Self Employed","College","","","","","","","","","",68880,5,24
+252,"CRAIG.CORTEZ","",42,"F","M","Self Employed","Post College","","","","","","","","","",75812,5,0
+363,"DUSTIN.HILLORY","",42,"M","M","Engineer","College","","","","","","","","","",38929,5,48
+1107,"GEORGE.HOUSE@EMAIL3.COM","",51,"F","M","Self Employed","Post College","","","","","","","","","",66730,5,48
+337,"JACOB.JACKSON","",52,"F","M","Doctor","Post College","","","","","","","","","",107318,5,36
+227,"TREVOR.BODZ","",54,"F","M","Self Employed","Post College","","","","","","","","","",74302,5,24
+1227,"ANASTASIA.WILSON@EMAIL3.COM","",54,"F","M","Engineer","Post College","","","","","","","","","",68829,5,24
+842,"BILL.JACKSON@EMAIL1.COM","",55,"M","M","Scientist","College","","","","","","","","","",60768,5,48
+832,"ADRIAN.BRINK@EMAIL2.COM","",58,"M","M","Private Sector","High School","","","","","","","","","",46628,5,36
+907,"GREGORY.WEBB@EMAIL1.COM","",60,"F","M","Doctor","College","","","","","","","","","",55444,5,0
+189,"GREG.KLOVES","",62,"F","M","Self Employed","College","","","","","","","","","",61419,5,0
+205,"KEITH.BRINK","",47,"M","M","Not employed","Post College","","","","","","","","","",55771,5,36
+822,"TREVOR.TOWB@EMAIL2.COM","",65,"M","M","Self Employed","High School","","","","","","","","","",52084,5,12
+851,"BOB.CORTEZ@EMAIL3.COM","",65,"M","M","Doctor","College","","","","","","","","","",81723,5,48
+846,"BILLY.CORTEZ@EMAIL2.COM","",75,"M","M","Financial analyst","College","","","","","","","","","",78984,5,24
+599,"CRAIG.MONK@EMAIL2.COM","",43,"M","M","Engineer","College","","","","","","","","","",79128,6,24
+1190,"ADRIAN.JACKSON@EMAIL3.COM","",43,"F","M","Financial analyst","Post College","","","","","","","","","",68548,6,48
+262,"GREG.JACKSON","",44,"M","M","Not employed","College","","","","","","","","","",75735,6,0
+617,"JACOB.PITT@EMAIL2.COM","",44,"F","M","Accountant","Post College","","","","","","","","","",69783,6,36
+185,"GEORGE.TOWB","",45,"M","M","Not employed","College","","","","","","","","","",69264,6,48
+1185,"STUART.DENNER@EMAIL3.COM","",45,"M","M","Accountant","College","","","","","","","","","",58745,6,48
+823,"TREVOR.WEBB@EMAIL1.COM","",46,"F","M","Pharmacist","Post College","","","","","","","","","",63704,6,12
+824,"TREVORBAUER@EMAIL1.COM","",46,"F","M","Accountant","College","","","","","","","","","",42438,6,12
+7,"1378359","",39,"M","S","Pharmacist","Post College","","","","","","","","","",64542,1,36
+422,"BOBHOUSE@EMAIL1.COM","",49,"M","M","Lawyer","Post College","","","","","","","","","",107132,5,36
+107,"GREG.HOUSE","",51,"F","M","Financial analyst","Post College","","","","","","","","","",83056,5,48
+758,"JACOB.BAUER@EMAIL2.COM","",48,"M","M","Scientist","College","","","","","","","","","",87187,6,12
+833,"ADRIAN.HOUSE@EMAIL1.COM","",48,"M","M","Not employed","High School","","","","","","","","","",36538,6,24
+834,"ADRIAN.HOUSE@EMAIL2.COM","",48,"M","M","Unemployed","High School","","","","","","","","","",44379,6,24
+1095,"CHRIS.DENNER@EMAIL3.COM","",48,"F","M","Self Employed","College","","","","","","","","","",70841,6,24
+452,"BILLYBODZ@EMAIL1.COM","",49,"F","M","Self Employed","High School","","","","","","","","","",37961,6,12
+36,"BOB.BAUER","",50,"F","M","Engineer","College","","","","","","","","","",82103,6,36
+698,"CHARLIEPITT@EMAIL1.COM","",50,"M","M","Engineer","Post College","","","","","","","","","",68376,6,48
+699,"CHARLIETOWB@EMAIL1.COM","",50,"M","M","Accountant","College","","","","","","","","","",81362,6,48
+893,"GREG.HOUSE@EMAIL3.COM","",50,"M","M","Professor","College","","","","","","","","","",70293,6,24
+1036,"HELENA.WILSON@EMAIL1.COM","",50,"F","M","Financial analyst","College","","","","","","","","","",84844,6,36
+862,"CHARLIE.MOSS@EMAIL2.COM","",51,"F","M","Financial analyst","College","","","","","","","","","",88121,6,12
+644,"MARK.KODJO@EMAIL1.COM","",48,"M","M","Self Employed","College","","","","","","","","","",54665,6,36
+33,"TOM.TOWB","",40,"F","M","Nursing","College","","","","","","","","","",62966,2,36
+1033,"HARVEY.MILLER@EMAIL1.COM","",40,"F","M","Doctor","College","","","","","","","","","",57097,2,36
+325,"GEORGE.CORTEZ","",40,"F","M","Not employed","College","","","","","","","","","",48301,2,12
+9,"2228675","",41,"F","M","Professor","Post College","","","","","","","","","",91048,2,24
+193,"HELENA.BIRD","",41,"F","M","Engineer","Post College","","","","","","","","","",54182,2,36
+1009,"DUSTIN.POLO@EMAIL3.COM","",41,"F","M","Accountant","Post College","","","","","","","","","",80998,2,24
+1193,"ANASTASIA.BIRD@EMAIL3.COM","",41,"F","M","Pharmacist","Post College","","","","","","","","","",52633,2,36
+50,"GREG.WEBB","",41,"F","M","Not employed","College","","","","","","","","","",39151,2,48
+95,"CHRIS.WEBB","",48,"F","M","Lawyer","College","","","","","","","","","",38036,6,24
+1189,"WILLIAM.STILLER@EMAIL2.COM","",62,"F","M","Not employed","College","","","","","","","","","",80501,5,0
+717,"DUSTIN.MOSS@EMAIL1.COM","",48,"F","M","Scientist","Post College","","","","","","","","","",63765,6,48
+621,"JACOBHOUSE@EMAIL1.COM","",41,"F","M","Self Employed","High School","","","","","","","","","",38439,2,12
+852,"BRED.HOFFMAN@EMAIL1.COM","",41,"F","M","Self Employed","Post College","","","","","","","","","",91238,2,36
+853,"BRED.HOFFMAN@EMAIL2.COM","",41,"F","M","Lawyer","College","","","","","","","","","",58879,2,36
+953,"MICHAEL.TOWB@EMAIL2.COM","",41,"M","M","Private Sector","High School","","","","","","","","","",23093,2,0
+954,"MICHAEL.WEBB@EMAIL2.COM","",41,"M","M","Professor","College","","","","","","","","","",36630,2,0
+986,"BILLY.BRINK@EMAIL3.COM","",41,"M","M","Engineer","College","","","","","","","","","",33597,2,24
+1049,"KEITH.JACKSON@EMAIL1.COM","",41,"F","M","Self Employed","High School","","","","","","","","","",25407,2,48
+1050,"KEITH.JACKSON@EMAIL2.COM","",41,"F","M","Financial analyst","College","","","","","","","","","",69350,2,48
+58,"JOHN.WEBB","",42,"F","M","Engineer","College","","","","","","","","","",75544,2,24
+1058,"MILA.ANDERSON@EMAIL2.COM","",42,"F","M","Professor","College","","","","","","","","","",59028,2,24
+217,"ROSS.WILSON","",42,"F","M","Not employed","College","","","","","","","","","",66941,2,48
+247,"CHARLIE.MOSS","",42,"F","M","Self Employed","Post College","","","","","","","","","",66845,2,12
+312,"BILLY.JACKSON","",42,"F","M","Self Employed","College","","","","","","","","","",73193,2,48
+336,"JACOB.HILLORY","",42,"F","M","Unemployed","High School","","","","","","","","","",29583,2,24
+526,"OWEN.MONK@EMAIL1.COM","",43,"M","M","Private Sector","High School","","","","","","","","","",36958,2,48
+652,"TERRI.PITT@EMAIL2.COM","",43,"M","M","Engineer","College","","","","","","","","","",64881,2,48
+653,"TERRI.TOWB@EMAIL1.COM","",43,"M","M","Not employed","College","","","","","","","","","",58578,2,48
+261,"GREG.HILLORY","",43,"F","M","Doctor","College","","","","","","","","","",80961,2,24
+521,"KEITHPITT@EMAIL1.COM","",43,"F","M","Private Sector","High School","","","","","","","","","",45202,2,24
+522,"KEITHTOWB@EMAIL1.COM","",43,"F","M","Lawyer","College","","","","","","","","","",41175,2,24
+302,"TREVOR.BAUER","",41,"F","M","Scientist","College","","","","","","","","","",60179,2,36
+418,"BOB.PITT@EMAIL1.COM","",41,"M","M","Engineer","Post College","","","","","","","","","",83199,2,36
+445,"ALAN.POLO@EMAIL2.COM","",41,"F","M","Private Sector","High School","","","","","","","","","",25997,2,0
+993,"CHARLIE.BAUER@EMAIL2.COM","",44,"F","M","Not employed","High School","","","","","","","","","",30359,3,48
+105,"GREG.BAUER","",45,"F","M","Self Employed","College","","","","","","","","","",72464,3,48
+106,"GREG.BRINK","",45,"F","M","Professor","College","","","","","","","","","",81641,3,48
+931,"JOHN.HOUSE@EMAIL3.COM","",45,"M","M","Nursing","College","","","","","","","","","",56770,3,0
+1105,"GEORGE.HILLORY@EMAIL1.COM","",45,"F","M","Nursing","College","","","","","","","","","",75164,3,48
+1106,"GEORGE.HILLORY@EMAIL2.COM","",45,"F","M","Engineer","College","","","","","","","","","",71635,3,48
+867,"CHARLIEHOUSE@EMAIL1.COM","",47,"F","M","Engineer","College","","","","","","","","","",82669,3,24
+81,"BILLY.BIRD","",50,"M","M","Engineer","College","","","","","","","","","",67507,3,24
+723,"GEORGE.MONK@EMAIL1.COM","",50,"F","M","Scientist","College","","","","","","","","","",77718,3,36
+1081,"ALAN.ROBERTS@EMAIL3.COM","",50,"M","M","Self Employed","College","","","","","","","","","",86811,3,24
+122,"JOHN.HOUSE","",51,"M","M","Self Employed","High School","","","","","","","","","",37304,3,0
+326,"GEORGE.LARTER","",51,"F","M","Accountant","Post College","","","","","","","","","",65863,3,36
+354,"WILLIAM.HOUSE","",51,"F","M","Lawyer","College","","","","","","","","","",72626,3,24
+1122,"HELENA.JACKSON@EMAIL2.COM","",51,"M","M","Private Sector","High School","","","","","","","","","",46305,3,0
+843,"BILLY.BIRD@EMAIL3.COM","",51,"F","M","Nursing","College","","","","","","","","","",90059,3,12
+559,"BILLY.BODZ@EMAIL2.COM","",52,"F","M","Professor","College","","","","","","","","","",77774,3,48
+637,"KEITH.TOWB@EMAIL2.COM","",52,"M","M","Lawyer","College","","","","","","","","","",80161,3,48
+1000,"CHRIS.BAUER@EMAIL3.COM","",52,"F","M","Private Sector","High School","","","","","","","","","",46219,3,36
+882,"CRAIG.TOWB@EMAIL3.COM","",52,"F","M","Not employed","College","","","","","","","","","",67641,3,24
+282,"KEITH.MILLER","",53,"M","M","Nursing","Post College","","","","","","","","","",84781,3,0
+767,"JOHN.CORTEZ@EMAIL2.COM","",43,"F","M","Self Employed","Post College","","","","","","","","","",73920,3,36
+808,"STEVEN.POLO@EMAIL2.COM","",44,"M","M","Engineer","College","","","","","","","","","",55751,3,12
+651,"ROSS.HOUSE@EMAIL1.COM","",44,"F","M","Nursing","Post College","","","","","","","","","",60903,3,48
+8,"1908835","",55,"F","M","Engineer","College","","","","","","","","","",50137,3,12
+187,"GREG.CORTEZ","",55,"M","M","Professor","College","","","","","","","","","",89065,3,36
+1008,"DUSTIN.DENNER@EMAIL1.COM","",55,"F","M","Financial analyst","College","","","","","","","","","",47084,3,12
+1187,"WILLIAM.HILLORY@EMAIL2.COM","",55,"M","M","Nursing","College","","","","","","","","","",57007,3,36
+451,"BILLYBIRD@EMAIL1.COM","",55,"F","M","Pharmacist","Post College","","","","","","","","","",70715,3,24
+924,"JASON.TOWB@EMAIL3.COM","",55,"M","M","Financial analyst","Post College","","","","","","","","","",84725,3,24
+925,"JESSICA.ALBA@EMAIL2.COM","",55,"M","M","Scientist","Post College","","","","","","","","","",106419,3,24
+399,"DANIEL.BARNFIELD","",55,"F","M","Professor","College","","","","","","","","","",49090,3,36
+464,"BRED.ALBA@EMAIL1.COM","",56,"F","M","Self Employed","Post College","","","","","","","","","",86411,3,0
+505,"JOHN.BODZ@EMAIL2.COM","",56,"M","M","Doctor","College","","","","","","","","","",70018,3,48
+275,"JACOB.WILSON","",57,"F","M","Financial analyst","College","","","","","","","","","",56839,3,24
+700,"CHARLIEWEBB@EMAIL1.COM","",57,"F","M","Engineer","College","","","","","","","","","",86073,3,24
+987,"BILLY.HOUSE@EMAIL3.COM","",57,"F","M","Financial analyst","College","","","","","","","","","",65489,3,36
+789,"OWEN.BODZ@EMAIL3.COM","",58,"F","M","Doctor","Post College","","","","","","","","","",99392,3,36
+61,"MILA.MONK","",59,"F","M","Not employed","High School","","","","","","","","","",43092,3,0
+636,"KEITH.PITT@EMAIL1.COM","",59,"M","M","Scientist","College","","","","","","","","","",86988,2,0
+1061,"STEVEN.DENNER@EMAIL2.COM","",59,"F","M","Private Sector","High School","","","","","","","","","",42821,2,0
+689,"BILLYCORTEZ@EMAIL1.COM","",60,"M","M","Professor","College","","","","","","","","","",91501,2,12
+690,"BOB.HOUSE@EMAIL3.COM","",60,"M","M","Not employed","College","","","","","","","","","",62523,2,12
+397,"ANASTASIA.MILLER","",61,"F","M","Self Employed","College","","","","","","","","","",62407,2,36
+134,"MILA.KODJO","",54,"F","M","Private Sector","High School","","","","","","","","","",29057,3,12
+26,"BOB.BODZ","",25,"M","U","Doctor","College","","","","","","","","","",44762,2,12
+1134,"MICHAEL.MONK@EMAIL3.COM","",54,"F","M","Private Sector","High School","","","","","","","","","",32563,3,12
+14,"4299604","",24,"F","M","Accountant","College","","","","","","","","","",53172,2,36
+432,"JOHNPITT@EMAIL1.COM","",37,"F","M","Nursing","Post College","","","","","","","","","",65609,2,12
+813,"TERRI.READY@EMAIL1.COM","",37,"F","M","Self Employed","High School","","","","","","","","","",26487,2,24
+999,"CHARLIECORTEZ@EMAIL1.COM","",39,"F","M","Private Sector","High School","","","","","","","","","",29801,2,24
+266,"GREGORY.MONK","",41,"F","M","Self Employed","Post College","","","","","","","","","",95824,2,48
+531,"ROSS.BIRD@EMAIL1.COM","",42,"M","M","Pharmacist","College","","","","","","","","","",53719,2,48
+737,"GREG.MOSS@EMAIL3.COM","",45,"F","M","Financial analyst","College","","","","","","","","","",58392,2,36
+536,"ROSS.MOSS@EMAIL1.COM","",47,"F","M","Engineer","College","","","","","","","","","",47938,2,12
+642,"KEITHREADY@EMAIL1.COM","",48,"M","M","Nursing","College","","","","","","","","","",76781,2,48
+212,"MILA.DENNER","",51,"F","M","Doctor","College","","","","","","","","","",60626,2,36
+1212,"BRANDON.BARNFIELD@EMAIL2.COM","",51,"F","M","Not employed","College","","","","","","","","","",60724,2,36
+241,"BILLY.LARTER","",52,"F","M","Private Sector","High School","","","","","","","","","",49687,2,0
+486,"GREG.DERN@EMAIL2.COM","",52,"F","M","Scientist","College","","","","","","","","","",81016,2,24
+752,"HELENA.ALBA@EMAIL2.COM","",52,"M","M","Doctor","College","","","","","","","","","",87898,2,0
+991,"BRANDON.READY@EMAIL2.COM","",52,"M","M","Financial analyst","College","","","","","","","","","",61648,2,0
+155,"ADRIAN.WEBB","",53,"F","M","Nursing","College","","","","","","","","","",81644,2,36
+350,"TREVOR.CORTEZ","",53,"F","M","Private Sector","High School","","","","","","","","","",47586,2,48
+895,"GREG.JACKSON@EMAIL2.COM","",53,"F","M","Self Employed","College","","","","","","","","","",76223,2,24
+1155,"BRANDON.HILLORY@EMAIL2.COM","",53,"F","M","Engineer","College","","","","","","","","","",67637,2,36
+15,"6509257","",64,"F","M","Professor","College","","","","","","","","","",95593,2,12
+1015,"GEORGE.CORTEZ@EMAIL1.COM","",64,"F","M","Engineer","College","","","","","","","","","",69375,2,12
+22,"11077915","",67,"F","M","Scientist","Post College","","","","","","","","","",96476,2,36
+532,"ROSS.BIRD@EMAIL2.COM","",24,"M","M","Nursing","College","","","","","","","","","",15997,2,24
+807,"STEVEN.BIRD@EMAIL2.COM","",54,"F","M","Engineer","College","","","","","","","","","",85527,2,48
+1176,"KEITH.JACKSON@EMAIL3.COM","",54,"F","M","Nursing","College","","","","","","","","","",61793,2,48
+502,"JOHN.BIRD@EMAIL1.COM","",55,"M","M","Professor","College","","","","","","","","","",66252,2,36
+342,"MICHAEL.BAUER","",56,"F","M","Engineer","College","","","","","","","","","",63532,2,36
+810,"STUART.DERN@EMAIL1.COM","",56,"M","M","Pharmacist","College","","","","","","","","","",77085,2,24
+725,"GEORGE.MOSS@EMAIL2.COM","",58,"M","M","Financial analyst","College","","","","","","","","","",80334,2,48
+499,"JACOBMOSS@EMAIL1.COM","",59,"F","M","Doctor","College","","","","","","","","","",86735,2,12
+786,"MICHAELTOWB@EMAIL1.COM","",59,"F","M","Doctor","Post College","","","","","","","","","",80242,2,48
+817,"TREVOR.BODZ@EMAIL2.COM","",59,"M","M","Financial analyst","College","","","","","","","","","",59847,2,36
+818,"TREVOR.MONK@EMAIL2.COM","",59,"M","M","Professor","College","","","","","","","","","",91797,2,36
+585,"CHRIS.PITT@EMAIL1.COM","",67,"F","M","Scientist","Post College","","","","","","","","","",110834,2,0
+420,"BOB.WEBB@EMAIL2.COM","",35,"F","M","Financial analyst","College","","","","","","","","","",47324,3,24
+421,"BOBBRINK@EMAIL1.COM","",35,"F","M","Engineer","Post College","","","","","","","","","",59275,3,24
+641,"KEITHHOUSE@EMAIL1.COM","",35,"M","M","Engineer","Post College","","","","","","","","","",66567,3,36
+165,"BRED.CORTEZ","",36,"F","M","Private Sector","High School","","","","","","","","","",19070,3,48
+926,"JESSICA.BIRD@EMAIL1.COM","",36,"F","M","Engineer","College","","","","","","","","","",66991,3,24
+1165,"GREGORY.BAUER@EMAIL3.COM","",36,"F","M","Unemployed","High School","","","","","","","","","",24081,3,48
+401,"JESSICA.ANDERSON","",37,"M","M","Self Employed","College","","","","","","","","","",40297,3,24
+236,"BILL.HOFFMAN","",38,"F","M","Doctor","College","","","","","","","","","",73608,3,48
+176,"DANIEL.WEBB","",54,"F","M","Professor","College","","","","","","","","","",66338,2,48
+491,"GREG.TOWB@EMAIL1.COM","",54,"F","M","Financial analyst","College","","","","","","","","","",60820,2,24
+549,"ADRIANMOSS@EMAIL1.COM","",54,"F","M","Engineer","Post College","","","","","","","","","",88080,2,24
+550,"ADRIANPITT@EMAIL1.COM","",54,"M","M","Not employed","College","","","","","","","","","",73715,2,36
+684,"BILL.KLOVES@EMAIL1.COM","",39,"F","M","Doctor","College","","","","","","","","","",78929,3,36
+685,"BILLY.BAUER@EMAIL1.COM","",39,"F","M","Private Sector","High School","","","","","","","","","",25844,3,36
+18,"7981433","",40,"F","M","Doctor","College","","","","","","","","","",71141,3,0
+462,"BOB.READY@EMAIL2.COM","",40,"F","M","Private Sector","High School","","","","","","","","","",36374,3,12
+761,"JACOB.KODJO@EMAIL2.COM","",40,"F","M","Private Sector","High School","","","","","","","","","",24771,3,48
+877,"CRAIG.CORTEZ@EMAIL2.COM","",40,"M","M","Self Employed","High School","","","","","","","","","",21941,3,24
+904,"GREGORY.PITT@EMAIL2.COM","",40,"M","M","Not employed","College","","","","","","","","","",43205,3,36
+1018,"GEORGE.PITT@EMAIL3.COM","",40,"F","M","Financial analyst","College","","","","","","","","","",77622,3,0
+83,"BILLY.MONK","",41,"F","M","Private Sector","High School","","","","","","","","","",24798,3,24
+783,"MICHAELBODZ@EMAIL1.COM","",41,"M","M","Private Sector","High School","","","","","","","","","",25212,3,0
+932,"JOHN.READY@EMAIL3.COM","",41,"F","M","Doctor","College","","","","","","","","","",39599,3,36
+1083,"ANASTASIA.WEBB@EMAIL1.COM","",41,"F","M","Private Sector","High School","","","","","","","","","",32096,3,24
+19,"9144205","",43,"M","M","Self Employed","College","","","","","","","","","",64876,3,36
+38,"BOB.HOUSE","",43,"F","M","Engineer","College","","","","","","","","","",61872,3,36
+528,"RICH.BIRD@EMAIL2.COM","",43,"M","M","Accountant","College","","","","","","","","","",80796,3,12
+529,"RICH.MOSS@EMAIL1.COM","",43,"M","M","Private Sector","High School","","","","","","","","","",41689,3,12
+1019,"GEORGE.TOWB@EMAIL3.COM","",43,"M","M","Engineer","College","","","","","","","","","",49297,3,36
+1038,"JACOB.HILLORY@EMAIL2.COM","",43,"F","M","Not employed","College","","","","","","","","","",82159,3,36
+435,"ROSSBIRD@EMAIL1.COM","",44,"F","M","Engineer","Post College","","","","","","","","","",90589,3,24
+352,"WILLIAM.BAUER","",38,"M","M","Nursing","Post College","","","","","","","","","",72504,3,36
+902,"GREGORY.MOSS@EMAIL1.COM","",38,"F","M","Accountant","College","","","","","","","","","",49732,3,48
+1236,"WILLIAM.BARNFIELD@EMAIL3.COM","",38,"F","M","Not employed","College","","","","","","","","","",44470,3,48
+429,"JOHNBODZ@EMAIL1.COM","",39,"M","M","Engineer","College","","","","","","","","","",48638,3,48
+1032,"HARVEY.BODZ@EMAIL3.COM","",45,"F","M","Engineer","College","","","","","","","","","",46937,3,12
+369,"HARVEY.JACKSON","",46,"F","M","Private Sector","High School","","","","","","","","","",35123,3,24
+487,"GREG.MONK@EMAIL2.COM","",46,"F","M","Unemployed","High School","","","","","","","","","",22984,3,0
+638,"KEITH.WEBB@EMAIL2.COM","",46,"F","M","Doctor","College","","","","","","","","","",47069,3,24
+4,"288205","",47,"M","M","Engineer","College","","","","","","","","","",75761,3,48
+125,"KEITH.BIRD","",47,"F","M","Pharmacist","College","","","","","","","","","",86807,3,36
+309,"WILLIAM.PITT","",47,"F","M","Not employed","Post College","","","","","","","","","",72272,3,0
+650,"ROSS.BRINK@EMAIL1.COM","",47,"F","M","Doctor","College","","","","","","","","","",52850,3,36
+728,"GEORGEBAUER@EMAIL1.COM","",47,"M","M","Accountant","College","","","","","","","","","",78327,3,24
+1004,"CRAIG.BAUER@EMAIL3.COM","",47,"M","M","Professor","College","","","","","","","","","",57280,3,48
+1125,"JESSICA.MONK@EMAIL3.COM","",47,"F","M","Scientist","College","","","","","","","","","",37001,3,36
+77,"ROSS.WEBB","",48,"M","M","Engineer","Post College","","","","","","","","","",59972,3,24
+1077,"ADRIAN.HOUSE@EMAIL3.COM","",48,"M","M","Financial analyst","Post College","","","","","","","","","",67108,3,24
+743,"GREGORYMONK@EMAIL1.COM","",50,"M","M","Doctor","College","","","","","","","","","",71998,3,48
+257,"GEORGE.BRINK","",52,"M","M","Private Sector","High School","","","","","","","","","",41722,3,24
+772,"JOHN.TOWB@EMAIL3.COM","",52,"M","M","Lawyer","College","","","","","","","","","",76713,3,24
+64,"OWEN.MONK","",54,"M","M","Engineer","Post College","","","","","","","","","",77164,3,24
+1064,"STUART.TOWB@EMAIL3.COM","",54,"M","M","Scientist","Post College","","","","","","","","","",74161,3,24
+79,"ALAN.BAUER","",58,"F","M","Pharmacist","College","","","","","","","","","",48076,3,48
+436,"ROSSBODZ@EMAIL1.COM","",44,"F","M","Not employed","College","","","","","","","","","",55761,3,24
+32,"TOM.PITT","",45,"F","M","Doctor","College","","","","","","","","","",52539,3,12
+348,"STEVEN.CORTEZ","",45,"M","M","Engineer","College","","","","","","","","","",74034,3,48
+518,"KEITHBODZ@EMAIL1.COM","",45,"F","M","Not employed","Post College","","","","","","","","","",98024,3,12
+905,"GREGORY.POLO@EMAIL1.COM","",45,"F","M","Accountant","College","","","","","","","","","",71567,3,0
+39,"BOB.READY","",29,"M","M","Doctor","College","","","","","","","","","",28145,4,24
+984,"BILL.DENNER@EMAIL3.COM","",29,"M","M","Private Sector","High School","","","","","","","","","",31134,4,48
+1039,"JACOB.JACKSON@EMAIL1.COM","",29,"M","M","Not employed","College","","","","","","","","","",46682,4,24
+17,"6873460","",30,"M","M","Private Sector","High School","","","","","","","","","",20822,4,0
+1017,"GEORGE.LARTER@EMAIL1.COM","",30,"M","M","Self Employed","High School","","","","","","","","","",36780,4,0
+183,"GEORGE.MOSS","",30,"F","M","Private Sector","High School","","","","","","","","","",25421,4,24
+695,"BRED.MONK@EMAIL3.COM","",30,"M","M","Engineer","Post College","","","","","","","","","",35293,4,36
+1183,"ROSS.ANDERSON@EMAIL3.COM","",30,"F","M","Private Sector","High School","","","","","","","","","",17830,4,24
+654,"TOM.CORTEZ@EMAIL1.COM","",31,"F","M","Self Employed","College","","","","","","","","","",39122,4,48
+265,"GREGORY.BODZ","",31,"F","M","Lawyer","College","","","","","","","","","",61180,4,24
+525,"MILA.MONK@EMAIL1.COM","",31,"F","M","Unemployed","High School","","","","","","","","","",17297,4,0
+759,"JACOB.HOUSE@EMAIL1.COM","",31,"F","M","Private Sector","High School","","","","","","","","","",16102,4,24
+115,"JACOB.MOSS","",32,"M","M","Self Employed","College","","","","","","","","","",58385,4,24
+308,"WILLIAM.MOSS","",32,"M","M","Doctor","College","","","","","","","","","",23658,4,36
+468,"CHRISMONK@EMAIL1.COM","",32,"M","M","Engineer","College","","","","","","","","","",31491,4,24
+1115,"GREGORY.LARTER@EMAIL1.COM","",32,"M","M","Engineer","College","","","","","","","","","",52216,4,24
+770,"JOHN.MONK@EMAIL3.COM","",32,"M","M","Self Employed","College","","","","","","","","","",26942,4,24
+793,"RICH.LARTER@EMAIL1.COM","",32,"M","M","Private Sector","High School","","","","","","","","","",34444,4,48
+865,"CHARLIE.TOWB@EMAIL1.COM","",32,"F","M","Self Employed","College","","","","","","","","","",31889,4,0
+1079,"ADRIAN.READY@EMAIL3.COM","",58,"F","M","Nursing","College","","","","","","","","","",68361,3,48
+386,"GREGORY.HILLORY","",62,"F","M","Doctor","College","","","","","","","","","",56733,3,12
+664,"ADRIAN.ALBA@EMAIL2.COM","",66,"F","M","Engineer","College","","","","","","","","","",102496,3,12
+448,"BEN.HOUSE@EMAIL2.COM","",73,"F","M","Doctor","Post College","","","","","","","","","",97145,3,48
+1065,"STUART.WILSON@EMAIL1.COM","",33,"M","M","Private Sector","High School","","","","","","","","","",17084,4,24
+220,"STEVEN.WEBB","",34,"F","M","Engineer","College","","","","","","","","","",52411,4,24
+657,"TREVORBIRD@EMAIL1.COM","",34,"M","M","Engineer","College","","","","","","","","","",59210,4,36
+738,"GREG.PITT@EMAIL3.COM","",34,"M","M","Engineer","Post College","","","","","","","","","",62767,4,24
+825,"TREVORBRINK@EMAIL1.COM","",34,"M","M","Professor","Post College","","","","","","","","","",62815,4,12
+928,"JESSICA.POLO@EMAIL2.COM","",34,"M","M","Self Employed","College","","","","","","","","","",28113,4,24
+1220,"STUART.ANDERSON@EMAIL3.COM","",34,"F","M","Engineer","College","","","","","","","","","",71186,4,24
+303,"TREVOR.BRINK","",34,"M","M","Doctor","College","","","","","","","","","",59481,4,24
+592,"CHRISHOUSE@EMAIL1.COM","",34,"F","M","Nursing","College","","","","","","","","","",32147,4,24
+70,"RICH.PITT","",35,"F","M","Professor","College","","","","","","","","","",65499,4,36
+207,"KEITH.KODJO","",35,"F","M","Self Employed","Post College","","","","","","","","","",89889,4,48
+1070,"TREVOR.CORTEZ@EMAIL2.COM","",35,"F","M","Scientist","College","","","","","","","","","",35654,4,36
+1207,"STUART.STILLER@EMAIL3.COM","",35,"F","M","Self Employed","Post College","","","","","","","","","",44260,4,48
+195,"HELENA.MOSS","",35,"F","M","Private Sector","High School","","","","","","","","","",38955,4,24
+504,"JOHN.BODZ@EMAIL1.COM","",35,"F","M","Not employed","College","","","","","","","","","",32513,4,36
+659,"TREVORMONK@EMAIL1.COM","",35,"F","M","Engineer","College","","","","","","","","","",70737,4,24
+873,"CHRIS.TOWB@EMAIL3.COM","",35,"F","M","Engineer","Post College","","","","","","","","","",87857,4,24
+1195,"BRANDON.CORTEZ@EMAIL3.COM","",35,"F","M","Not employed","High School","","","","","","","","","",25384,4,24
+172,"CRAIG.HOUSE","",36,"F","M","Engineer","College","","","","","","","","","",70370,4,24
+329,"GREGORY.HOUSE","",33,"F","M","Lawyer","Post College","","","","","","","","","",63766,4,36
+703,"CHRIS.HOUSE@EMAIL2.COM","",33,"M","M","Not employed","High School","","","","","","","","","",32425,4,24
+65,"OWEN.TOWB","",33,"M","M","Unemployed","High School","","","","","","","","","",27188,4,24
+886,"GEORGE.BAUER@EMAIL2.COM","",33,"F","M","Professor","Post College","","","","","","","","","",66595,4,36
+630,"KEITH.BIRD@EMAIL1.COM","",36,"M","M","Pharmacist","College","","","","","","","","","",46293,4,24
+938,"KEITHJACKSON@EMAIL1.COM","",36,"F","M","Scientist","Post College","","","","","","","","","",79932,4,0
+1196,"BRANDON.MILLER@EMAIL3.COM","",36,"M","M","Professor","Post College","","","","","","","","","",58491,4,48
+146,"ADRIAN.ALBA","",37,"M","M","Pharmacist","Post College","","","","","","","","","",78253,4,24
+416,"BOB.MONK@EMAIL1.COM","",37,"M","M","Engineer","College","","","","","","","","","",31946,4,12
+777,"KEITH.READY@EMAIL1.COM","",37,"F","M","Engineer","College","","","","","","","","","",33169,4,48
+1146,"TREVOR.BRINK@EMAIL3.COM","",37,"M","M","Lawyer","Post College","","","","","","","","","",91109,4,24
+649,"ROSS.BAUER@EMAIL2.COM","",37,"M","M","Financial analyst","Post College","","","","","","","","","",57135,4,12
+67,"RICH.ALBA","",38,"M","M","Not employed","College","","","","","","","","","",74139,4,48
+131,"KEITH.WEBB","",38,"F","M","Accountant","College","","","","","","","","","",66834,4,36
+270,"GREGORY.TOWB","",38,"F","M","Financial analyst","College","","","","","","","","","",48127,4,48
+660,"TREVORMOSS@EMAIL1.COM","",38,"M","M","Self Employed","College","","","","","","","","","",75216,4,36
+897,"GREG.STILLER@EMAIL2.COM","",38,"M","M","Lawyer","Post College","","","","","","","","","",74621,4,36
+1067,"TREVOR.BIRD@EMAIL3.COM","",38,"M","M","Lawyer","College","","","","","","","","","",53553,4,48
+1131,"MICHAEL.BIRD@EMAIL3.COM","",38,"F","M","Pharmacist","College","","","","","","","","","",38394,4,36
+576,"BOBJACKSON@EMAIL1.COM","",38,"F","M","Engineer","Post College","","","","","","","","","",77627,4,24
+583,"CHRIS.MONK@EMAIL2.COM","",38,"F","M","Doctor","College","","","","","","","","","",76969,4,0
+610,"GREG.BAUER@EMAIL1.COM","",38,"F","M","Professor","College","","","","","","","","","",33380,4,24
+166,"CHRIS.BAUER","",39,"M","M","Pharmacist","College","","","","","","","","","",29543,4,24
+426,"GREGPITT@EMAIL1.COM","",36,"F","M","Lawyer","College","","","","","","","","","",66981,4,24
+625,"JOHN.BRINK@EMAIL2.COM","",36,"F","M","Engineer","College","","","","","","","","","",55952,4,36
+1172,"JESSICA.HILLORY@EMAIL1.COM","",36,"F","M","Scientist","College","","","","","","","","","",33777,4,24
+196,"HELENA.WEBB","",36,"M","M","Doctor","Post College","","","","","","","","","",47192,4,48
+727,"GEORGE.TOWB@EMAIL1.COM","",39,"M","M","Professor","College","","","","","","","","","",35483,4,36
+811,"STUART.WEBB@EMAIL1.COM","",39,"F","M","Doctor","College","","","","","","","","","",72886,4,24
+887,"GEORGE.BRINK@EMAIL2.COM","",39,"M","M","Private Sector","High School","","","","","","","","","",35766,4,48
+204,"KEITH.BAUER","",40,"F","M","Financial analyst","College","","","","","","","","","",56650,4,24
+442,"ALAN.MONK@EMAIL1.COM","",40,"F","M","Engineer","College","","","","","","","","","",40712,4,36
+960,"STEVEN.KODJO@EMAIL1.COM","",40,"M","M","Scientist","College","","","","","","","","","",78549,4,24
+961,"STUART.BRINK@EMAIL2.COM","",40,"M","M","Not employed","College","","","","","","","","","",46493,4,24
+1204,"GREGORY.KLOVES@EMAIL3.COM","",40,"F","M","Professor","College","","","","","","","","","",61887,4,24
+88,"BOB.CORTEZ","",40,"M","M","Doctor","College","","","","","","","","","",74158,4,36
+335,"HELENA.WILSON","",40,"F","M","Financial analyst","College","","","","","","","","","",48953,4,0
+541,"ROSSBAUER@EMAIL1.COM","",40,"M","M","Engineer","College","","","","","","","","","",33674,4,48
+1088,"CHARLIE.CORTEZ@EMAIL2.COM","",40,"M","M","Engineer","College","","","","","","","","","",54458,4,36
+848,"BILLY.PITT@EMAIL3.COM","",41,"M","M","Self Employed","High School","","","","","","","","","",40549,4,36
+68,"RICH.BODZ","",41,"F","M","Financial analyst","Post College","","","","","","","","","",59587,4,24
+355,"ADRIAN.JACKSON","",41,"F","M","Engineer","College","","","","","","","","","",34201,4,24
+473,"CRAIGBODZ@EMAIL1.COM","",41,"F","M","Financial analyst","College","","","","","","","","","",58008,4,12
+1068,"TREVOR.BODZ@EMAIL3.COM","",41,"F","M","Doctor","Post College","","","","","","","","","",89486,4,24
+569,"BOB.CORTEZ@EMAIL1.COM","",42,"M","M","Private Sector","High School","","","","","","","","","",22244,4,12
+942,"MARK.HOUSE@EMAIL3.COM","",42,"F","M","Engineer","College","","","","","","","","","",60374,4,24
+697,"CHARLIEMOSS@EMAIL1.COM","",39,"F","M","Engineer","Post College","","","","","","","","","",87885,4,0
+731,"GREG.BIRD@EMAIL3.COM","",39,"F","M","Nursing","College","","","","","","","","","",32817,4,24
+1166,"GREGORY.JACKSON@EMAIL1.COM","",39,"M","M","Scientist","College","","","","","","","","","",51836,4,24
+595,"CRAIG.BIRD@EMAIL2.COM","",39,"M","M","Accountant","Post College","","","","","","","","","",71035,4,12
+240,"BILLY.CORTEZ","",43,"F","M","Nursing","College","","","","","","","","","",50253,4,12
+1037,"JACOB.BAUER@EMAIL3.COM","",43,"F","M","Not employed","Post College","","","","","","","","","",61285,4,48
+1104,"GEORGE.BRINK@EMAIL3.COM","",43,"M","M","Doctor","Post College","","","","","","","","","",66366,4,36
+63,"OWEN.BODZ","",44,"M","M","Self Employed","High School","","","","","","","","","",43606,4,12
+330,"GREGORY.KODJO","",44,"F","M","Self Employed","College","","","","","","","","","",80937,4,36
+572,"BOB.MONK@EMAIL3.COM","",44,"M","M","Engineer","Post College","","","","","","","","","",55923,4,0
+927,"JESSICA.PITT@EMAIL1.COM","",44,"F","M","Professor","College","","","","","","","","","",36205,4,36
+1063,"STUART.DENNER@EMAIL2.COM","",44,"M","M","Private Sector","High School","","","","","","","","","",24594,4,12
+239,"BILL.STILLER","",44,"M","M","Scientist","College","","","","","","","","","",56697,4,12
+742,"GREGORYBODZ@EMAIL1.COM","",45,"M","M","Engineer","College","","","","","","","","","",76512,4,48
+232,"TREVOR.WEBB","",45,"M","M","Engineer","Post College","","","","","","","","","",64648,4,12
+389,"JACOB.BARNFIELD","",45,"F","M","Professor","College","","","","","","","","","",82329,4,12
+1232,"LINDSEY.ANDERSON@EMAIL3.COM","",45,"M","M","Accountant","Post College","","","","","","","","","",63206,4,12
+57,"JOHN.TOWB","",46,"F","M","Scientist","Post College","","","","","","","","","",87919,4,36
+962,"STUART.KODJO@EMAIL1.COM","",46,"M","M","Private Sector","High School","","","","","","","","","",27408,4,36
+969,"TREVOR.BRINK@EMAIL2.COM","",46,"M","M","Private Sector","High School","","","","","","","","","",45465,4,24
+970,"TREVOR.HOUSE@EMAIL2.COM","",46,"M","M","Not employed","College","","","","","","","","","",47432,4,24
+1057,"MICHAELCORTEZ@EMAIL1.COM","",46,"F","M","Lawyer","Post College","","","","","","","","","",100729,4,36
+715,"DANIEL.BODZ@EMAIL1.COM","",48,"M","M","Accountant","College","","","","","","","","","",38727,4,24
+388,"HELENA.ANDERSON","",43,"F","M","Engineer","College","","","","","","","","","",79376,4,24
+438,"ROSSTOWB@EMAIL1.COM","",43,"F","M","Pharmacist","Post College","","","","","","","","","",82269,4,36
+37,"BOB.BRINK","",43,"F","M","Financial analyst","Post College","","","","","","","","","",92772,4,48
+104,"EMMA.READY","",43,"M","M","Financial analyst","Post College","","","","","","","","","",91781,4,36
+1128,"KEITH.CORTEZ@EMAIL3.COM","",49,"F","M","Unemployed","High School","","","","","","","","","",29044,4,36
+1142,"ROSS.JACKSON@EMAIL3.COM","",49,"F","M","Scientist","College","","","","","","","","","",72471,4,36
+516,"JOHNREADY@EMAIL1.COM","",49,"M","M","Accountant","Post College","","","","","","","","","",74340,4,24
+565,"BILLY.WEBB@EMAIL2.COM","",51,"F","M","Doctor","College","","","","","","","","","",55395,4,48
+160,"BILLY.BAUER","",52,"M","M","Pharmacist","Post College","","","","","","","","","",109669,4,0
+237,"BILL.JACKSON","",52,"M","M","Self Employed","High School","","","","","","","","","",29776,4,36
+812,"TBODZ@EMAIL4.COM","",52,"M","M","Private Sector","High School","","","","","","","","","",32136,4,0
+1160,"CHRIS.JACKSON@EMAIL3.COM","",52,"M","M","Engineer","Post College","","","","","","","","","",108575,4,0
+1237,"ANASTASIA.ANDERSON@EMAIL3.COM","",52,"M","M","Self Employed","High School","","","","","","","","","",30776,4,36
+267,"GREGORY.MOSS","",53,"F","M","Lawyer","College","","","","","","","","","",50232,4,24
+957,"MICHAELHOUSE@EMAIL1.COM","",54,"F","M","Scientist","Post College","","","","","","","","","",99517,4,36
+454,"BILLYMOSS@EMAIL1.COM","",59,"F","M","Professor","College","","","","","","","","","",87329,4,12
+769,"JOHN.MILLER@EMAIL1.COM","",72,"F","M","Private Sector","High School","","","","","","","","","",55809,4,24
+285,"LINDSEY.BODZ","",29,"F","M","Scientist","Post College","","","","","","","","","",71162,5,36
+358,"BILLY.ANDERSON","",30,"M","M","Lawyer","Post College","","","","","","","","","",38569,5,24
+478,"EMMA.BODZ@EMAIL1.COM","",30,"F","M","Doctor","Post College","","","","","","","","","",73169,5,24
+720,"EMMA.MILLER@EMAIL1.COM","",31,"M","M","Professor","Post College","","","","","","","","","",48004,5,12
+945,"MICHAEL.BODZ@EMAIL1.COM","",31,"F","M","Accountant","College","","","","","","","","","",67323,5,12
+313,"BRANDON.KODJO","",32,"M","M","Engineer","Post College","","","","","","","","","",85429,5,36
+716,"DANIEL.PITT@EMAIL1.COM","",48,"M","M","Engineer","Post College","","","","","","","","","",82342,4,24
+128,"KEITH.MOSS","",49,"F","M","Not employed","High School","","","","","","","","","",47065,4,36
+142,"ROSS.READY","",49,"F","M","Engineer","College","","","","","","","","","",70698,4,36
+747,"HARVEY.ALBA@EMAIL1.COM","",49,"M","M","Not employed","College","","","","","","","","","",60710,4,36
+157,"BEN.HOFFMAN","",33,"F","M","Self Employed","College","","","","","","","","","",53710,5,24
+48,"GREG.PITT","",52,"M","M","Engineer","College","","","","","","","","","",64587,6,24
+1048,"KEITH.HOUSE@EMAIL3.COM","",52,"M","M","Engineer","College","","","","","","","","","",73256,6,24
+694,"BRED.DENNER@EMAIL2.COM","",53,"F","M","Self Employed","Post College","","","","","","","","","",71331,6,12
+249,"CHARLIE.TOWB","",55,"F","M","Self Employed","College","","","","","","","","","",92431,6,12
+173,"CRAIG.KODJO","",56,"F","M","Doctor","College","","","","","","","","","",50735,6,12
+1173,"JESSICA.ROBERTS@EMAIL1.COM","",56,"F","M","Doctor","College","","","","","","","","","",53987,6,12
+203,"JOHN.WILSON","",57,"M","M","Private Sector","High School","","","","","","","","","",52889,6,24
+1203,"GEORGE.STILLER@EMAIL3.COM","",57,"M","M","Not employed","High School","","","","","","","","","",40254,6,24
+221,"STUART.DERN","",64,"M","M","Lawyer","College","","","","","","","","","",76262,6,24
+1221,"WILLIAM.BARNFIELD@EMAIL1.COM","",64,"M","M","Professor","College","","","","","","","","","",66797,6,24
+797,"ROSS.BIRD@EMAIL3.COM","",68,"M","M","Private Sector","High School","","","","","","","","","",47271,6,24
+934,"KEITH.BODZ@EMAIL3.COM","",23,"M","S","Self Employed","High School","","","","","","","","","",24431,1,24
+547,"ADRIANBODZ@EMAIL1.COM","",24,"M","S","Lawyer","College","","","","","","","","","",50423,1,0
+578,"BRED.KODJO@EMAIL2.COM","",24,"M","S","Engineer","College","","","","","","","","","",40775,1,48
+952,"MICHAEL.TOWB@EMAIL1.COM","",24,"F","S","Accountant","College","","","","","","","","","",60512,1,48
+218,"STEVEN.BODZ","",25,"M","S","Doctor","Post College","","","","","","","","","",46772,1,36
+774,"JOHN.WILSON@EMAIL2.COM","",25,"M","S","Accountant","Post College","","","","","","","","","",65963,1,0
+866,"CHARLIEBRINK@EMAIL1.COM","",25,"M","S","Self Employed","High School","","","","","","","","","",26285,1,36
+361,"CHARLIE.LARTER","",32,"F","M","Financial analyst","Post College","","","","","","","","","",63433,5,36
+440,"TOM.MONK@EMAIL2.COM","",32,"M","M","Unemployed","High School","","","","","","","","","",22644,5,12
+441,"TOM.PITT@EMAIL2.COM","",32,"M","M","Scientist","College","","","","","","","","","",34526,5,12
+946,"MICHAEL.BODZ@EMAIL2.COM","",32,"F","M","Professor","College","","","","","","","","","",69163,5,36
+540,"ROSS.TOWB@EMAIL2.COM","",25,"F","S","Financial analyst","Post College","","","","","","","","","",73982,1,0
+688,"BILLY.READY@EMAIL1.COM","",25,"F","S","Engineer","College","","","","","","","","","",27186,1,12
+785,"MICHAELMOSS@EMAIL1.COM","",25,"F","S","Doctor","Post College","","","","","","","","","",77149,1,36
+850,"BILLYJACKSON@EMAIL1.COM","",25,"M","S","Self Employed","Post College","","","","","","","","","",62715,1,0
+857,"CHARLIE.BIRD@EMAIL1.COM","",25,"F","S","Private Sector","High School","","","","","","","","","",17287,1,0
+939,"LINDSEY.ALBA@EMAIL1.COM","",25,"F","S","Engineer","College","","","","","","","","","",20688,1,24
+1078,"ADRIAN.JACKSON@EMAIL1.COM","",25,"F","S","Engineer","College","","","","","","","","","",26973,1,36
+162,"BILLY.HOUSE","",25,"M","S","Engineer","College","","","","","","","","","",27151,1,36
+277,"JESSICA.BODZ","",25,"F","S","Engineer","College","","","","","","","","","",23225,1,48
+332,"HARVEY.CORTEZ","",25,"M","S","Self Employed","Post College","","","","","","","","","",40681,1,36
+349,"STUART.WILSON","",25,"M","S","Professor","College","","","","","","","","","",23538,1,48
+495,"GREGBRINK@EMAIL1.COM","",25,"F","S","Accountant","College","","","","","","","","","",45240,1,24
+597,"CRAIG.BODZ@EMAIL2.COM","",25,"M","S","Private Sector","High School","","","","","","","","","",20564,1,36
+622,"JACOBREADY@EMAIL1.COM","",25,"M","S","Professor","College","","","","","","","","","",53017,1,0
+663,"TREVORWEBB@EMAIL1.COM","",25,"M","S","Financial analyst","Post College","","","","","","","","","",75430,1,48
+827,"TREVORREADY@EMAIL1.COM","",25,"F","S","Professor","College","","","","","","","","","",41958,1,24
+937,"KEITH.WEBB@EMAIL3.COM","",25,"F","S","Private Sector","High School","","","","","","","","","",17806,1,24
+1162,"DANIEL.MILLER@EMAIL3.COM","",25,"M","S","Engineer","College","","","","","","","","","",43034,1,36
+11,"3544112","",26,"F","S","Private Sector","High School","","","","","","","","","",18177,1,24
+1218,"MICHAEL.BARNFIELD@EMAIL1.COM","",25,"M","S","Engineer","Post College","","","","","","","","","",44026,1,36
+78,"TOM.BRINK","",25,"F","S","Pharmacist","College","","","","","","","","","",56632,1,36
+333,"HARVEY.LARTER","",25,"M","S","Unemployed","High School","","","","","","","","","",22647,1,0
+366,"GREGORY.CORTEZ","",25,"F","S","Lawyer","Post College","","","","","","","","","",69428,1,24
+1011,"EMMA.KLOVES@EMAIL3.COM","",26,"F","S","Private Sector","High School","","","","","","","","","",20755,1,24
+1071,"TREVOR.MILLER@EMAIL2.COM","",26,"F","S","Nursing","Post College","","","","","","","","","",36009,1,36
+43,"EMMA.MOSS","",26,"F","S","Engineer","College","","","","","","","","","",48436,1,24
+171,"CRAIG.BRINK","",26,"M","S","Private Sector","High School","","","","","","","","","",24211,1,48
+274,"JACOB.CORTEZ","",26,"M","S","Professor","College","","","","","","","","","",17396,1,36
+320,"CRAIG.JACKSON","",26,"F","S","Scientist","College","","","","","","","","","",35694,1,36
+345,"MICHAEL.READY","",26,"F","S","Nursing","Post College","","","","","","","","","",58761,1,48
+379,"TREVOR.JACKSON","",26,"M","S","Engineer","Post College","","","","","","","","","",55981,1,48
+482,"GREG.BIRD@EMAIL1.COM","",26,"F","S","Private Sector","High School","","","","","","","","","",30414,1,36
+498,"JACOBBODZ@EMAIL1.COM","",26,"M","S","Lawyer","Post College","","","","","","","","","",34785,1,0
+542,"ROSSBRINK@EMAIL1.COM","",26,"M","S","Professor","College","","","","","","","","","",18189,1,24
+748,"HARVEY.BODZ@EMAIL2.COM","",26,"F","S","Engineer","College","","","","","","","","","",31795,1,48
+844,"BILLY.BODZ@EMAIL3.COM","",26,"F","S","Private Sector","High School","","","","","","","","","",27671,1,36
+1043,"JESSICA.BAUER@EMAIL1.COM","",26,"F","S","Doctor","College","","","","","","","","","",16230,1,24
+1171,"JASON.HILLORY@EMAIL3.COM","",26,"M","S","Self Employed","High School","","","","","","","","","",34324,1,48
+373,"JOHN.BARNFIELD","",26,"F","S","Self Employed","High School","","","","","","","","","",13497,1,48
+428,"GREGWEBB@EMAIL1.COM","",26,"F","S","Private Sector","High School","","","","","","","","","",21874,1,48
+446,"ALAN.TOWB@EMAIL1.COM","",26,"M","S","Accountant","College","","","","","","","","","",47847,1,0
+584,"CHRIS.MOSS@EMAIL1.COM","",26,"M","S","Accountant","College","","","","","","","","","",21905,1,0
+71,"ROSS.BIRD","",26,"F","S","Financial analyst","Post College","","","","","","","","","",31928,1,36
+447,"ALAN.TOWB@EMAIL2.COM","",26,"M","S","Financial analyst","College","","","","","","","","","",59135,1,48
+705,"CHRIS.READY@EMAIL2.COM","",26,"M","S","Nursing","College","","","","","","","","","",45523,1,36
+714,"DANIEL.ALBA@EMAIL2.COM","",26,"M","S","Self Employed","Post College","","","","","","","","","",64948,1,24
+554,"ALAN.KODJO@EMAIL2.COM","",27,"M","S","Professor","College","","","","","","","","","",39030,1,36
+1086,"BRANDON.POLO@EMAIL3.COM","",27,"M","S","Self Employed","College","","","","","","","","","",49788,1,36
+1186,"TREVOR.MILLER@EMAIL3.COM","",27,"M","S","Nursing","Post College","","","","","","","","","",72154,1,36
+6,"817961","",27,"M","S","Engineer","Post College","","","","","","","","","",47997,1,24
+230,"TREVOR.POLO","",27,"F","S","Self Employed","College","","","","","","","","","",39219,1,36
+298,"STEVEN.READY","",27,"F","S","Accountant","College","","","","","","","","","",42357,1,36
+425,"GREGMONK@EMAIL1.COM","",27,"M","S","Lawyer","College","","","","","","","","","",36160,1,48
+606,"CRAIGBAUER@EMAIL1.COM","",27,"M","S","Not employed","Post College","","","","","","","","","",49082,1,36
+674,"ADRIAN.WEBB@EMAIL1.COM","",27,"F","S","Engineer","Post College","","","","","","","","","",45827,1,36
+678,"ADRIANHOUSE@EMAIL1.COM","",27,"F","S","Lawyer","Post College","","","","","","","","","",31872,1,0
+729,"GEORGEBRINK@EMAIL1.COM","",27,"F","S","Unemployed","High School","","","","","","","","","",20849,1,12
+864,"CHARLIE.PITT@EMAIL2.COM","",27,"F","S","Financial analyst","Post College","","","","","","","","","",58383,1,24
+874,"CHRISJACKSON@EMAIL1.COM","",27,"F","S","Engineer","Post College","","","","","","","","","",40379,1,48
+875,"CRAIG.BODZ@EMAIL3.COM","",27,"F","S","Accountant","Post College","","","","","","","","","",79781,1,48
+1006,"CRAIG.HOFFMAN@EMAIL1.COM","",27,"M","S","Doctor","Post College","","","","","","","","","",62273,1,24
+1230,"HARVEY.BARNFIELD@EMAIL3.COM","",27,"F","S","Accountant","College","","","","","","","","","",59523,1,36
+46,"GREG.MONK","",27,"M","S","Professor","Post College","","","","","","","","","",60122,1,48
+124,"KEITH.ALBA","",27,"M","S","Scientist","Post College","","","","","","","","","",76590,1,36
+561,"BILLY.MOSS@EMAIL2.COM","",27,"M","S","Engineer","College","","","","","","","","","",21303,1,0
+673,"ADRIAN.TOWB@EMAIL2.COM","",26,"M","S","Unemployed","High School","","","","","","","","","",22424,1,24
+903,"GREGORY.MOSS@EMAIL2.COM","",26,"M","S","Lawyer","College","","","","","","","","","",23184,1,48
+86,"BILLY.TOWB","",27,"M","S","Scientist","College","","","","","","","","","",19092,1,36
+186,"GEORGE.WEBB","",27,"M","S","Accountant","Post College","","","","","","","","","",50637,1,36
+1046,"KEITH.BAUER@EMAIL3.COM","",27,"M","S","Engineer","Post College","","","","","","","","","",76540,1,48
+1124,"JASON.ANDERSON@EMAIL2.COM","",27,"M","S","Professor","Post College","","","","","","","","","",47085,1,36
+109,"GREG.READY","",28,"F","S","Not employed","College","","","","","","","","","",58458,1,36
+111,"JACOB.BIRD","",28,"F","S","Nursing","College","","","","","","","","","",22103,1,48
+168,"CHRIS.HOUSE","",28,"F","S","Engineer","College","","","","","","","","","",25418,1,36
+181,"GEORGE.BODZ","",28,"F","S","Accountant","Post College","","","","","","","","","",81855,1,24
+1109,"GEORGE.ROBERTS@EMAIL1.COM","",28,"F","S","Doctor","College","","","","","","","","","",24849,1,36
+1111,"GREG.JACKSON@EMAIL3.COM","",28,"F","S","Doctor","College","","","","","","","","","",23236,1,48
+1168,"HARVEY.CORTEZ@EMAIL3.COM","",28,"F","S","Financial analyst","College","","","","","","","","","",30711,1,36
+1181,"MICHAEL.READY@EMAIL3.COM","",28,"F","S","Engineer","Post College","","","","","","","","","",36326,1,24
+91,"CHRIS.MONK","",28,"M","S","Accountant","College","","","","","","","","","",40603,1,48
+98,"CRAIG.MONK","",28,"F","S","Not employed","Post College","","","","","","","","","",55999,1,24
+135,"OWEN.BRINK","",28,"F","S","Doctor","Post College","","","","","","","","","",78491,1,0
+153,"ADRIAN.POLO","",28,"F","S","Doctor","College","","","","","","","","","",28240,1,24
+427,"GREGTOWB@EMAIL1.COM","",28,"F","S","Doctor","Post College","","","","","","","","","",78869,1,12
+821,"TREVOR.TOWB@EMAIL1.COM","",28,"M","S","Private Sector","High School","","","","","","","","","",12467,1,24
+831,"ADRIAN.BAUER@EMAIL2.COM","",28,"M","S","Professor","College","","","","","","","","","",25490,1,36
+920,"JACOB.WEBB@EMAIL3.COM","",28,"F","S","Engineer","College","","","","","","","","","",18122,1,0
+921,"JACOBJACKSON@EMAIL1.COM","",28,"F","S","Doctor","College","","","","","","","","","",30730,1,0
+594,"CRAIG.BIRD@EMAIL1.COM","",27,"M","S","Private Sector","High School","","","","","","","","","",25289,1,36
+629,"JOHNCORTEZ@EMAIL1.COM","",27,"F","S","Not employed","Post College","","","","","","","","","",65980,1,24
+841,"BILL.HILLORY@EMAIL2.COM","",27,"M","S","Accountant","Post College","","","","","","","","","",63626,1,48
+909,"GREGORYBAUER@EMAIL1.COM","",27,"M","S","Private Sector","High School","","","","","","","","","",18029,1,36
+1153,"BILLY.HILLORY@EMAIL3.COM","",28,"F","S","Engineer","College","","","","","","","","","",63472,1,24
+75,"ROSS.PITT","",28,"M","S","Unemployed","High School","","","","","","","","","",25103,1,48
+368,"GREGORY.WILSON","",28,"M","S","Financial analyst","Post College","","","","","","","","","",42761,1,24
+431,"JOHNMOSS@EMAIL1.COM","",28,"F","S","Engineer","College","","","","","","","","","",47617,1,24
+730,"GEORGEREADY@EMAIL1.COM","",28,"M","S","Doctor","College","","","","","","","","","",33412,1,48
+753,"HELENA.BIRD@EMAIL2.COM","",28,"M","S","Engineer","Post College","","","","","","","","","",38476,1,36
+858,"CHARLIE.BODZ@EMAIL1.COM","",28,"F","S","Scientist","College","","","","","","","","","",44764,1,12
+894,"GREG.JACKSON@EMAIL1.COM","",28,"F","S","Engineer","College","","","","","","","","","",54627,1,24
+1075,"ADRIAN.BAUER@EMAIL3.COM","",28,"M","S","Not employed","High School","","","","","","","","","",34304,1,48
+66,"OWEN.WEBB","",29,"F","S","Accountant","College","","","","","","","","","",39997,1,24
+130,"KEITH.TOWB","",29,"F","S","Self Employed","College","","","","","","","","","",64083,1,24
+194,"HELENA.MONK","",29,"M","S","Professor","College","","","","","","","","","",37641,1,36
+297,"ROSS.JACKSON","",29,"M","S","Private Sector","High School","","","","","","","","","",14212,1,48
+1066,"TERRI.HILLORY@EMAIL1.COM","",29,"F","S","Engineer","College","","","","","","","","","",22847,1,24
+1130,"MARK.JACKSON@EMAIL3.COM","",29,"F","S","Engineer","College","","","","","","","","","",50443,1,24
+1194,"ANASTASIA.MILLER@EMAIL1.COM","",29,"M","S","Professor","College","","","","","","","","","",45124,1,36
+60,"MILA.BODZ","",29,"M","S","Nursing","Post College","","","","","","","","","",81858,1,0
+161,"BILLY.BRINK","",29,"F","S","Scientist","College","","","","","","","","","",35722,1,36
+256,"GEORGE.BAUER","",29,"M","S","Self Employed","Post College","","","","","","","","","",54920,1,24
+948,"MICHAEL.MOSS@EMAIL1.COM","",28,"M","S","Financial analyst","Post College","","","","","","","","","",55860,1,24
+1091,"CHARLIE.PITT@EMAIL3.COM","",28,"M","S","Not employed","College","","","","","","","","","",38912,1,48
+1098,"CRAIG.WILSON@EMAIL3.COM","",28,"F","S","Professor","Post College","","","","","","","","","",38100,1,24
+1135,"MICHAEL.WEBB@EMAIL3.COM","",28,"F","S","Doctor","Post College","","","","","","","","","",69600,1,0
+402,"MICHAEL.ANDERSON","",29,"M","S","Scientist","College","","","","","","","","","",31340,1,48
+519,"KEITHMONK@EMAIL1.COM","",29,"M","S","Engineer","College","","","","","","","","","",33766,1,0
+551,"ADRIANTOWB@EMAIL1.COM","",29,"F","S","Doctor","Post College","","","","","","","","","",64427,1,0
+627,"JOHN.HOUSE@EMAIL2.COM","",29,"F","S","Lawyer","College","","","","","","","","","",43392,1,36
+631,"KEITH.BODZ@EMAIL1.COM","",29,"F","S","Professor","College","","","","","","","","","",48982,1,24
+643,"MARK.BAUER@EMAIL2.COM","",29,"M","S","Doctor","Post College","","","","","","","","","",63173,1,48
+671,"ADRIAN.PITT@EMAIL2.COM","",29,"M","S","Nursing","Post College","","","","","","","","","",65496,1,0
+710,"CRAIG.HOUSE@EMAIL1.COM","",29,"F","S","Private Sector","High School","","","","","","","","","",13193,1,36
+726,"GEORGE.PITT@EMAIL1.COM","",29,"F","S","Scientist","College","","","","","","","","","",50219,1,24
+756,"HELENA.WEBB@EMAIL2.COM","",29,"F","S","Pharmacist","College","","","","","","","","","",55070,1,24
+766,"JOHN.ALBA@EMAIL3.COM","",29,"F","S","Scientist","Post College","","","","","","","","","",36013,1,24
+868,"CHARLIEREADY@EMAIL1.COM","",29,"M","S","Financial analyst","College","","","","","","","","","",57949,1,24
+919,"JACOB.TOWB@EMAIL3.COM","",29,"F","S","Engineer","Post College","","","","","","","","","",75156,1,24
+922,"JASON.MILLER@EMAIL2.COM","",29,"F","S","Doctor","College","","","","","","","","","",22907,1,36
+1060,"ROSS.LARTER@EMAIL3.COM","",29,"M","S","Financial analyst","Post College","","","","","","","","","",62495,1,0
+1161,"CRAIG.JACKSON@EMAIL3.COM","",29,"F","S","Engineer","College","","","","","","","","","",47157,1,36
+127,"KEITH.MONK","",29,"M","S","Financial analyst","Post College","","","","","","","","","",72247,1,36
+225,"TOM.ROBERTS","",29,"M","S","Accountant","Post College","","","","","","","","","",63792,1,12
+344,"MICHAEL.HOUSE","",29,"M","S","Private Sector","High School","","","","","","","","","",34465,1,48
+331,"GREGORY.READY","",29,"M","S","Engineer","College","","","","","","","","","",54910,1,48
+365,"GEORGE.JACKSON","",29,"F","S","Financial analyst","College","","","","","","","","","",65638,1,0
+377,"ROBERT.ROBERTS","",29,"M","S","Nursing","College","","","","","","","","","",33579,1,24
+398,"CHARLIE.ANDERSON","",29,"M","S","Private Sector","High School","","","","","","","","","",32010,1,48
+1127,"JOHN.JACKSON@EMAIL3.COM","",29,"M","S","Accountant","Post College","","","","","","","","","",40119,1,36
+1225,"ANASTASIA.ANDERSON@EMAIL1.COM","",29,"M","S","Engineer","Post College","","","","","","","","","",42950,1,12
+469,"CHRISMOSS@EMAIL1.COM","",29,"F","S","Engineer","College","","","","","","","","","",32689,1,0
+687,"BILLY.HOUSE@EMAIL1.COM","",29,"F","S","Engineer","Post College","","","","","","","","","",60973,1,48
+755,"HELENA.PITT@EMAIL1.COM","",29,"F","S","Scientist","Post College","","","","","","","","","",75761,1,48
+958,"RICH.KODJO@EMAIL3.COM","",29,"F","S","Self Employed","Post College","","","","","","","","","",44026,1,24
+692,"BOB.JACKSON@EMAIL2.COM","",30,"M","S","Financial analyst","College","","","","","","","","","",45209,1,12
+443,"ALAN.MOSS@EMAIL1.COM","",30,"F","S","Accountant","Post College","","","","","","","","","",79031,1,24
+488,"GREG.MOSS@EMAIL2.COM","",30,"M","S","Pharmacist","College","","","","","","","","","",39676,1,48
+553,"ALAN.HOUSE@EMAIL2.COM","",30,"M","S","Not employed","College","","","","","","","","","",38940,1,24
+646,"MILA.HOUSE@EMAIL2.COM","",30,"M","S","Private Sector","High School","","","","","","","","","",18828,1,48
+696,"CHARLIEMONK@EMAIL1.COM","",30,"F","S","Engineer","Post College","","","","","","","","","",57814,1,12
+751,"HELENA.ALBA@EMAIL1.COM","",30,"M","S","Nursing","College","","","","","","","","","",29027,1,48
+328,"GREGORY.BRINK","",30,"F","S","Self Employed","High School","","","","","","","","","",26487,1,24
+439,"ROSSWEBB@EMAIL1.COM","",30,"M","S","Financial analyst","College","","","","","","","","","",28238,1,24
+472,"CHRISWEBB@EMAIL1.COM","",30,"M","S","Engineer","Post College","","","","","","","","","",50472,1,12
+514,"JOHNBRINK@EMAIL1.COM","",30,"M","S","Self Employed","High School","","","","","","","","","",15257,1,0
+515,"JOHNHOUSE@EMAIL1.COM","",30,"M","S","Professor","College","","","","","","","","","",66256,1,0
+586,"CHRIS.PITT@EMAIL2.COM","",30,"F","S","Private Sector","High School","","","","","","","","","",28781,1,0
+362,"CRAIG.ANDERSON","",29,"F","S","Pharmacist","College","","","","","","","","","",25093,1,48
+489,"GREG.PITT@EMAIL1.COM","",29,"M","S","Professor","Post College","","","","","","","","","",56723,1,24
+764,"JACOBCORTEZ@EMAIL1.COM","",29,"M","S","Nursing","Post College","","","","","","","","","",49629,1,12
+798,"ROSS.BODZ@EMAIL3.COM","",29,"F","S","Not employed","Post College","","","","","","","","","",80698,1,24
+936,"KEITH.PITT@EMAIL3.COM","",30,"F","S","Accountant","College","","","","","","","","","",37560,1,24
+85,"BILLY.PITT","",31,"M","S","Self Employed","Post College","","","","","","","","","",72902,1,24
+96,"CRAIG.BIRD","",31,"M","S","Private Sector","High School","","","","","","","","","",30443,1,24
+245,"CHARLIE.BODZ","",31,"M","S","Doctor","College","","","","","","","","","",61764,1,36
+860,"CHARLIE.MONK@EMAIL1.COM","",31,"M","S","Not employed","Post College","","","","","","","","","",81526,1,0
+1085,"BILLY.WILSON@EMAIL3.COM","",31,"M","S","Not employed","Post College","","","","","","","","","",80187,1,24
+1096,"CRAIG.DENNER@EMAIL3.COM","",31,"M","S","Private Sector","High School","","","","","","","","","",27968,1,24
+74,"ROSS.MOSS","",31,"M","S","Self Employed","College","","","","","","","","","",57868,1,24
+149,"ADRIAN.DERN","",31,"M","S","Private Sector","High School","","","","","","","","","",13817,1,12
+376,"RICH.BARNFIELD","",31,"M","S","Pharmacist","Post College","","","","","","","","","",55458,1,48
+378,"STEVEN.ROBERTS","",31,"M","S","Accountant","Post College","","","","","","","","","",66876,1,48
+744,"GREGORYMOSS@EMAIL1.COM","",31,"F","S","Doctor","Post College","","","","","","","","","",55859,1,24
+840,"ALAN.ROBERTS@EMAIL1.COM","",31,"M","S","Lawyer","College","","","","","","","","","",52874,1,12
+940,"LINDSEY.TOWB@EMAIL1.COM","",31,"M","S","Self Employed","Post College","","","","","","","","","",51802,1,36
+949,"MICHAEL.MOSS@EMAIL2.COM","",31,"F","S","Not employed","High School","","","","","","","","","",14931,1,24
+1074,"WILLIAM.BAUER@EMAIL2.COM","",31,"M","S","Financial analyst","College","","","","","","","","","",59060,1,24
+1149,"WILLIAM.MILLER@EMAIL2.COM","",31,"M","S","Private Sector","High School","","","","","","","","","",14042,1,12
+242,"BRANDON.ALBA","",31,"M","S","Engineer","College","","","","","","","","","",30475,1,36
+243,"BRANDON.MOSS","",31,"M","S","Doctor","Post College","","","","","","","","","",45224,1,36
+603,"CRAIG.TOWB@EMAIL1.COM","",30,"F","S","Not employed","Post College","","","","","","","","","",58186,1,24
+719,"EMMA.LARTER@EMAIL1.COM","",30,"M","S","Engineer","Post College","","","","","","","","","",38457,1,48
+806,"ROSSJACKSON@EMAIL1.COM","",30,"F","S","Nursing","Post College","","","","","","","","","",71254,1,36
+535,"ROSS.MONK@EMAIL2.COM","",30,"F","S","Private Sector","High School","","","","","","","","","",16707,1,48
+992,"BRED.ANDERSON@EMAIL2.COM","",31,"M","S","Not employed","Post College","","","","","","","","","",36848,1,48
+496,"GREGHOUSE@EMAIL1.COM","",31,"F","S","Engineer","College","","","","","","","","","",38105,1,24
+624,"JASON.WEBB@EMAIL1.COM","",31,"F","S","Accountant","College","","","","","","","","","",31248,1,12
+69,"RICH.MOSS","",32,"F","S","Engineer","College","","","","","","","","","",41230,1,36
+1069,"TREVOR.CORTEZ@EMAIL1.COM","",32,"F","S","Financial analyst","College","","","","","","","","","",33216,1,36
+92,"CHRIS.MOSS","",32,"M","S","Not employed","High School","","","","","","","","","",31357,1,36
+139,"ROSS.BRINK","",32,"F","S","Unemployed","High School","","","","","","","","","",17641,1,24
+228,"TREVOR.MONK","",32,"F","S","Engineer","Post College","","","","","","","","","",50490,1,48
+233,"ADRIAN.BAUER","",32,"M","S","Financial analyst","College","","","","","","","","","",69229,1,36
+296,"ROSS.HILLORY","",32,"M","S","Private Sector","High School","","","","","","","","","",18447,1,48
+665,"ADRIAN.BIRD@EMAIL2.COM","",32,"M","S","Nursing","Post College","","","","","","","","","",52966,1,24
+693,"BOB.READY@EMAIL3.COM","",32,"F","S","Engineer","College","","","","","","","","","",22327,1,12
+803,"ROSS.POLO@EMAIL3.COM","",32,"F","S","Professor","Post College","","","","","","","","","",60185,1,24
+885,"EMMA.ROBERTS@EMAIL1.COM","",32,"M","S","Engineer","College","","","","","","","","","",57688,1,24
+956,"MICHAELBRINK@EMAIL1.COM","",32,"M","S","Engineer","Post College","","","","","","","","","",84405,1,24
+1092,"CHARLIE.TOWB@EMAIL3.COM","",32,"M","S","Private Sector","High School","","","","","","","","","",36647,1,36
+1139,"ROBERT.STILLER@EMAIL2.COM","",32,"F","S","Private Sector","High School","","","","","","","","","",31227,1,24
+1228,"DANIEL.BARNFIELD@EMAIL3.COM","",32,"F","S","Financial analyst","Post College","","","","","","","","","",67507,1,48
+1233,"STUART.BARNFIELD@EMAIL3.COM","",32,"M","S","Doctor","College","","","","","","","","","",54859,1,36
+453,"BILLYMONK@EMAIL1.COM","",31,"F","S","Engineer","Post College","","","","","","","","","",85424,1,24
+479,"EMMA.DERN@EMAIL2.COM","",31,"M","S","Not employed","College","","","","","","","","","",59450,1,36
+615,"JACOB.BODZ@EMAIL2.COM","",31,"M","S","Doctor","College","","","","","","","","","",46304,1,48
+669,"ADRIAN.MOSS@EMAIL1.COM","",31,"M","S","Engineer","Post College","","","","","","","","","",78458,1,12
+1216,"LINDSEY.HILLORY@EMAIL3.COM","",33,"F","S","Private Sector","High School","","","","","","","","","",32502,1,36
+102,"CRAIG.WEBB","",33,"M","S","Financial analyst","Post College","","","","","","","","","",85587,1,36
+191,"HARVEY.ALBA","",33,"M","S","Scientist","College","","","","","","","","","",27376,1,24
+226,"TREVOR.BIRD","",33,"F","S","Self Employed","College","","","","","","","","","",27853,1,12
+374,"MICHAEL.CORTEZ","",33,"F","S","Professor","Post College","","","","","","","","","",69239,1,48
+548,"ADRIANMONK@EMAIL1.COM","",33,"F","S","Lawyer","Post College","","","","","","","","","",63349,1,12
+623,"JASON.POLO@EMAIL1.COM","",33,"F","S","Financial analyst","College","","","","","","","","","",52171,1,48
+711,"CRAIG.HOUSE@EMAIL2.COM","",33,"F","S","Nursing","College","","","","","","","","","",48572,1,24
+734,"GREG.DENNER@EMAIL2.COM","",33,"M","S","Self Employed","Post College","","","","","","","","","",86202,1,48
+819,"TREVOR.MOSS@EMAIL1.COM","",33,"F","S","Engineer","Post College","","","","","","","","","",49428,1,48
+820,"TREVOR.MOSS@EMAIL2.COM","",33,"F","S","Engineer","Post College","","","","","","","","","",67979,1,48
+1102,"EMMA.HOFFMAN@EMAIL3.COM","",33,"M","S","Engineer","Post College","","","","","","","","","",89016,1,36
+1191,"ADRIAN.ROBERTS@EMAIL3.COM","",33,"M","S","Professor","College","","","","","","","","","",27704,1,24
+1226,"ANASTASIA.CORTEZ@EMAIL3.COM","",33,"F","S","Engineer","College","","","","","","","","","",42280,1,12
+51,"JOHN.ALBA","",33,"M","S","Private Sector","High School","","","","","","","","","",28717,1,24
+76,"ROSS.TOWB","",33,"M","S","Lawyer","College","","","","","","","","","",30842,1,36
+119,"JASON.POLO","",33,"M","S","Private Sector","High School","","","","","","","","","",33192,1,0
+148,"ADRIAN.BODZ","",33,"M","S","Not employed","College","","","","","","","","","",41149,1,0
+175,"DANIEL.MONK","",33,"M","S","Professor","College","","","","","","","","","",28837,1,48
+544,"ROSSREADY@EMAIL1.COM","",32,"F","S","Pharmacist","Post College","","","","","","","","","",85611,1,24
+628,"JOHN.READY@EMAIL1.COM","",32,"F","S","Financial analyst","Post College","","","","","","","","","",58023,1,36
+216,"ROSS.CORTEZ","",33,"F","S","Unemployed","High School","","","","","","","","","",22898,1,36
+981,"ADRIANJACKSON@EMAIL1.COM","",33,"M","S","Self Employed","College","","","","","","","","","",61508,1,12
+1119,"GREGORYJACKSON@EMAIL1.COM","",33,"M","S","Not employed","High School","","","","","","","","","",14990,1,0
+1148,"TREVOR.READY@EMAIL3.COM","",33,"M","S","Lawyer","College","","","","","","","","","",55208,1,0
+1175,"KEITH.HOFFMAN@EMAIL3.COM","",33,"M","S","Professor","College","","","","","","","","","",30109,1,48
+254,"DUSTIN.BRINK","",33,"F","S","Private Sector","High School","","","","","","","","","",32120,1,24
+796,"ROBERT.MOSS@EMAIL2.COM","",33,"F","S","Self Employed","College","","","","","","","","","",54440,1,24
+980,"ADRIAN.WEBB@EMAIL3.COM","",34,"M","S","Lawyer","Post College","","","","","","","","","",75226,1,0
+370,"HELENA.JACKSON","",34,"F","S","Engineer","College","","","","","","","","","",48939,1,0
+567,"BILLYHOUSE@EMAIL1.COM","",34,"F","S","Private Sector","High School","","","","","","","","","",29920,1,48
+616,"JACOB.PITT@EMAIL1.COM","",34,"M","S","Engineer","Post College","","","","","","","","","",48534,1,24
+750,"HARVEY.POLO@EMAIL2.COM","",34,"M","S","Scientist","College","","","","","","","","","",63903,1,24
+784,"MICHAELMONK@EMAIL1.COM","",34,"F","S","Professor","Post College","","","","","","","","","",48619,1,12
+888,"GEORGE.HOUSE@EMAIL1.COM","",34,"F","S","Doctor","Post College","","","","","","","","","",86114,1,24
+971,"TREVOR.READY@EMAIL2.COM","",34,"F","S","Engineer","College","","","","","","","","","",25630,1,12
+972,"TREVORCORTEZ@EMAIL1.COM","",34,"F","S","Not employed","High School","","","","","","","","","",30351,1,12
+121,"JOHN.BRINK","",34,"M","S","Scientist","College","","","","","","","","","",62308,1,24
+483,"GREG.BIRD@EMAIL2.COM","",34,"F","S","Self Employed","High School","","","","","","","","","",16748,1,48
+568,"BILLYREADY@EMAIL1.COM","",34,"F","S","Doctor","Post College","","","","","","","","","",89956,1,0
+746,"GREGORYTOWB@EMAIL1.COM","",34,"M","S","Lawyer","College","","","","","","","","","",72802,1,36
+856,"BRED.ROBERTS@EMAIL2.COM","",34,"M","S","Private Sector","High School","","","","","","","","","",20234,1,24
+317,"CHARLIE.HOUSE","",33,"F","S","Private Sector","High School","","","","","","","","","",35330,1,24
+662,"TREVORTOWB@EMAIL1.COM","",33,"F","S","Self Employed","High School","","","","","","","","","",35343,1,0
+1051,"KEITH.READY@EMAIL3.COM","",33,"M","S","Private Sector","High School","","","","","","","","","",16279,1,24
+1076,"ADRIAN.BRINK@EMAIL3.COM","",33,"M","S","Engineer","College","","","","","","","","","",51627,1,36
+206,"KEITH.HOUSE","",35,"F","S","Financial analyst","College","","","","","","","","","",73507,1,24
+299,"STUART.BRINK","",35,"M","S","Self Employed","Post College","","","","","","","","","",65351,1,24
+1028,"GREGORY.KODJO@EMAIL2.COM","",35,"F","S","Self Employed","College","","","","","","","","","",45956,1,36
+1206,"STEVEN.STILLER@EMAIL3.COM","",35,"F","S","Lawyer","College","","","","","","","","","",50042,1,24
+21,"10252043","",35,"M","S","Doctor","College","","","","","","","","","",43489,1,24
+56,"JOHN.PITT","",35,"F","S","Financial analyst","Post College","","","","","","","","","",74108,1,36
+598,"CRAIG.MONK@EMAIL1.COM","",35,"M","S","Self Employed","College","","","","","","","","","",53860,1,48
+869,"CHRIS.BIRD@EMAIL3.COM","",35,"F","S","Engineer","Post College","","","","","","","","","",65578,1,0
+979,"ADRIAN.TOWB@EMAIL3.COM","",35,"F","S","Engineer","College","","","","","","","","","",33920,1,48
+1021,"GEORGEJACKSON@EMAIL1.COM","",35,"M","S","Accountant","College","","","","","","","","","",38626,1,24
+1056,"MICHAEL.READY@EMAIL2.COM","",35,"F","S","Financial analyst","Post College","","","","","","","","","",53191,1,36
+300,"STUART.KODJO","",35,"F","S","Not employed","High School","","","","","","","","","",34314,1,12
+394,"WILLIAM.HOFFMAN","",35,"F","S","Self Employed","High School","","","","","","","","","",26093,1,0
+640,"KEITHBRINK@EMAIL1.COM","",35,"F","S","Private Sector","High School","","","","","","","","","",37982,1,24
+289,"MICHAEL.MONK","",35,"F","S","Not employed","Post College","","","","","","","","","",73365,1,48
+310,"WILLIAM.POLO","",35,"F","S","Engineer","Post College","","","","","","","","","",69678,1,36
+311,"ADRIAN.CORTEZ","",35,"F","S","Doctor","Post College","","","","","","","","","",61909,1,36
+788,"MILA.WEBB@EMAIL3.COM","",35,"F","S","Not employed","College","","","","","","","","","",33655,1,48
+137,"RICH.KODJO","",36,"M","S","Private Sector","High School","","","","","","","","","",27894,1,0
+941,"MARK.BAUER@EMAIL3.COM","",34,"M","S","Unemployed","High School","","","","","","","","","",15598,1,0
+1121,"HELENA.JACKSON@EMAIL1.COM","",34,"M","S","Engineer","College","","","","","","","","","",70142,1,24
+396,"ANASTASIA.CORTEZ","",34,"F","S","Professor","College","","","","","","","","","",63832,1,24
+28,"BOB.MOSS","",35,"F","S","Pharmacist","College","","","","","","","","","",71209,1,36
+754,"HELENA.MOSS@EMAIL2.COM","",36,"M","S","Self Employed","College","","","","","","","","","",58372,1,24
+923,"JASON.POLO@EMAIL3.COM","",36,"F","S","Nursing","Post College","","","","","","","","","",81818,1,36
+192,"HELENA.ALBA","",36,"M","S","Engineer","Post College","","","","","","","","","",75238,1,24
+450,"BILL.POLO@EMAIL1.COM","",36,"M","S","Engineer","College","","","","","","","","","",62813,1,36
+1192,"ANAGAYCHUK@EMAIL4.COM","",36,"M","S","Not employed","Post College","","","","","","","","","",48800,1,24
+457,"BILLYWEBB@EMAIL1.COM","",37,"M","S","Pharmacist","College","","","","","","","","","",56602,1,12
+935,"KEITH.CORTEZ@EMAIL1.COM","",37,"M","S","Accountant","College","","","","","","","","","",58958,1,48
+41,"BRED.TOWB","",37,"M","S","Self Employed","Post College","","","","","","","","","",64899,1,36
+152,"ADRIAN.PITT","",37,"M","S","Engineer","Post College","","","","","","","","","",48170,1,24
+306,"TREVOR.READY","",37,"M","S","Professor","Post College","","","","","","","","","",78146,1,24
+359,"BRANDON.MILLER","",37,"M","S","Not employed","College","","","","","","","","","",47060,1,36
+383,"CHARLIE.JACKSON","",37,"F","S","Engineer","College","","","","","","","","","",44747,1,36
+609,"GEORGEMOSS@EMAIL1.COM","",37,"M","S","Accountant","College","","","","","","","","","",55973,1,0
+943,"MICHAEL.BIRD@EMAIL1.COM","",37,"M","S","Not employed","College","","","","","","","","","",71633,1,12
+955,"MICHAELBAUER@EMAIL1.COM","",37,"M","S","Nursing","College","","","","","","","","","",37280,1,24
+1041,"JACOB.STILLER@EMAIL1.COM","",37,"M","S","Professor","Post College","","","","","","","","","",77793,1,36
+1152,"BILLY.BARNFIELD@EMAIL2.COM","",37,"M","S","Not employed","Post College","","","","","","","","","",82657,1,24
+760,"JACOB.HOUSE@EMAIL2.COM","",37,"F","S","Unemployed","High School","","","","","","","","","",20470,1,48
+258,"GEORGE.HOUSE","",37,"F","S","Not employed","College","","","","","","","","","",36913,1,48
+1137,"OWEN.HOFFMAN@EMAIL3.COM","",36,"M","S","Unemployed","High School","","","","","","","","","",22271,1,0
+295,"ROBERT.BRINK","",36,"M","S","Engineer","College","","","","","","","","","",35313,1,36
+356,"ANASTASIA.ALBA","",36,"F","S","Self Employed","College","","","","","","","","","",31924,1,24
+385,"DUSTIN.ANDERSON","",36,"F","S","Engineer","Post College","","","","","","","","","",46930,1,48
+219,"STEVEN.DERN","",38,"F","S","Private Sector","High School","","","","","","","","","",22031,1,24
+655,"TOM.LARTER@EMAIL1.COM","",38,"M","S","Engineer","College","","","","","","","","","",49984,1,36
+701,"CHRIS.BRINK@EMAIL2.COM","",38,"M","S","Professor","College","","","","","","","","","",51016,1,36
+702,"CHRIS.HOUSE@EMAIL1.COM","",38,"M","S","Professor","College","","","","","","","","","",72190,1,36
+933,"KEITH.BIRD@EMAIL3.COM","",38,"M","S","Engineer","College","","","","","","","","","",57091,1,36
+1029,"GREGORY.READY@EMAIL1.COM","",38,"M","S","Scientist","Post College","","","","","","","","","",80087,1,24
+1151,"ANASTASIA.BRINK@EMAIL1.COM","",38,"F","S","Doctor","College","","","","","","","","","",76020,1,48
+1219,"MICHAEL.JACKSON@EMAIL3.COM","",38,"F","S","Private Sector","High School","","","","","","","","","",24203,1,24
+307,"WILLIAM.MONK","",38,"F","S","Private Sector","High School","","","","","","","","","",33584,1,24
+481,"GREG.ALBA@EMAIL1.COM","",38,"M","S","Self Employed","Post College","","","","","","","","","",61882,1,24
+732,"GREG.BODZ@EMAIL3.COM","",38,"F","S","Financial analyst","Post College","","","","","","","","","",52188,1,0
+250,"CHARLIE.WEBB","",39,"M","S","Financial analyst","College","","","","","","","","","",30032,1,24
+675,"ADRIAN.WEBB@EMAIL2.COM","",39,"M","S","Private Sector","High School","","","","","","","","","",30501,1,24
+357,"ANASTASIA.MONK","",39,"M","S","Financial analyst","College","","","","","","","","","",68638,1,24
+400,"HELENA.BARNFIELD","",39,"M","S","Nursing","College","","","","","","","","","",47160,1,36
+405,"BOBMONK@EMAIL1.COM","",39,"M","S","Self Employed","High School","","","","","","","","","",37102,1,12
+415,"BOB.BODZ@EMAIL2.COM","",39,"F","S","Doctor","Post College","","","","","","","","","",71998,1,12
+773,"JOHN.WILSON@EMAIL1.COM","",39,"M","S","Not employed","Post College","","","","","","","","","",82123,1,36
+791,"OWEN.LARTER@EMAIL2.COM","",39,"F","S","Private Sector","High School","","","","","","","","","",24268,1,36
+458,"BOB.BAUER@EMAIL1.COM","",38,"M","S","Self Employed","College","","","","","","","","","",61384,1,24
+632,"KEITH.BODZ@EMAIL2.COM","",38,"M","S","Financial analyst","College","","","","","","","","","",52251,1,36
+29,"BOB.PITT","",38,"M","S","Pharmacist","Post College","","","","","","","","","",64196,1,24
+151,"ADRIAN.MOSS","",38,"F","S","Not employed","College","","","","","","","","","",41860,1,48
+423,"GREGBIRD@EMAIL1.COM","",39,"F","S","Accountant","Post College","","","","","","","","","",74280,1,24
+424,"GREGBODZ@EMAIL1.COM","",39,"F","S","Professor","College","","","","","","","","","",67833,1,24
+570,"BOB.CORTEZ@EMAIL2.COM","",39,"M","S","Scientist","College","","","","","","","","","",75098,1,24
+537,"ROSS.PITT@EMAIL1.COM","",39,"F","S","Self Employed","College","","","","","","","","","",54744,1,36
+158,"BILL.CORTEZ","",40,"M","S","Doctor","College","","","","","","","","","",64055,1,36
+163,"BILLY.READY","",40,"M","S","Not employed","College","","","","","","","","","",63886,1,24
+461,"BOB.HOUSE@EMAIL2.COM","",40,"F","S","Financial analyst","College","","","","","","","","","",72986,1,24
+543,"ROSSHOUSE@EMAIL1.COM","",40,"F","S","Engineer","Post College","","","","","","","","","",79569,1,48
+605,"CRAIG.WEBB@EMAIL1.COM","",40,"F","S","Scientist","College","","","","","","","","","",44508,1,12
+896,"GREG.ROBERTS@EMAIL2.COM","",40,"M","S","Financial analyst","College","","","","","","","","","",46279,1,0
+1158,"CHARLIE.JACKSON@EMAIL1.COM","",40,"M","S","Financial analyst","College","","","","","","","","","",34337,1,36
+1163,"DUSTIN.ANDERSON@EMAIL2.COM","",40,"M","S","Nursing","College","","","","","","","","","",78490,1,24
+338,"JESSICA.HOUSE","",40,"M","S","Not employed","College","","","","","","","","","",33070,1,36
+340,"JESSICA.READY","",40,"M","S","Self Employed","Post College","","","","","","","","","",88616,1,24
+382,"BRANDON.ROBERTS","",40,"M","S","Professor","College","","","","","","","","","",67753,1,36
+387,"GREGORY.JACKSON","",40,"F","S","Self Employed","College","","","","","","","","","",50706,1,24
+835,"ADRIAN.KODJO@EMAIL2.COM","",40,"F","S","Not employed","High School","","","","","","","","","",27059,1,24
+49,"GREG.TOWB","",41,"F","S","Not employed","High School","","","","","","","","","",42377,1,48
+360,"CHARLIE.CORTEZ","",41,"F","S","Lawyer","College","","","","","","","","","",64326,1,24
+830,"ADRIAN.BAUER@EMAIL1.COM","",39,"M","S","Financial analyst","College","","","","","","","","","",39461,1,24
+845,"BILLY.CORTEZ@EMAIL1.COM","",39,"F","S","Not employed","High School","","","","","","","","","",34437,1,0
+985,"BILL.MILLER@EMAIL3.COM","",39,"F","S","Financial analyst","College","","","","","","","","","",55135,1,48
+1007,"CRAIG.JACKSON@EMAIL2.COM","",39,"M","S","Engineer","Post College","","","","","","","","","",85849,1,36
+626,"JOHN.HOUSE@EMAIL1.COM","",42,"F","S","Private Sector","High School","","","","","","","","","",42016,1,36
+683,"BILL.BIRD@EMAIL3.COM","",42,"M","S","Engineer","College","","","","","","","","","",34688,1,36
+889,"GEORGE.HOUSE@EMAIL2.COM","",42,"F","S","Accountant","College","","","","","","","","","",39022,1,36
+965,"TERRI.DENNER@EMAIL2.COM","",42,"F","S","Doctor","College","","","","","","","","","",49328,1,36
+1217,"LINDSEY.STILLER@EMAIL3.COM","",42,"F","S","Engineer","College","","","","","","","","","",60124,1,48
+199,"JACOB.HOUSE","",42,"M","S","Engineer","Post College","","","","","","","","","",73911,1,24
+471,"CHRISTOWB@EMAIL1.COM","",42,"F","S","Accountant","Post College","","","","","","","","","",66676,1,36
+582,"CHRIS.MONK@EMAIL1.COM","",42,"M","S","Financial analyst","College","","","","","","","","","",72188,1,36
+707,"CRAIG.BAUER@EMAIL1.COM","",42,"F","S","Engineer","College","","","","","","","","","",42724,1,0
+1199,"DANIEL.BARNFIELD@EMAIL2.COM","",42,"M","S","Professor","Post College","","","","","","","","","",97446,1,24
+93,"CHRIS.PITT","",43,"F","S","Not employed","College","","","","","","","","","",68534,1,12
+94,"CHRIS.TOWB","",43,"F","S","Self Employed","High School","","","","","","","","","",34339,1,24
+180,"GEORGE.BIRD","",43,"M","S","Financial analyst","Post College","","","","","","","","","",74972,1,36
+201,"JOHN.CORTEZ","",43,"M","S","Not employed","Post College","","","","","","","","","",66845,1,48
+215,"ROBERT.MONK","",43,"M","S","Pharmacist","Post College","","","","","","","","","",72898,1,36
+280,"JOHN.JACKSON","",43,"M","S","Accountant","Post College","","","","","","","","","",66721,1,24
+411,"BEN.ALBA@EMAIL1.COM","",43,"F","S","Professor","College","","","","","","","","","",63664,1,48
+412,"BEN.ALBA@EMAIL2.COM","",43,"F","S","Accountant","College","","","","","","","","","",34175,1,48
+430,"JOHNMONK@EMAIL1.COM","",43,"M","S","Engineer","College","","","","","","","","","",81120,1,36
+494,"GREGBAUER@EMAIL1.COM","",41,"F","S","Financial analyst","Post College","","","","","","","","","",84649,1,24
+589,"CHRIS.WEBB@EMAIL1.COM","",41,"M","S","Self Employed","College","","","","","","","","","",63186,1,0
+718,"EMMA.DENNER@EMAIL2.COM","",41,"M","S","Not employed","Post College","","","","","","","","","",53249,1,12
+347,"ROBERT.LARTER","",42,"M","S","Private Sector","High School","","","","","","","","","",22340,1,0
+1201,"GEORGE.HILLORY@EMAIL3.COM","",43,"M","S","Financial analyst","Post College","","","","","","","","","",63923,1,48
+1215,"KEITH.BARNFIELD@EMAIL3.COM","",43,"M","S","Engineer","Post College","","","","","","","","","",55822,1,36
+55,"JOHN.MOSS","",43,"M","S","Engineer","College","","","","","","","","","",36530,1,36
+467,"CHRISBODZ@EMAIL1.COM","",43,"M","S","Professor","College","","","","","","","","","",33502,1,24
+596,"CRAIG.BODZ@EMAIL1.COM","",43,"F","S","Engineer","Post College","","","","","","","","","",78523,1,36
+1055,"MICHAEL.HOUSE@EMAIL1.COM","",43,"M","S","Doctor","College","","","","","","","","","",71626,1,36
+1,"50524","",44,"M","S","Private Sector","High School","","","","","","","","","",36021,1,24
+53,"JOHN.BODZ","",44,"M","S","Financial analyst","Post College","","","","","","","","","",51826,1,24
+223,"TERRI.HOUSE","",44,"F","S","Engineer","College","","","","","","","","","",55046,1,36
+564,"BILLY.WEBB@EMAIL1.COM","",44,"M","S","Unemployed","High School","","","","","","","","","",36075,1,24
+712,"CRAIGCORTEZ@EMAIL1.COM","",44,"M","S","Private Sector","High School","","","","","","","","","",46257,1,48
+740,"GREGJACKSON@EMAIL1.COM","",44,"F","S","Doctor","Post College","","","","","","","","","",66589,1,24
+814,"TOM.BRINK@EMAIL3.COM","",44,"F","S","Lawyer","College","","","","","","","","","",67922,1,12
+870,"CHRIS.CORTEZ@EMAIL2.COM","",44,"M","S","Accountant","College","","","","","","","","","",43877,1,36
+959,"ROSS.BRINK@EMAIL3.COM","",44,"M","S","Professor","Post College","","","","","","","","","",102216,1,48
+1001,"CHRIS.JACKSON@EMAIL1.COM","",44,"M","S","Private Sector","High School","","","","","","","","","",21896,1,24
+1053,"MICHAEL.BAUER@EMAIL1.COM","",44,"M","S","Doctor","Post College","","","","","","","","","",60289,1,24
+1223,"WILLIAM.HILLORY@EMAIL3.COM","",44,"F","S","Engineer","College","","","","","","","","","",40427,1,36
+284,"LINDSEY.BIRD","",44,"F","S","Private Sector","High School","","","","","","","","","",23829,1,24
+994,"CHARLIE.BRINK@EMAIL1.COM","",43,"F","S","Lawyer","College","","","","","","","","","",73253,1,12
+1093,"CHARLIE.WEBB@EMAIL3.COM","",43,"F","S","Engineer","College","","","","","","","","","",79354,1,12
+1094,"CHARLIEJACKSON@EMAIL1.COM","",43,"F","S","Private Sector","High School","","","","","","","","","",36634,1,24
+1180,"MICHAEL.JACKSON@EMAIL2.COM","",43,"M","S","Engineer","Post College","","","","","","","","","",88312,1,36
+286,"MARK.HILLORY","",45,"F","S","Doctor","College","","","","","","","","","",53765,1,12
+301,"TERRI.DENNER","",45,"F","S","Professor","College","","","","","","","","","",60655,1,36
+492,"GREG.TOWB@EMAIL2.COM","",45,"M","S","Not employed","High School","","","","","","","","","",26488,1,48
+527,"RICH.ALBA@EMAIL1.COM","",45,"M","S","Professor","College","","","","","","","","","",62301,1,36
+534,"ROSS.MONK@EMAIL1.COM","",45,"F","S","Nursing","Post College","","","","","","","","","",97390,1,36
+765,"JASON.KODJO@EMAIL1.COM","",45,"M","S","Self Employed","Post College","","","","","","","","","",93088,1,24
+776,"KEITH.HOUSE@EMAIL2.COM","",45,"M","S","Financial analyst","Post College","","","","","","","","","",88237,1,24
+787,"MICHAELWEBB@EMAIL1.COM","",45,"F","S","Self Employed","College","","","","","","","","","",37002,1,12
+805,"ROSS.WILSON@EMAIL1.COM","",45,"F","S","Self Employed","High School","","","","","","","","","",46303,1,36
+828,"WBIRD@EMAIL4.COM","",45,"M","S","Financial analyst","College","","","","","","","","","",36079,1,48
+978,"ADRIAN.MOSS@EMAIL3.COM","",45,"M","S","Lawyer","Post College","","","","","","","","","",91789,1,24
+1080,"ALAN.HILLORY@EMAIL3.COM","",45,"F","S","Self Employed","College","","","","","","","","","",36349,1,24
+1084,"BILLY.CORTEZ@EMAIL3.COM","",45,"F","S","Doctor","Post College","","","","","","","","","",80334,1,24
+367,"GREGORY.MILLER","",45,"F","S","Not employed","High School","","","","","","","","","",30540,1,24
+562,"BILLY.PITT@EMAIL2.COM","",45,"F","S","Engineer","College","","","","","","","","","",38761,1,24
+686,"BILLY.BRINK@EMAIL1.COM","",45,"M","S","Engineer","College","","","","","","","","","",47844,1,48
+293,"MICHAEL.WEBB","",46,"M","S","Lawyer","College","","","","","","","","","",69877,1,24
+493,"GREG.WEBB@EMAIL1.COM","",46,"F","S","Not employed","College","","","","","","","","","",56869,1,36
+566,"BILLYBRINK@EMAIL1.COM","",46,"F","S","Engineer","College","","","","","","","","","",61199,1,36
+704,"CHRIS.READY@EMAIL1.COM","",44,"M","S","Doctor","Post College","","","","","","","","","",57620,1,48
+80,"BILL.HOUSE","",45,"F","S","Doctor","College","","","","","","","","","",67743,1,24
+84,"BILLY.MOSS","",45,"F","S","Self Employed","Post College","","","","","","","","","",77606,1,24
+281,"KEITH.CORTEZ","",45,"M","S","Not employed","High School","","","","","","","","","",45303,1,48
+1020,"GEORGE.WEBB@EMAIL3.COM","",46,"M","S","Engineer","Post College","","","","","","","","","",58818,1,24
+809,"STUART.BIRD@EMAIL1.COM","",47,"F","S","Doctor","College","","","","","","","","","",61091,1,48
+10,"3394840","",47,"M","S","Financial analyst","College","","","","","","","","","",78746,1,36
+87,"BILLY.WEBB","",47,"F","S","Financial analyst","College","","","","","","","","","",64477,1,12
+1010,"EMMA.ANDERSON@EMAIL2.COM","",47,"M","S","Engineer","College","","","","","","","","","",53043,1,36
+1087,"CHARLIE.BODZ@EMAIL3.COM","",47,"F","S","Pharmacist","College","","","","","","","","","",51654,1,12
+460,"BOB.BRINK@EMAIL2.COM","",47,"F","S","Nursing","Post College","","","","","","","","","",89100,1,24
+470,"CHRISPITT@EMAIL1.COM","",47,"M","S","Private Sector","High School","","","","","","","","","",35257,1,48
+863,"CHARLIE.PITT@EMAIL1.COM","",47,"F","S","Lawyer","College","","","","","","","","","",46463,1,0
+917,"JACOB.MOSS@EMAIL3.COM","",47,"F","S","Professor","College","","","","","","","","","",76992,1,24
+23,"BEN.ALBA","",48,"M","S","Pharmacist","Post College","","","","","","","","","",93796,1,24
+781,"MARK.MOSS@EMAIL3.COM","",48,"M","S","Not employed","College","","","","","","","","","",77076,1,24
+1023,"GREG.CORTEZ@EMAIL3.COM","",48,"M","S","Lawyer","Post College","","","","","","","","","",103422,1,24
+143,"TERRI.MONK","",48,"F","S","Accountant","Post College","","","","","","","","","",103033,1,48
+253,"DUSTIN.BAUER","",48,"F","S","Not employed","College","","","","","","","","","",38239,1,24
+892,"GREG.BAUER@EMAIL3.COM","",48,"F","S","Private Sector","High School","","","","","","","","","",33331,1,12
+906,"GREGORY.TOWB@EMAIL2.COM","",48,"M","S","Engineer","College","","","","","","","","","",69876,1,24
+1143,"RSADYGOV@EMAIL4.COM","",48,"F","S","Nursing","Post College","","","","","","","","","",90800,1,48
+745,"GREGORYPITT@EMAIL1.COM","",48,"M","S","Not employed","College","","","","","","","","","",65909,1,24
+847,"BILLY.MONK@EMAIL3.COM","",46,"M","S","Private Sector","High School","","","","","","","","","",40041,1,24
+929,"JESSICA.TOWB@EMAIL2.COM","",46,"F","S","Accountant","College","","","","","","","","","",77770,1,24
+20,"9815948","",46,"M","S","Self Employed","Post College","","","","","","","","","",100248,1,24
+881,"CRAIG.PITT@EMAIL3.COM","",46,"M","S","Engineer","College","","","","","","","","","",38776,1,24
+826,"TREVORHOUSE@EMAIL1.COM","",49,"F","S","Doctor","Post College","","","","","","","","","",70689,1,12
+1044,"JESSICA.HOUSE@EMAIL2.COM","",49,"M","S","Engineer","College","","","","","","","","","",75212,1,36
+968,"TREVOR.BAUER@EMAIL2.COM","",50,"M","S","Doctor","College","","","","","","","","","",75783,1,24
+876,"CRAIG.CORTEZ@EMAIL1.COM","",50,"F","S","Pharmacist","Post College","","","","","","","","","",65031,1,0
+613,"JACOB.BIRD@EMAIL2.COM","",51,"M","S","Engineer","Post College","","","","","","","","","",98210,1,24
+323,"DUSTIN.LARTER","",51,"F","S","Professor","College","","","","","","","","","",54864,1,24
+607,"CRAIGBRINK@EMAIL1.COM","",51,"M","S","Engineer","Post College","","","","","","","","","",78991,1,36
+608,"GEORGEMONK@EMAIL1.COM","",51,"M","S","Not employed","College","","","","","","","","","",76156,1,36
+670,"ADRIAN.PITT@EMAIL1.COM","",51,"F","S","Engineer","Post College","","","","","","","","","",66235,1,36
+0,"","",52,"F","S","Private Sector","High School","","","","","","","","","",48380,1,36
+263,"GREGORY.ALBA","",52,"F","S","Accountant","Post College","","","","","","","","","",101450,1,24
+410,"GREGORY.BARNFIELD","",52,"M","S","Engineer","Post College","","","","","","","","","",102693,1,48
+804,"ROSS.WEBB@EMAIL3.COM","",52,"M","S","Private Sector","High School","","","","","","","","","",27109,1,12
+966,"TERRI.WILSON@EMAIL2.COM","",52,"F","S","Engineer","College","","","","","","","","","",73661,1,48
+407,"BOBPITT@EMAIL1.COM","",53,"M","S","Pharmacist","College","","","","","","","","","",61820,1,48
+771,"JOHN.MOSS@EMAIL3.COM","",53,"M","S","Private Sector","High School","","","","","","","","","",34059,1,24
+901,"GREGORY.MONK@EMAIL2.COM","",54,"F","S","Private Sector","High School","","","","","","","","","",28350,1,0
+619,"JACOB.WEBB@EMAIL1.COM","",55,"M","S","Not employed","Post College","","","","","","","","","",92343,1,0
+620,"JACOBBAUER@EMAIL1.COM","",55,"M","S","Self Employed","College","","","","","","","","","",85360,1,0
+179,"DUSTIN.TOWB","",49,"F","S","Self Employed","College","","","","","","","","","",81372,1,36
+1179,"MICHAEL.JACKSON@EMAIL1.COM","",49,"F","S","Scientist","College","","","","","","","","","",61010,1,36
+611,"GREGCORTEZ@EMAIL1.COM","",49,"M","S","Lawyer","Post College","","","","","","","","","",85690,1,12
+44,"GREG.BIRD","",49,"M","S","Professor","College","","","","","","","","","",60680,1,36
+854,"BRED.HOUSE@EMAIL3.COM","",59,"F","S","Not employed","College","","","","","","","","","",52949,1,36
+913,"HARVEY.BRINK@EMAIL2.COM","",60,"F","S","Lawyer","College","","","","","","","","","",59566,1,48
+914,"JACOB.CORTEZ@EMAIL1.COM","",60,"F","S","Self Employed","High School","","","","","","","","","",47490,1,48
+414,"BOB.BODZ@EMAIL1.COM","",63,"M","S","Unemployed","High School","","","","","","","","","",50527,1,0
+283,"KEITH.WILSON","",64,"F","S","Private Sector","High School","","","","","","","","","",39351,1,48
+634,"KEITH.MONK@EMAIL2.COM","",64,"M","S","Engineer","Post College","","","","","","","","","",118900,1,48
+574,"BOB.TOWB@EMAIL3.COM","",65,"M","S","Not employed","High School","","","","","","","","","",47475,1,0
+222,"STUART.MOSS","",66,"M","S","Engineer","College","","","","","","","","","",64391,1,24
+1222,"WILLIAM.BARNFIELD@EMAIL2.COM","",66,"M","S","Doctor","College","","","","","","","","","",83119,1,24
+1022,"GREG.ANDERSON@EMAIL2.COM","",67,"F","S","Pharmacist","Post College","","","","","","","","","",115312,1,36
+264,"GREGORY.BIRD","",72,"F","S","Private Sector","High School","","","","","","","","","",38920,1,36
+35,"ALAN.POLO","",73,"M","S","Doctor","Post College","","","","","","","","","",108253,1,12
+1035,"HELENA.DENNER@EMAIL1.COM","",73,"M","S","Self Employed","Post College","","","","","","","","","",129583,1,12
+324,"EMMA.ANDERSON","",75,"F","S","Private Sector","High School","","","","","","","","","",43340,1,24
+997,"CHARLIE.KODJO@EMAIL1.COM","",75,"F","S","Doctor","Post College","","","","","","","","","",115684,1,24
+577,"BRED.BRINK@EMAIL1.COM","",96,"F","S","Engineer","Post College","","","","","","","","","",152375,1,36
+353,"WILLIAM.BRINK","",25,"M","U","Financial analyst","College","","","","","","","","","",58376,1,24
+384,"CHARLIE.STILLER","",25,"F","U","Doctor","College","","","","","","","","","",30295,1,48
+466,"CHRISBIRD@EMAIL1.COM","",25,"F","U","Financial analyst","College","","","","","","","","","",32814,1,48
+741,"GREGORYBIRD@EMAIL1.COM","",55,"F","S","Self Employed","Post College","","","","","","","","","",86633,1,36
+164,"BOB.JACKSON","",56,"F","S","Nursing","College","","","","","","","","","",55861,1,0
+1164,"DUSTIN.DENNER@EMAIL3.COM","",56,"F","S","Self Employed","College","","","","","","","","","",66270,1,0
+238,"BILL.ROBERTS","",57,"F","S","Engineer","College","","","","","","","","","",81408,1,36
+269,"GREGORY.POLO","",26,"M","U","Lawyer","College","","","","","","","","","",62945,1,24
+288,"MICHAEL.BODZ","",26,"M","U","Private Sector","High School","","","","","","","","","",26560,1,36
+290,"MICHAEL.MOSS","",26,"F","U","Self Employed","College","","","","","","","","","",60172,1,36
+318,"CHARLIE.READY","",26,"F","U","Engineer","College","","","","","","","","","",39653,1,24
+433,"JOHNTOWB@EMAIL1.COM","",26,"F","U","Self Employed","College","","","","","","","","","",50263,1,48
+449,"BILL.PITT@EMAIL2.COM","",26,"F","U","Financial analyst","Post College","","","","","","","","","",76200,1,12
+455,"BILLYPITT@EMAIL1.COM","",26,"M","U","Professor","College","","","","","","","","","",47788,1,24
+456,"BILLYTOWB@EMAIL1.COM","",26,"F","U","Private Sector","High School","","","","","","","","","",30296,1,24
+508,"JOHN.MOSS@EMAIL1.COM","",26,"M","U","Pharmacist","College","","","","","","","","","",22690,1,24
+509,"JOHN.MOSS@EMAIL2.COM","",26,"M","U","Financial analyst","Post College","","","","","","","","","",76812,1,24
+648,"ROSS.BAUER@EMAIL1.COM","",26,"M","U","Self Employed","Post College","","","","","","","","","",32460,1,24
+898,"GREGORY.ALBA@EMAIL1.COM","",26,"M","U","Engineer","College","","","","","","","","","",52121,1,12
+485,"GREG.BODZ@EMAIL2.COM","",27,"M","U","Nursing","College","","","","","","","","","",19625,1,48
+899,"GREGORY.BODZ@EMAIL1.COM","",27,"M","U","Not employed","High School","","","","","","","","","",35947,1,12
+271,"GREGORY.WEBB","",29,"M","U","Professor","College","","","","","","","","","",27862,1,24
+319,"CHRIS.JACKSON","",29,"F","U","Professor","College","","","","","","","","","",44096,1,24
+343,"MICHAEL.BRINK","",29,"F","U","Professor","Post College","","","","","","","","","",39694,1,36
+371,"JESSICA.CORTEZ","",29,"F","U","Unemployed","High School","","","","","","","","","",16338,1,24
+409,"CHARLIE.BARNFIELD","",29,"F","U","Financial analyst","College","","","","","","","","","",60429,1,36
+500,"JACOBWEBB@EMAIL1.COM","",25,"F","U","Accountant","College","","","","","","","","","",38864,1,48
+539,"ROSS.POLO@EMAIL1.COM","",25,"F","U","Not employed","College","","","","","","","","","",31103,1,12
+871,"CHRIS.MILLER@EMAIL1.COM","",25,"M","U","Not employed","Post College","","","","","","","","","",56160,1,24
+268,"GREGORY.PITT","",26,"F","U","Private Sector","High School","","","","","","","","","",26930,1,24
+375,"OWEN.BARNFIELD","",32,"M","U","Professor","College","","","","","","","","","",49515,1,24
+413,"BOB.BIRD@EMAIL2.COM","",32,"F","U","Pharmacist","Post College","","","","","","","","","",77642,1,48
+341,"KEITH.JACKSON","",33,"F","U","Engineer","College","","","","","","","","","",31877,1,24
+364,"GEORGE.HOFFMAN","",33,"F","U","Private Sector","High School","","","","","","","","","",33929,1,48
+406,"BOBMOSS@EMAIL1.COM","",33,"F","U","Not employed","High School","","","","","","","","","",38128,1,36
+459,"BOB.BAUER@EMAIL2.COM","",33,"F","U","Self Employed","College","","","","","","","","","",24955,1,36
+484,"GREG.BODZ@EMAIL1.COM","",33,"F","U","Doctor","Post College","","","","","","","","","",48434,1,36
+614,"JACOB.BODZ@EMAIL1.COM","",33,"M","U","Professor","College","","","","","","","","","",55948,1,24
+391,"MICHAEL.ROBERTS","",34,"F","U","Doctor","College","","","","","","","","","",47653,1,24
+474,"CRAIGWEBB@EMAIL1.COM","",34,"F","U","Financial analyst","College","","","","","","","","","",68012,1,12
+668,"ADRIAN.MONK@EMAIL2.COM","",34,"F","U","Private Sector","High School","","","","","","","","","",18813,1,36
+259,"GEORGE.KODJO","",35,"F","U","Private Sector","High School","","","","","","","","","",31256,1,0
+260,"GEORGE.READY","",35,"F","U","Not employed","High School","","","","","","","","","",37933,1,0
+278,"JESSICA.DERN","",35,"F","U","Private Sector","High School","","","","","","","","","",33974,1,48
+393,"TERRI.BARNFIELD","",35,"F","U","Nursing","Post College","","","","","","","","","",80981,1,36
+381,"ANASTASIA.BRINK","",36,"M","U","Doctor","Post College","","","","","","","","","",90297,1,12
+321,"DANIEL.CORTEZ","",38,"F","U","Not employed","High School","","","","","","","","","",25555,1,24
+579,"CHRIS.ALBA@EMAIL2.COM","",43,"F","U","Engineer","College","","","","","","","","","",43255,1,36
+501,"JOHN.ALBA@EMAIL2.COM","",44,"F","U","Financial analyst","College","","","","","","","","","",42663,1,24
+322,"DANIEL.MILLER","",30,"F","U","Unemployed","High School","","","","","","","","","",19141,1,24
+327,"GREGORY.BAUER","",30,"F","U","Self Employed","High School","","","","","","","","","",36724,1,24
+444,"ALAN.POLO@EMAIL1.COM","",31,"F","U","Not employed","Post College","","","","","","","","","",73226,1,24
+251,"CHRIS.CORTEZ","",32,"M","U","Engineer","College","","","","","","","","","",64186,1,24
+602,"CRAIG.PITT@EMAIL2.COM","",24,"M","U","Private Sector","High School","","","","","","","","","",23506,2,36
+859,"CHARLIE.DERN@EMAIL2.COM","",24,"M","U","Not employed","College","","","","","","","","","",24353,2,36
+1014,"GEORGE.BODZ@EMAIL3.COM","",24,"F","U","Engineer","College","","","","","","","","","",40421,2,36
+16,"6765966","",25,"M","U","Professor","Post College","","","","","","","","","",40721,2,48
+40,"BRED.POLO","",25,"F","U","Not employed","College","","","","","","","","","",56473,2,24
+42,"BRED.WEBB","",25,"F","U","Not employed","College","","","","","","","","","",64673,2,0
+59,"MARK.DERN","",25,"F","U","Accountant","College","","","","","","","","","",23758,2,36
+99,"CRAIG.MOSS","",25,"F","U","Engineer","Post College","","","","","","","","","",41867,2,24
+159,"BILL.MILLER","",25,"F","U","Private Sector","High School","","","","","","","","","",13159,2,48
+209,"MARK.DENNER","",25,"F","U","Private Sector","High School","","","","","","","","","",16715,2,36
+334,"HELENA.KLOVES","",25,"F","U","Engineer","Post College","","","","","","","","","",62660,2,48
+530,"RICH.PITT@EMAIL2.COM","",25,"M","U","Not employed","College","","","","","","","","","",17581,2,12
+618,"JACOB.TOWB@EMAIL2.COM","",25,"M","U","Self Employed","Post College","","","","","","","","","",76213,2,0
+666,"ADRIAN.BODZ@EMAIL2.COM","",25,"F","U","Private Sector","High School","","","","","","","","","",20616,2,36
+733,"GREG.CORTEZ@EMAIL2.COM","",25,"F","U","Not employed","College","","","","","","","","","",36126,2,24
+749,"HARVEY.MONK@EMAIL1.COM","",25,"M","U","Engineer","College","","","","","","","","","",27756,2,24
+792,"OWEN.TOWB@EMAIL3.COM","",25,"M","U","Unemployed","High School","","","","","","","","","",30923,2,48
+800,"ROSS.LARTER@EMAIL1.COM","",25,"F","U","Pharmacist","College","","","","","","","","","",44705,2,36
+408,"BOBTOWB@EMAIL1.COM","",54,"F","U","Engineer","College","","","","","","","","","",55441,1,24
+2,"226666","",21,"F","U","Pharmacist","Post College","","","","","","","","","",27677,2,36
+1002,"CHRIS.JACKSON@EMAIL2.COM","",21,"F","U","Scientist","Post College","","","","","","","","","",49024,2,36
+27,"BOB.MONK","",25,"M","U","Engineer","College","","","","","","","","","",44839,2,12
+779,"MARK.ALBA@EMAIL3.COM","",22,"M","U","Not employed","Post College","","","","","","","","","",26855,2,48
+1026,"GREGORY.HOUSE@EMAIL1.COM","",25,"M","U","Professor","College","","","","","","","","","",54262,2,12
+1027,"GREGORY.HOUSE@EMAIL2.COM","",25,"M","U","Not employed","College","","","","","","","","","",52111,2,12
+1040,"JACOB.READY@EMAIL3.COM","",25,"F","U","Engineer","College","","","","","","","","","",62559,2,24
+1042,"JASON.ROBERTS@EMAIL1.COM","",25,"F","U","Engineer","College","","","","","","","","","",51576,2,0
+1059,"OWEN.MILLER@EMAIL3.COM","",25,"F","U","Financial analyst","College","","","","","","","","","",52649,2,36
+1099,"DUSTIN.HILLORY@EMAIL1.COM","",25,"F","U","Self Employed","Post College","","","","","","","","","",50305,2,24
+1159,"CHARLIE.READY@EMAIL3.COM","",25,"F","U","Private Sector","High School","","","","","","","","","",30178,2,48
+1209,"TREVOR.JACKSON@EMAIL3.COM","",25,"F","U","Unemployed","High School","","","","","","","","","",13751,2,36
+5,"660891","",26,"M","U","Engineer","Post College","","","","","","","","","",49660,2,24
+34,"ALAN.MOSS","",26,"M","U","Engineer","College","","","","","","","","","",49615,2,24
+89,"CHRIS.BIRD","",26,"F","U","Financial analyst","College","","","","","","","","","",40420,2,36
+156,"ALAN.KLOVES","",26,"M","U","Financial analyst","College","","","","","","","","","",52826,2,24
+210,"MARK.KLOVES","",26,"F","U","Lawyer","College","","","","","","","","","",53700,2,36
+211,"MARK.LARTER","",26,"M","U","Engineer","College","","","","","","","","","",43813,2,12
+214,"ROBERT.DERN","",26,"F","U","Self Employed","Post College","","","","","","","","","",60216,2,24
+234,"ADRIAN.BRINK","",26,"F","U","Not employed","College","","","","","","","","","",48007,2,12
+272,"HELENA.HOUSE","",26,"M","U","Doctor","College","","","","","","","","","",54962,2,48
+314,"BRANDON.READY","",26,"M","U","Doctor","College","","","","","","","","","",62007,2,24
+838,"ALAN.HOFFMAN@EMAIL2.COM","",25,"M","U","Engineer","Post College","","","","","","","","","",30375,2,24
+849,"BILLY.WEBB@EMAIL3.COM","",25,"F","U","Scientist","Post College","","","","","","","","","",71387,2,24
+947,"MICHAEL.MONK@EMAIL2.COM","",25,"M","U","Accountant","Post College","","","","","","","","","",63395,2,48
+967,"TOM.ANDERSON@EMAIL2.COM","",25,"F","U","Nursing","College","","","","","","","","","",62749,2,36
+1016,"GEORGE.CORTEZ@EMAIL2.COM","",25,"M","U","Engineer","Post College","","","","","","","","","",67888,2,48
+556,"BEN.DERN@EMAIL3.COM","",26,"F","U","Engineer","College","","","","","","","","","",38058,2,36
+573,"BOB.PITT@EMAIL3.COM","",26,"F","U","Self Employed","Post College","","","","","","","","","",73943,2,24
+580,"CHRIS.BIRD@EMAIL2.COM","",26,"F","U","Nursing","College","","","","","","","","","",40613,2,48
+612,"JACOB.BIRD@EMAIL1.COM","",26,"M","U","Private Sector","High School","","","","","","","","","",20624,2,0
+676,"ADRIANBAUER@EMAIL1.COM","",26,"F","U","Self Employed","High School","","","","","","","","","",12192,2,0
+677,"ADRIANBRINK@EMAIL1.COM","",26,"M","U","Pharmacist","College","","","","","","","","","",62846,2,24
+679,"ADRIANREADY@EMAIL1.COM","",26,"F","U","Engineer","Post College","","","","","","","","","",56085,2,36
+706,"CHRISCORTEZ@EMAIL1.COM","",26,"F","U","Financial analyst","College","","","","","","","","","",52581,2,24
+721,"ETOWB@EMAIL4.COM","",26,"F","U","Nursing","College","","","","","","","","","",49717,2,36
+722,"GEORGE.BODZ@EMAIL1.COM","",26,"F","U","Self Employed","College","","","","","","","","","",53801,2,36
+794,"RICH.WILSON@EMAIL2.COM","",26,"F","U","Financial analyst","College","","","","","","","","","",65686,2,48
+801,"ROSS.MOSS@EMAIL3.COM","",26,"F","U","Financial analyst","College","","","","","","","","","",60251,2,24
+872,"CHRIS.POLO@EMAIL3.COM","",26,"F","U","Financial analyst","College","","","","","","","","","",17454,2,24
+880,"CRAIG.MOSS@EMAIL3.COM","",26,"F","U","Unemployed","High School","","","","","","","","","",24738,2,12
+1005,"CRAIG.HILLORY@EMAIL1.COM","",26,"M","U","Lawyer","Post College","","","","","","","","","",67608,2,24
+1034,"HARVEY.WILSON@EMAIL2.COM","",26,"M","U","Accountant","College","","","","","","","","","",56617,2,24
+1089,"CHARLIE.KLOVES@EMAIL2.COM","",26,"F","U","Engineer","College","","","","","","","","","",65020,2,36
+1156,"CHARLIE.BAUER@EMAIL3.COM","",26,"M","U","Engineer","College","","","","","","","","","",63106,2,24
+403,"BOBBIRD@EMAIL1.COM","",26,"M","U","Not employed","College","","","","","","","","","",37493,2,36
+417,"BOB.MOSS@EMAIL1.COM","",26,"F","U","Nursing","College","","","","","","","","","",40183,2,0
+419,"BOB.TOWB@EMAIL2.COM","",26,"M","U","Engineer","College","","","","","","","","","",32504,2,48
+517,"KEITHBIRD@EMAIL1.COM","",26,"M","U","Doctor","College","","","","","","","","","",60716,2,24
+555,"BEN.CORTEZ@EMAIL2.COM","",26,"F","U","Engineer","Post College","","","","","","","","","",64081,2,24
+90,"CHRIS.BODZ","",27,"M","U","Self Employed","College","","","","","","","","","",35301,2,24
+129,"KEITH.PITT","",27,"M","U","Scientist","College","","","","","","","","","",42256,2,24
+147,"ADRIAN.BIRD","",27,"M","U","Self Employed","High School","","","","","","","","","",31337,2,0
+524,"MILA.BODZ@EMAIL1.COM","",27,"F","U","Doctor","College","","","","","","","","","",49528,2,48
+545,"TOM.READY@EMAIL2.COM","",27,"F","U","Engineer","College","","","","","","","","","",44513,2,24
+591,"CHRISBRINK@EMAIL1.COM","",27,"M","U","Private Sector","High School","","","","","","","","","",25255,2,48
+780,"MARK.DERN@EMAIL3.COM","",27,"F","U","Accountant","College","","","","","","","","","",56934,2,36
+1073,"TREVORJACKSON@EMAIL1.COM","",27,"F","U","Accountant","College","","","","","","","","","",65843,2,48
+1090,"CHARLIE.MILLER@EMAIL2.COM","",27,"M","U","Engineer","College","","","","","","","","","",47771,2,24
+1129,"LINDSEY.BODZ@EMAIL3.COM","",27,"M","U","Engineer","College","","","","","","","","","",58451,2,24
+1147,"TREVOR.HOUSE@EMAIL3.COM","",27,"M","U","Self Employed","High School","","","","","","","","","",28988,2,0
+3,"254376","",28,"F","U","Private Sector","High School","","","","","","","","","",27569,2,36
+103,"EMMA.BAUER","",28,"F","U","Lawyer","College","","","","","","","","","",58341,2,0
+681,"ALAN.MONK@EMAIL3.COM","",28,"F","U","Engineer","College","","","","","","","","","",61714,2,12
+724,"GEORGE.MONK@EMAIL2.COM","",28,"M","U","Professor","College","","","","","","","","","",45576,2,48
+1003,"CHRIS.READY@EMAIL3.COM","",28,"F","U","Not employed","High School","","","","","","","","","",21961,2,36
+1103,"GEORGE.BAUER@EMAIL3.COM","",28,"F","U","Engineer","College","","","","","","","","","",48220,2,0
+47,"GREG.MOSS","",29,"F","U","Doctor","College","","","","","","","","","",63538,2,24
+1210,"WILLIAM.ANDERSON@EMAIL1.COM","",26,"F","U","Doctor","College","","","","","","","","","",35494,2,36
+1211,"WILLIAM.DENNER@EMAIL3.COM","",26,"M","U","Engineer","College","","","","","","","","","",56636,2,12
+1214,"HELENA.ANDERSON@EMAIL3.COM","",26,"F","U","Not employed","Post College","","","","","","","","","",48474,2,24
+1234,"ANASTASIA.HOFFMAN@EMAIL3.COM","",26,"F","U","Financial analyst","College","","","","","","","","","",21107,2,12
+73,"ROSS.MONK","",27,"F","U","Engineer","College","","","","","","","","","",34892,2,48
+575,"BOB.WEBB@EMAIL3.COM","",29,"M","U","Engineer","College","","","","","","","","","",38194,2,36
+633,"KEITH.MONK@EMAIL1.COM","",29,"F","U","Engineer","Post College","","","","","","","","","",79285,2,36
+658,"TREVORBODZ@EMAIL1.COM","",29,"F","U","Self Employed","High School","","","","","","","","","",13011,2,24
+713,"DANIEL.ALBA@EMAIL1.COM","",29,"M","U","Private Sector","High School","","","","","","","","","",28089,2,48
+736,"GREG.MONK@EMAIL3.COM","",29,"M","U","Engineer","Post College","","","","","","","","","",54256,2,24
+763,"JACOB.READY@EMAIL2.COM","",29,"M","U","Nursing","College","","","","","","","","","",43315,2,24
+815,"TREVOR.BIRD@EMAIL1.COM","",29,"M","U","Financial analyst","College","","","","","","","","","",46416,2,12
+839,"ALAN.JACKSON@EMAIL2.COM","",29,"M","U","Financial analyst","College","","","","","","","","","",67778,2,24
+983,"BEN.BARNFIELD@EMAIL1.COM","",29,"M","U","Engineer","College","","","","","","","","","",54958,2,12
+995,"CHARLIE.HOUSE@EMAIL1.COM","",29,"M","U","Scientist","College","","","","","","","","","",36699,2,48
+1047,"KEITH.HILLORY@EMAIL2.COM","",29,"F","U","Doctor","College","","","","","","","","","",22595,2,24
+1097,"CRAIG.KLOVES@EMAIL3.COM","",29,"M","U","Engineer","College","","","","","","","","","",25906,2,36
+1184,"STEVEN.MILLER@EMAIL3.COM","",29,"F","U","Private Sector","High School","","","","","","","","","",33218,2,36
+12,"4209640","",30,"F","U","Not employed","Post College","","","","","","","","","",61697,2,48
+30,"BOB.TOWB","",30,"F","U","Professor","College","","","","","","","","","",44754,2,36
+54,"JOHN.MONK","",30,"M","U","Not employed","College","","","","","","","","","",54670,2,24
+100,"CRAIG.PITT","",30,"F","U","Self Employed","College","","","","","","","","","",26590,2,12
+208,"KEITH.READY","",30,"F","U","Professor","College","","","","","","","","","",38761,2,36
+97,"CRAIG.BODZ","",29,"M","U","Professor","College","","","","","","","","","",35825,2,36
+184,"GEORGE.PITT","",29,"F","U","Private Sector","High School","","","","","","","","","",33572,2,36
+244,"CHARLIE.BIRD","",29,"F","U","Engineer","College","","","","","","","","","",32223,2,24
+477,"EMMA.BIRD@EMAIL2.COM","",29,"M","U","Doctor","Post College","","","","","","","","","",79552,2,24
+513,"JOHNBAUER@EMAIL1.COM","",29,"M","U","Not employed","High School","","","","","","","","","",31022,2,24
+1012,"EMMA.MILLER@EMAIL3.COM","",30,"F","U","Not employed","Post College","","","","","","","","","",35128,2,48
+1030,"GREGORYCORTEZ@EMAIL1.COM","",30,"F","U","Lawyer","College","","","","","","","","","",44971,2,36
+1054,"MICHAEL.BRINK@EMAIL2.COM","",30,"M","U","Engineer","College","","","","","","","","","",52581,2,24
+1100,"DUSTIN.HOFFMAN@EMAIL1.COM","",30,"F","U","Not employed","College","","","","","","","","","",49228,2,12
+1208,"TREVOR.HILLORY@EMAIL3.COM","",30,"F","U","Engineer","College","","","","","","","","","",28494,2,36
+1231,"JESSICA.ANDERSON@EMAIL3.COM","",30,"M","U","Scientist","College","","","","","","","","","",60953,2,0
+52,"JOHN.BIRD","",31,"M","U","Doctor","Post College","","","","","","","","","",67756,2,36
+197,"JACOB.BAUER","",31,"M","U","Doctor","College","","","","","","","","","",30299,2,12
+708,"CRAIG.BRINK@EMAIL1.COM","",31,"F","U","Private Sector","High School","","","","","","","","","",38256,2,36
+1052,"MARK.LARTER@EMAIL3.COM","",31,"M","U","Not employed","Post College","","","","","","","","","",84993,2,36
+1197,"CHARLIE.CORTEZ@EMAIL3.COM","",31,"M","U","Lawyer","College","","","","","","","","","",23409,2,12
+13,"4245037","",32,"M","U","Engineer","Post College","","","","","","","","","",51973,2,0
+25,"BOB.BIRD","",32,"F","U","Nursing","College","","","","","","","","","",27830,2,0
+581,"CHRIS.BODZ@EMAIL1.COM","",32,"M","U","Financial analyst","College","","","","","","","","","",56143,2,24
+600,"CRAIG.MOSS@EMAIL1.COM","",32,"F","U","Doctor","College","","","","","","","","","",28053,2,12
+739,"GREG.TOWB@EMAIL3.COM","",32,"M","U","Professor","College","","","","","","","","","",27633,2,36
+816,"TREVOR.BODZ@EMAIL1.COM","",32,"M","U","Professor","College","","","","","","","","","",46107,2,24
+1013,"GEORGE.BIRD@EMAIL3.COM","",32,"M","U","Self Employed","Post College","","","","","","","","","",73853,2,0
+231,"TREVOR.TOWB","",30,"M","U","Self Employed","College","","","","","","","","","",36830,2,0
+590,"CHRISBAUER@EMAIL1.COM","",30,"M","U","Nursing","Post College","","","","","","","","","",85003,2,36
+778,"KEITHCORTEZ@EMAIL1.COM","",30,"F","U","Lawyer","College","","","","","","","","","",36620,2,48
+790,"OWEN.CORTEZ@EMAIL2.COM","",30,"M","U","Unemployed","High School","","","","","","","","","",24044,2,36
+988,"BILLY.JACKSON@EMAIL1.COM","",30,"F","U","Pharmacist","College","","","","","","","","","",51363,2,48
+279,"JESSICA.WEBB","",33,"M","U","Private Sector","High School","","","","","","","","","",15408,2,12
+465,"BRED.POLO@EMAIL1.COM","",33,"F","U","Pharmacist","College","","","","","","","","","",62439,2,48
+476,"EMMA.BIRD@EMAIL1.COM","",33,"M","U","Doctor","College","","","","","","","","","",62505,2,24
+520,"KEITHMOSS@EMAIL1.COM","",33,"F","U","Nursing","College","","","","","","","","","",44301,2,0
+558,"BILLY.BIRD@EMAIL2.COM","",33,"F","U","Private Sector","High School","","","","","","","","","",31473,2,12
+604,"CRAIG.TOWB@EMAIL2.COM","",33,"M","U","Engineer","College","","","","","","","","","",34311,2,0
+635,"KEITH.MOSS@EMAIL2.COM","",33,"F","U","Not employed","High School","","","","","","","","","",19843,2,0
+691,"BOB.JACKSON@EMAIL1.COM","",33,"M","U","Private Sector","High School","","","","","","","","","",30240,2,36
+735,"GREG.LARTER@EMAIL1.COM","",33,"M","U","Not employed","High School","","","","","","","","","",19691,2,24
+802,"ROSS.PITT@EMAIL3.COM","",33,"M","U","Doctor","College","","","","","","","","","",36780,2,36
+829,"ABRINK@EMAIL4.COM","",33,"M","U","Pharmacist","Post College","","","","","","","","","",62309,2,24
+884,"DUSTIN.KODJO@EMAIL1.COM","",33,"F","U","Unemployed","High School","","","","","","","","","",27749,2,48
+1045,"JESSICA.READY@EMAIL2.COM","",33,"F","U","Professor","College","","","","","","","","","",67228,2,24
+1202,"GEORGE.HOFFMAN@EMAIL3.COM","",33,"F","U","Nursing","College","","","","","","","","","",70328,2,24
+1229,"DUSTIN.BARNFIELD@EMAIL3.COM","",33,"M","U","Not employed","College","","","","","","","","","",42250,2,24
+1235,"DSVARYTSEVYCH@EMAIL4.COM","",33,"F","U","Pharmacist","College","","","","","","","","","",45957,2,12
+351,"TREVOR.KLOVES","",34,"F","U","Engineer","Post College","","","","","","","","","",54431,2,36
+510,"JOHN.PITT@EMAIL1.COM","",34,"M","U","Accountant","Post College","","","","","","","","","",88207,2,24
+1025,"GREGORY.BRINK@EMAIL2.COM","",32,"F","U","Doctor","College","","","","","","","","","",53604,2,0
+45,"GREG.BODZ","",33,"F","U","Scientist","College","","","","","","","","","",63147,2,24
+202,"JOHN.KLOVES","",33,"F","U","Financial analyst","College","","","","","","","","","",66537,2,24
+229,"TREVOR.MOSS","",33,"M","U","Not employed","College","","","","","","","","","",32967,2,24
+235,"ADRIAN.READY","",33,"F","U","Lawyer","College","","","","","","","","","",72942,2,12
+990,"BOB.JACKSON@EMAIL3.COM","",35,"M","U","Financial analyst","Post College","","","","","","","","","",62330,2,0
+169,"CHRIS.READY","",36,"F","U","Professor","Post College","","","","","","","","","",88172,2,24
+170,"CRAIG.BAUER","",36,"M","U","Not employed","Post College","","","","","","","","","",79047,2,48
+523,"MARK.BODZ@EMAIL1.COM","",36,"M","U","Financial analyst","College","","","","","","","","","",75782,2,24
+1169,"HELENA.ANDERSON@EMAIL1.COM","",36,"F","U","Scientist","Post College","","","","","","","","","",53461,2,24
+1170,"JACOB.JACKSON@EMAIL3.COM","",36,"M","U","Engineer","Post College","","","","","","","","","",69081,2,48
+150,"ADRIAN.MONK","",37,"M","U","Engineer","Post College","","","","","","","","","",90642,2,0
+1150,"ADRIAN.CORTEZ@EMAIL3.COM","",37,"M","U","Engineer","Post College","","","","","","","","","",73676,2,0
+154,"ADRIAN.TOWB","",38,"F","U","Private Sector","High School","","","","","","","","","",34966,2,48
+1154,"BILLY.JACKSON@EMAIL3.COM","",38,"F","U","Self Employed","High School","","","","","","","","","",31957,2,48
+915,"JACOB.DENNER@EMAIL1.COM","",39,"F","U","Nursing","College","","","","","","","","","",33459,2,24
+661,"TREVORPITT@EMAIL1.COM","",40,"M","U","Engineer","College","","","","","","","","","",79727,2,36
+31,"BOB.WEBB","",44,"F","U","Private Sector","High School","","","","","","","","","",39802,2,48
+1031,"HARVEY.ALBA@EMAIL3.COM","",44,"F","U","Private Sector","High School","","","","","","","","","",32770,2,48
+198,"JACOB.BRINK","",59,"M","U","Professor","College","","","","","","","","","",90861,2,24
+1198,"CHRIS.ANDERSON@EMAIL3.COM","",59,"M","U","Self Employed","College","","","","","","","","","",59115,2,24
+116,"JACOB.PITT","",24,"M","U","Professor","College","","","","","","","","","",60265,3,24
+837,"ADRIANCORTEZ@EMAIL1.COM","",24,"F","U","Lawyer","College","","","","","","","","","",48517,3,36
+762,"JACOB.READY@EMAIL1.COM","",34,"M","U","Nursing","College","","","","","","","","","",42776,2,36
+503,"JOHN.BIRD@EMAIL2.COM","",35,"F","U","Self Employed","College","","","","","","","","","",38443,2,24
+601,"CRAIG.PITT@EMAIL1.COM","",35,"M","U","Engineer","College","","","","","","","","","",67593,2,48
+656,"TOM.TOWB@EMAIL3.COM","",35,"F","U","Engineer","Post College","","","","","","","","","",64430,2,36
+768,"JOHN.DENNER@EMAIL2.COM","",35,"F","U","Self Employed","Post College","","","","","","","","","",70913,2,36
+879,"CRAIG.MONK@EMAIL3.COM","",25,"F","U","Financial analyst","College","","","","","","","","","",42027,3,36
+973,"WILLIAM.MONK@EMAIL1.COM","",25,"M","U","Engineer","Post College","","","","","","","","","",69805,3,24
+989,"BILLY.READY@EMAIL3.COM","",25,"F","U","Lawyer","Post College","","","","","","","","","",54399,3,36
+998,"CHARLIE.READY@EMAIL1.COM","",25,"M","U","Professor","Post College","","","","","","","","","",56725,3,36
+1024,"GREGORY.BAUER@EMAIL1.COM","",25,"M","U","Self Employed","College","","","","","","","","","",42979,3,0
+1082,"ANASTASIA.MOSS@EMAIL1.COM","",25,"F","U","Not employed","Post College","","","","","","","","","",68577,3,48
+145,"TOM.LARTER","",26,"M","U","Engineer","Post College","","","","","","","","","",41250,3,36
+287,"MICHAEL.BIRD","",26,"M","U","Financial analyst","Post College","","","","","","","","","",74158,3,36
+291,"MICHAEL.PITT","",26,"M","U","Financial analyst","College","","","","","","","","","",38625,3,36
+380,"WILLIAM.KLOVES","",26,"F","U","Engineer","Post College","","","","","","","","","",62134,3,48
+392,"STUART.ANDERSON","",26,"F","U","Financial analyst","Post College","","","","","","","","","",35168,3,0
+511,"JOHN.TOWB@EMAIL1.COM","",26,"F","U","Not employed","College","","","","","","","","","",17793,3,36
+512,"JOHN.WEBB@EMAIL1.COM","",26,"F","U","Engineer","College","","","","","","","","","",34978,3,36
+782,"MICHAELBIRD@EMAIL1.COM","",26,"F","U","Professor","Post College","","","","","","","","","",58470,3,12
+974,"WILLIAM.MOSS@EMAIL1.COM","",26,"M","U","Unemployed","High School","","","","","","","","","",24866,3,12
+976,"ADRIAN.CORTEZ@EMAIL1.COM","",26,"M","U","Self Employed","High School","","","","","","","","","",20760,3,24
+1145,"TERRI.ANDERSON@EMAIL1.COM","",26,"M","U","Engineer","Post College","","","","","","","","","",77985,3,36
+72,"ROSS.BODZ","",27,"F","U","Financial analyst","College","","","","","","","","","",31749,3,12
+1116,"GREGORY.MILLER@EMAIL1.COM","",24,"M","U","Professor","College","","","","","","","","","",20396,3,24
+24,"BEN.DERN","",25,"M","U","Financial analyst","College","","","","","","","","","",50174,3,0
+82,"BILLY.BODZ","",25,"F","U","Professor","Post College","","","","","","","","","",44517,3,48
+645,"MILA.BRINK@EMAIL2.COM","",25,"M","U","Private Sector","High School","","","","","","","","","",30663,3,24
+878,"CRAIG.KLOVES@EMAIL1.COM","",25,"F","U","Professor","College","","","","","","","","","",31620,3,36
+101,"CRAIG.TOWB","",29,"F","U","Private Sector","High School","","","","","","","","","",15111,3,48
+132,"MARK.BRINK","",29,"M","U","Self Employed","High School","","","","","","","","","",17413,3,0
+255,"EMMA.ROBERTS","",29,"F","U","Pharmacist","College","","","","","","","","","",58513,3,24
+294,"MILA.JACKSON","",29,"M","U","Self Employed","Post College","","","","","","","","","",35971,3,48
+480,"EMMA.PITT@EMAIL1.COM","",29,"M","U","Financial analyst","College","","","","","","","","","",30946,3,48
+639,"KEITHBAUER@EMAIL1.COM","",29,"F","U","Engineer","College","","","","","","","","","",47759,3,0
+709,"CRAIG.BRINK@EMAIL2.COM","",29,"M","U","Lawyer","Post College","","","","","","","","","",48807,3,0
+799,"ROSS.CORTEZ@EMAIL1.COM","",29,"F","U","Pharmacist","Post College","","","","","","","","","",78881,3,36
+883,"CRAIGJACKSON@EMAIL1.COM","",29,"F","U","Private Sector","High School","","","","","","","","","",37195,3,0
+912,"GREGORYREADY@EMAIL1.COM","",29,"M","U","Self Employed","College","","","","","","","","","",35732,3,12
+918,"JACOB.PITT@EMAIL3.COM","",29,"M","U","Self Employed","Post College","","","","","","","","","",51972,3,24
+977,"ADRIAN.CORTEZ@EMAIL2.COM","",29,"F","U","Scientist","College","","","","","","","","","",45342,3,36
+1101,"DUSTIN.HOUSE@EMAIL3.COM","",29,"F","U","Not employed","High School","","","","","","","","","",35087,3,48
+1132,"MICHAEL.BODZ@EMAIL3.COM","",29,"M","U","Private Sector","High School","","","","","","","","","",16122,3,0
+114,"JACOB.MONK","",30,"F","U","Accountant","College","","","","","","","","","",66166,3,36
+117,"JACOB.TOWB","",30,"M","U","Not employed","High School","","","","","","","","","",21642,3,36
+963,"STUART.READY@EMAIL2.COM","",30,"M","U","Accountant","College","","","","","","","","","",62371,3,36
+1114,"GREGORY.CORTEZ@EMAIL1.COM","",30,"F","U","Financial analyst","College","","","","","","","","","",22715,3,36
+680,"ALAN.MILLER@EMAIL2.COM","",27,"F","U","Lawyer","Post College","","","","","","","","","",51144,3,0
+1072,"TREVOR.MOSS@EMAIL3.COM","",27,"F","U","Engineer","College","","","","","","","","","",46522,3,12
+571,"BOB.LARTER@EMAIL1.COM","",28,"F","U","Self Employed","Post College","","","","","","","","","",47905,3,48
+900,"GREGORY.BODZ@EMAIL2.COM","",28,"M","U","Not employed","High School","","","","","","","","","",24795,3,36
+944,"MICHAEL.BIRD@EMAIL2.COM","",28,"F","U","Professor","Post College","","","","","","","","","",68800,3,24
+315,"CHARLIE.BAUER","",31,"M","U","Not employed","Post College","","","","","","","","","",63984,3,36
+316,"CHARLIE.BRINK","",31,"M","U","Not employed","College","","","","","","","","","",27971,3,36
+372,"JESSICA.MILLER","",31,"F","U","Self Employed","Post College","","","","","","","","","",60126,3,24
+463,"BOBCORTEZ@EMAIL1.COM","",31,"M","U","Pharmacist","College","","","","","","","","","",58499,3,0
+861,"CHARLIE.MONK@EMAIL2.COM","",31,"F","U","Engineer","College","","","","","","","","","",44187,3,24
+1110,"GEORGE.STILLER@EMAIL2.COM","",31,"F","U","Not employed","College","","","","","","","","","",42711,3,48
+1113,"GREGORY.BODZ@EMAIL3.COM","",31,"M","U","Self Employed","College","","","","","","","","","",51271,3,36
+1126,"JOHN.BARNFIELD@EMAIL1.COM","",31,"M","U","Engineer","College","","","","","","","","","",56616,3,36
+141,"ROSS.KODJO","",32,"M","U","Professor","College","","","","","","","","","",51706,3,24
+188,"GREG.DENNER","",32,"F","U","Financial analyst","College","","","","","","","","","",49179,3,12
+647,"RICH.HOUSE@EMAIL2.COM","",32,"M","U","Engineer","College","","","","","","","","","",60413,3,36
+908,"GREGORY.WEBB@EMAIL2.COM","",32,"F","U","Financial analyst","Post College","","","","","","","","","",63834,3,24
+982,"ALAN.ANDERSON@EMAIL1.COM","",32,"F","U","Not employed","Post College","","","","","","","","","",76852,3,48
+1141,"ROSS.HOFFMAN@EMAIL3.COM","",32,"M","U","Doctor","College","","","","","","","","","",32762,3,24
+1188,"WILLIAM.HOUSE@EMAIL3.COM","",32,"F","U","Financial analyst","College","","","","","","","","","",42833,3,12
+112,"JACOB.BODZ","",33,"F","U","Private Sector","High School","","","","","","","","","",20609,3,36
+118,"JACOB.WEBB","",33,"M","U","Self Employed","College","","","","","","","","","",47274,3,48
+138,"ROSS.BAUER","",33,"F","U","Financial analyst","College","","","","","","","","","",72675,3,24
+1117,"GREGORY.MOSS@EMAIL3.COM","",30,"M","U","Private Sector","High School","","","","","","","","","",13988,3,36
+110,"JACOB.ALBA","",31,"F","U","Scientist","College","","","","","","","","","",70714,3,48
+113,"JACOB.DERN","",31,"M","U","Accountant","College","","","","","","","","","",28414,3,36
+126,"KEITH.BODZ","",31,"M","U","Nursing","College","","","","","","","","","",70025,3,36
+276,"JASON.CORTEZ","",31,"F","U","Engineer","College","","","","","","","","","",29635,3,24
+133,"MARK.HOUSE","",34,"F","U","Accountant","College","","","","","","","","","",62028,3,24
+1133,"MICHAEL.KLOVES@EMAIL2.COM","",34,"F","U","Self Employed","College","","","","","","","","","",63924,3,24
+136,"OWEN.KODJO","",35,"F","U","Self Employed","High School","","","","","","","","","",18253,3,0
+140,"ROSS.HOUSE","",35,"M","U","Financial analyst","Post College","","","","","","","","","",55964,3,36
+178,"DUSTIN.MOSS","",35,"M","U","Pharmacist","College","","","","","","","","","",71600,3,12
+975,"WILLIAM.POLO@EMAIL2.COM","",35,"F","U","Not employed","High School","","","","","","","","","",34030,3,12
+996,"CHARLIE.HOUSE@EMAIL2.COM","",35,"M","U","Engineer","Post College","","","","","","","","","",62646,3,24
+1136,"MICHAELJACKSON@EMAIL1.COM","",35,"F","U","Not employed","High School","","","","","","","","","",35848,3,0
+1140,"ROSS.HILLORY@EMAIL3.COM","",35,"M","U","Doctor","Post College","","","","","","","","","",51250,3,36
+1178,"MICHAEL.HOUSE@EMAIL3.COM","",35,"M","U","Self Employed","College","","","","","","","","","",43037,3,12
+144,"TOM.CORTEZ","",36,"M","U","Engineer","Post College","","","","","","","","","",79619,3,12
+916,"JACOB.DERN@EMAIL3.COM","",36,"M","U","Private Sector","High School","","","","","","","","","",19444,3,36
+1144,"STUART.JACKSON@EMAIL2.COM","",36,"M","U","Nursing","Post College","","","","","","","","","",79458,3,12
+200,"JACOB.READY","",37,"F","U","Engineer","Post College","","","","","","","","","",71588,3,12
+1200,"DUSTIN.BARNFIELD@EMAIL2.COM","",37,"F","U","Doctor","Post College","","","","","","","","","",93862,3,12
+587,"CHRIS.TOWB@EMAIL1.COM","",38,"M","U","Financial analyst","College","","","","","","","","","",71801,3,24
+588,"CHRIS.TOWB@EMAIL2.COM","",38,"M","U","Scientist","College","","","","","","","","","",51830,3,24
+120,"JOHN.BAUER","",40,"F","U","Engineer","Post College","","","","","","","","","",58541,3,36
+560,"BILLY.MONK@EMAIL1.COM","",33,"F","U","Accountant","College","","","","","","","","","",63097,3,24
+964,"TERRI.CORTEZ@EMAIL2.COM","",33,"M","U","Not employed","College","","","","","","","","","",70564,3,36
+1112,"GREGORY.BIRD@EMAIL3.COM","",33,"F","U","Private Sector","High School","","","","","","","","","",34035,3,36
+1118,"GREGORY.PITT@EMAIL3.COM","",33,"M","U","Financial analyst","College","","","","","","","","","",66786,3,48
+1138,"RICH.BARNFIELD@EMAIL2.COM","",33,"F","U","Not employed","College","","","","","","","","","",58682,3,24
+1120,"HELENA.HOUSE@EMAIL3.COM","",40,"F","U","Doctor","Post College","","","","","","","","","",97072,3,36
+836,"ADRIAN.READY@EMAIL2.COM","",46,"F","U","Not employed","College","","","","","","","","","",65777,3,36
