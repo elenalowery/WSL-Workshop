@@ -1,4 +1,4 @@
-# Watson Studio Local Workshop (for version 1.2.2)
+# Watson Studio Local Workshop (for version 1.2.3)
 In this workshop you will learn how to develop and deploy applications in Watson Studio Local (WSL). The workshop has been divided into several stand-alone parts for those who are interested in a certain development tool or deployment task. 
 
 ## About this repository
